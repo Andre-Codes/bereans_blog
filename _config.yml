@@ -1,0 +1,13 @@
+title: Berean's Blog
+description: Theology of the Kingdom of God
+baseurl: ""
+url: "https://www.bereansblog.com"
+theme: minima
+header_pages:
+  - index.md
+  - about.md
+  - tags.md
+  - categories.md
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+exclude: [Gemfile, Gemfile.lock]

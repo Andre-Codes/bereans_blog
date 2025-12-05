@@ -1,0 +1,19 @@
+{
+	"name": "Jekyll Site",
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+	"features": {
+		"ghcr.io/devcontainers/features/git:1": {}
+	},
+	"forwardPorts": [
+		4000
+	],
+	"postCreateCommand": "bundle install",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"shengchen.vscode-checkpoints",
+				"streetsidesoftware.code-spell-checker"
+			]
+		}
+	}
+}
