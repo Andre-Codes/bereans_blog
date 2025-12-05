@@ -10,4 +10,4 @@ header_pages:
   - categories.md
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, vendor]

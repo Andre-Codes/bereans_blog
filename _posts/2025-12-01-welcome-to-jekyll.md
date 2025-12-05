@@ -3,7 +3,7 @@ layout: post
 title:  "The Ultimate Markdown Showcase"
 date:   2025-12-01 12:00:00 -0500
 categories: demo markdown
-image: /assets/icon.png
+image: /assets/moses_snake.webp
 ---
 Welcome to a demonstration of what is possible with **Markdown** in Jekyll. This post serves as a cheat sheet and a showcase of typography, code formatting, and advanced features.
 
