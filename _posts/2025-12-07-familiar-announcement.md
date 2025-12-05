@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Familiar Announcement: Hearing the Kingdom Through First-Century Ears"
-date:   2025-12-05 12:00:00 -0500
+date:   2025-12-07 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom]
 tags: [Prop 19, John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
 image: /assets/post_images/john_baptist_announcement.png
@@ -19,7 +19,7 @@ This post works closely with George N. H. Peters’ nineteenth proposition:
 Peters points out a striking feature of the early chapters of the New Testament: the preaching of the kingdom comes to the people *without a single word of definition.*
 
 > “The preaching of the kingdom, its simple announcement, without the least attempt to explain its meaning or nature… presupposed that it was a subject familiar to them. John the Baptist, Jesus, and the Seventy all proclaimed the kingdom in a way, without definition or explanation, that indicated their hearers were acquainted with its meaning.”
-> —Peters, Prop. 19 (Intro)
+> Prop. 19 (Intro)
 
 If this observation is true—and it is plainly seen on the surface of the text—it becomes a crucial piece of evidence for understanding Jewish expectations and the truthfulness of a literal restoration of Israel under the reign of the Messiah.
 

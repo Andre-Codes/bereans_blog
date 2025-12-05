@@ -4,9 +4,10 @@ title:  "Rediscovering the Kingdom: Introducing a Study Through George N. H. Pet
 date:   2025-12-05 12:00:00 -0500
 categories: [Introduction, The Theocratic Kingdom]
 tags: [George N. H. Peters, Kingdom of God, Premillennialism, Systematic Theology]
+image: /assets/post_images/intro.png
 ---
 
-For more than a century, George N. H. Peters’ *The Theocratic Kingdom* has stood as one of the most exhaustive, meticulously argued works ever written on the doctrine of the Kingdom of God. Spanning three volumes, thousands of scripture references, and hundreds of propositions, Peters undertakes something no author before or after has attempted: a systematic, historical, grammatical case that the Bible’s central theme is the coming, literal, earthly Kingdom of Christ—the long-promised reign of the Son of David.
+For more than a century, George N. H. Peters’ *The Theocratic Kingdom* has stood as one of the most exhaustive, meticulously argued works ever written on the doctrine of the <span class="kingdom-gold">Kingdom of God</span>. Spanning three volumes, thousands of scripture references, and hundreds of propositions, Peters undertakes something no author before or after has attempted: a systematic, historical, grammatical case that the Bible’s central theme is the coming, literal, earthly <span class="kingdom-gold">Kingdom of Christ</span>—the long-promised reign of the <span class="kingdom-gold">Son of David</span>.
 
 Yet despite its scope and influence, *The Theocratic Kingdom* is rarely read today. Its length is formidable. Its nineteenth-century style and form can feel dense. Its structure—built on propositions, observations, and extended historical citations—can be difficult for modern readers to navigate. And its core argument runs against the prevailing assumptions of much contemporary theology.
 
@@ -19,7 +20,7 @@ My goal is simple:
 
 ## Why Start With *Peters*?
 
-Peters’ project is breathtakingly ambitious. He argues that the Kingdom of God is not a peripheral biblical topic but the unifying center of Scripture—the “golden thread” that runs from Genesis to Revelation. Every covenant, every prophecy, every promise to Israel, every hope of redemption, every expectation of the apostles ultimately converges on the same theme: the establishment of a real, political, earthly Kingdom ruled by the Messiah on David’s throne.
+Peters’ project is breathtakingly ambitious. He argues that the <span class="kingdom-gold">Kingdom of God</span> is not a peripheral biblical topic but the unifying center of Scripture—the “golden thread” that runs from Genesis to Revelation. Every covenant, every prophecy, every promise to Israel, every hope of redemption, every expectation of the apostles ultimately converges on the same theme: the establishment of a real, political, earthly <span class="kingdom-gold">Kingdom</span> ruled by the <span class="kingdom-gold">Messiah</span> on <span class="kingdom-gold">David’s throne</span>.
 
 For Peters, this is not speculation. It is simply what the text says, taken in its normal meaning.
 
@@ -61,12 +62,12 @@ The goal is not merely to repeat Peters, but to *unfold* him—to translate his 
 
 ## Why the Kingdom Matters Now
 
-Peters wrote in the 19th century, but his concerns feel strangely contemporary. He saw a growing tendency in the church to spiritualize, redefine, or minimize the biblical doctrine of the Kingdom. He watched critics use these reinterpretations as leverage against the reliability of Scripture. He understood that when the plain sense of God’s promises is abandoned, not only Israel’s hope suffers—*the entire coherence of Scripture begins to unravel.*
+Peters wrote in the 19th century, but his concerns feel strangely contemporary. He saw a growing tendency in the church to spiritualize, redefine, or minimize the biblical doctrine of the <span class="kingdom-gold">Kingdom</span>. He watched critics use these reinterpretations as leverage against the reliability of Scripture. He understood that when the plain sense of God’s promises is abandoned, not only Israel’s hope suffers—*the entire coherence of Scripture begins to unravel.*
 
-For Peters, the Kingdom is not an optional doctrine.
+For Peters, the <span class="kingdom-gold">Kingdom</span> is not an optional doctrine.
 It is the Bible’s backbone.
 
-If we misunderstand the Kingdom, we misunderstand:
+If we misunderstand the <span class="kingdom-gold">Kingdom</span>, we misunderstand:
 
 * prophecy
 * the covenants
@@ -87,7 +88,7 @@ We begin not with novelty, but with an ancient expectation.
 
 In the posts ahead, we will explore that expectation, trace its development, examine its challenges, and allow Peters to guide us through Scripture with a steady literal–grammatical hand.
 
-The Kingdom is not fog.
+The <span class="kingdom-gold">Kingdom</span> is not fog.
 It is not metaphor.
 It is not spiritual wallpaper.
 
