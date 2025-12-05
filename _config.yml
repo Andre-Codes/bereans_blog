@@ -5,6 +5,7 @@ url: "https://www.bereansblog.com"
 theme: minima
 header_pages:
   - index.md
+  - blog.md
   - about.md
   - tags.md
   - categories.md
