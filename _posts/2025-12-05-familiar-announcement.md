@@ -11,7 +11,10 @@ To understand what the announcement of the kingdom actually meant—and why it l
 
 This post works closely with George N. H. Peters’ nineteenth proposition:
 
-**Prop. 19 — “The New Testament begins the announcement of the kingdom in terms expressive of its being previously well known.”**
+<div class="proposition">
+  <span class="prop-title">Prop. 19</span>
+  “The New Testament begins the announcement of the kingdom in terms expressive of its being previously well known.”
+</div>
 
 Peters points out a striking feature of the early chapters of the New Testament: the preaching of the kingdom comes to the people *without a single word of definition.*
 
@@ -24,9 +27,9 @@ If this observation is true—and it is plainly seen on the surface of the text�
 
 # **The Announcement Itself**
 
-> **“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying,
-> ‘Repent, for the kingdom of heaven is at hand.’”**
-> —Matthew 3:1–2
+> <span class="scripture">**“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying,
+> ‘Repent, for the kingdom of heaven is at hand.’”**</span>
+> —<span class="scripture">Matthew 3:1–2</span>
 
 The simplicity of this announcement is easy to glide over. Many words and phrases in Scripture are dismissed because they do not fit modern interpretive frameworks. But here the simplicity is the point: John assumes his hearers already know exactly what “the kingdom” means.
 
