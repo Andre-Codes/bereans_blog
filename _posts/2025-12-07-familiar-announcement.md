@@ -4,7 +4,7 @@ title:  "A Familiar Announcement: Hearing the Kingdom Through First-Century Ears
 date:   2025-12-07 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom]
 tags: [Prop 19, John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
-image: /assets/post_images/john_baptist_announcement.png
+image: /assets/post_images/john_baptist_announcement_1.png
 ---
 
 To understand what the announcement of the kingdom actually meant—and why it landed with such force—we need to step into the world of a first-century Jew. Before we impose later theological systems, the task is simple: *hear the announcement the way they heard it.*
@@ -16,7 +16,7 @@ This post works closely with George N. H. Peters’ nineteenth proposition:
   “The New Testament begins the announcement of the kingdom in terms expressive of its being previously well known.”
 </div>
 
-Peters points out a striking feature of the early chapters of the New Testament: the preaching of the kingdom comes to the people *without a single word of definition.*
+Peters points out a striking feature of the early chapters of the New Testament: the preaching of the kingdom comes to the people <span class="kingdom-gold">without a single word of definition.</span>
 
 > “The preaching of the kingdom, its simple announcement, without the least attempt to explain its meaning or nature… presupposed that it was a subject familiar to them. John the Baptist, Jesus, and the Seventy all proclaimed the kingdom in a way, without definition or explanation, that indicated their hearers were acquainted with its meaning.”
 > Prop. 19 (Intro)
@@ -31,7 +31,7 @@ If this observation is true—and it is plainly seen on the surface of the text�
 > ‘Repent, for the kingdom of heaven is at hand.’”**</span>
 > —<span class="scripture">Matthew 3:1–2</span>
 
-The simplicity of this announcement is easy to glide over. Many words and phrases in Scripture are dismissed because they do not fit modern interpretive frameworks. But here the simplicity is the point: John assumes his hearers already know exactly what “the kingdom” means.
+The simplicity of this announcement is easy to glide over. Many words and phrases in Scripture are dismissed because they do not fit modern interpretive frameworks. But here the simplicity is the point: <span class="kingdom-gold">John assumes his hearers already know exactly what “the kingdom” means.</span>
 
 Theologians across traditions acknowledge this but often treat it as unimportant—or worse, attempt to explain it away. Peters notices that some simply pass the issue in silence, while others produce explanations that unintentionally insult the intelligence of the age, undermine the believers living then, and disturb confidence in the Word itself.
 
@@ -73,7 +73,7 @@ Some critics went so far as to say:
 Others argued that the disciples and early church simply absorbed “Jewish forms” and that the New Testament contains deposits of erroneous ancient expectations.
 
 Peters summarizes the problem pointedly:
-If the kingdom is not what the prophets described—if Jesus preached something fundamentally different—then the critics look painfully reasonable.
+<span class="kingdom-gold">If the kingdom is not what the prophets described—if Jesus preached something fundamentally different—then the critics look painfully reasonable.</span>
 
 ---
 

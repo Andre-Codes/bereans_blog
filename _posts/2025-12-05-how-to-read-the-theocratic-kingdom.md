@@ -15,7 +15,7 @@ To make the most of this study, it helps to understand how his work is organized
 
 ## A Work Built on “Propositions”
 
-The backbone of Peters’ work is a series of **206 propositions**—statements that assert a specific truth about the <span class="kingdom-gold">Kingdom of God</span>. Each proposition functions like a foundational stone. When placed together, they form an unbroken chain of argument from Genesis to Revelation.
+The backbone of Peters’ work is a series of **206 propositions**—statements that assert a specific truth about the Kingdom of God. <span class="kingdom-gold">Each proposition functions like a foundational stone.</span> When placed together, they form an unbroken chain of argument from Genesis to Revelation.
 
 A typical proposition looks something like:
 
@@ -74,7 +74,7 @@ One of the reasons Peters’ work remains unparalleled is the sheer density of b
 * the immovability of God’s covenants
 * the consistent literal expectation held by Jews and early Christians
 
-The effect is cumulative: readers begin to feel the weight of Scripture’s own testimony bearing down on a single conclusion—the Kingdom is real, literal, future, and rooted in the promises made to Israel.
+The effect is cumulative: readers begin to feel the weight of Scripture’s own testimony bearing down on a single conclusion—<span class="kingdom-gold">the Kingdom is real, literal, future, and rooted in the promises made to Israel.</span>
 
 ---
 
@@ -95,7 +95,7 @@ He uses history to demonstrate two things:
 1. **What the church used to believe** (and often abandoned).
 2. **How misinterpretations grew over time** and fueled modern spiritualizing trends.
 
-History, for Peters, is evidence—not revelation.
+<span class="kingdom-gold">History, for Peters, is evidence—not revelation.</span>
 
 ---
 
@@ -159,6 +159,6 @@ Understanding the structure of *The Theocratic Kingdom* is more than a matter of
 
 As we move forward, the propositions will begin to unfold this thread with growing clarity.
 
-Next, we will explore why Peters believed the <span class="kingdom-gold">Kingdom</span> is not simply one doctrine among many, but the unifying theme of the entire Bible—a claim that, if true, reshapes how we read Scripture from the ground up.
+Next, we will explore why Peters believed the Kingdom is not simply one doctrine among many, but the unifying theme of the entire Bible—a claim that, if true, reshapes how we read Scripture from the ground up.
 
 ---
