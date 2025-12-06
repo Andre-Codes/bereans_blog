@@ -11,7 +11,7 @@ image: /assets/post_images/john_baptist_announcement_3.png
 
 *Series: The Kingdom Announcement • Part 3*
 
-If the first post entered the world of the first-century Jew to hear the announcement, and the second examined the controversy created by later reinterpretations, this third post turns to the positive theological reality: **what the kingdom meant to the people who heard it first.**
+If the first post entered the world of the first-century Jew to hear the announcement, and the second examined the controversy created by later reinterpretations, this third post turns to the positive theological reality: <span class="kingdom-gold">what the kingdom meant to the people who heard it first.</span>
 
 John’s audience understood the kingdom because they understood the Old Testament. Jesus’ disciples understood the kingdom because He preached it in the same terms. Mary, Zechariah, the prophets, the apostles, and the earliest church all shared a unified expectation—one rooted in covenant, prophecy, and the literal promises of God.
 
@@ -29,15 +29,19 @@ This is the unavoidable starting point.
 
 George Peters explains in Proposition 22 that the language Jesus and John employed was **not new**, not reinterpreted, and not adjusted. It was the full, inherited vocabulary of Old Testament expectation:
 
-> “First is to be found the well-known expectations of the Jews based on a literal interpretation of the prophecies; next, these are summed up in the expressive phrases ‘Kingdom of heaven,’ etc., taken, as numerous writers inform us, from Daniel 7:13-14; finally, John, Jesus, and others take the very phraseology adopted by the Jews to designate a certain definite Kingdom, and use it *without the slightest intimation or explanation of a change in its meaning;* and this employment of the phrases, with a correspondent Jewish meaning attached, continued… at least down (Acts 1:6) to the ascension of Christ.”
-> *(Prop. 22, Obs. 1)*
+<div class="peters-quote" markdown="1">
+“First is to be found the well-known expectations of the Jews based on a literal interpretation of the prophecies; next, these are summed up in the expressive phrases ‘Kingdom of heaven,’ etc., taken, as numerous writers inform us, from Daniel 7:13-14; finally, John, Jesus, and others take the very phraseology adopted by the Jews to designate a certain definite Kingdom, and use it **without the slightest intimation or explanation of a change in its meaning;** and this employment of the phrases, with a correspondent Jewish meaning attached, continued… at least down (Acts 1:6) to the ascension of Christ.”
+<br>— <em>Prop. 22, Obs. 1</em>
+</div>
 
 Peters then cites even those who **reject** literal interpretation but still admit the force of the language:
 
-> “There is reason to believe not only that the expression ‘Kingdom of heaven,’ as used in the N. T., was employed as synonymous with ‘Kingdom of God,’ as referred to in the Old Testament, but that the former expression had become common among the Jews of our Lord’s time for denoting the state of things expected to be brought in by the Messiah. The mere use of the expression as it first occurs in Matthew, uttered apparently by John the Baptist and our Lord Himself, *without a note of explanation,* as if all perfectly understood what was meant by it, seems alone conclusive evidence of this.”
-> *(Prop. 22, Intro)*
+<div class="peters-quote">
+“There is reason to believe not only that the expression ‘Kingdom of heaven,’ as used in the N. T., was employed as synonymous with ‘Kingdom of God,’ as referred to in the Old Testament, but that the former expression had become common among the Jews of our Lord’s time for denoting the state of things expected to be brought in by the Messiah. The mere use of the expression as it first occurs in Matthew, uttered apparently by John the Baptist and our Lord Himself, *without a note of explanation,* as if all perfectly understood what was meant by it, seems alone conclusive evidence of this.”
+<br>— <em>Prop. 22, Intro</em>
+</div>
 
-The conclusion is plain enough: the **kingdom** Jesus announced was the same kingdom the prophets described and the same kingdom the Jews awaited.
+The conclusion is plain enough: <span class="kingdom-gold">the kingdom Jesus announced was the same kingdom the prophets described and the same kingdom the Jews awaited.</span>
 
 ---
 
@@ -48,7 +52,7 @@ Dr. Andrew Woods presses a simple but decisive point:
 > “So what do you have in Matthew 3:2? You just have the word ‘Kingdom’ and it’s not defined. So I’m not free to pour into that word another definition. What I am obligated under God to do is to search the Old Testament and figure out how prior revelation defines that term; *it is the geo-political and spiritual rule of Christ manifested on planet earth*… and you see, the amillennial system… completely pours a bunch of meaning in that word Kingdom that you’re not going to find anywhere in the Old Testament.”
 
 Woods’ point is hermeneutically airtight:
-If Jesus does not redefine the term, the Old Testament remains the authoritative dictionary.
+<span class="kingdom-gold">If Jesus does not redefine the term, the Old Testament remains the authoritative dictionary.</span>
 
 ---
 
@@ -64,7 +68,7 @@ Imagine being transported back into that moment. You possess no New Testament. Y
 
 Then John appears, fulfilling Isaiah 40:3 and Malachi 3:1, announcing:
 
-> “Repent, for the kingdom of heaven is at hand.”
+<span class="scripture">“Repent, for the kingdom of heaven is at hand.”</span>
 
 How would you define *kingdom*?
 
@@ -92,7 +96,7 @@ Everything.
 
 This is why Matthew begins his Gospel with a genealogy centered on David:
 
-> “The record of the genealogy of Jesus the Messiah, the son of David, the son of Abraham…”
+<span class="scripture">“The record of the genealogy of Jesus the Messiah, the son of David, the son of Abraham…”</span>
 
 Matthew structures the genealogy to highlight that Jesus is:
 
@@ -102,7 +106,7 @@ Matthew structures the genealogy to highlight that Jesus is:
 * continuation of the Abrahamic line
 
 The structure itself is a theological argument:
-**Jesus is the King of the promised kingdom.**
+<span class="kingdom-gold">Jesus is the King of the promised kingdom.</span>
 
 ---
 
@@ -112,36 +116,36 @@ Before John or Jesus ever preach, Mary and Zechariah give Spirit-filled interpre
 
 ### **The Angel’s Announcement to Mary**
 
-> “He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever, and His kingdom will have no end.”
-> *(Luke 1:32–33)*
+<span class="scripture">“He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever, and His kingdom will have no end.”</span>
+<span class="scripture">-Luke 1:32–33</span>
 
 No spiritualizing.
 No redefinition.
 No hint that the throne is heavenly or figurative.
 
-### **Zechariah’s Prophecy (Complete Text)**
+### **Zechariah’s Prophecy**
 
-> **68 “Blessed be the Lord God of Israel,
-> For He has visited us and accomplished redemption for His people,
-> 69 And has raised up a horn of salvation for us
-> In the house of His servant David—
-> 70 Just as He spoke by the mouth of His holy prophets from ancient times—
-> 71 Salvation from our enemies,
-> And from the hand of all who hate us;
-> 72 To show mercy to our fathers,
-> And to remember His holy covenant,
-> 73 The oath which He swore to our father Abraham,
-> 74 To grant us that we, being rescued from the hand of our enemies,
-> Would serve Him without fear,
-> 75 In holiness and righteousness before Him all our days.
-> 76 And you, child, also will be called the prophet of the Most High;
-> For you will go on before the Lord to prepare His ways;
-> 77 To give His people the knowledge of salvation
-> By the forgiveness of their sins,
-> 78 Because of the tender mercy of our God,
-> With which the Sunrise from on high will visit us,
-> 79 To shine on those who sit in darkness and the shadow of death,
-> To guide our feet into the way of peace.”**
+<span class="scripture">**68 “Blessed be the Lord God of Israel,
+For He has visited us and accomplished redemption for His people,
+69 And has raised up a horn of salvation for us
+In the house of His servant David—
+70 Just as He spoke by the mouth of His holy prophets from ancient times—
+71 Salvation from our enemies,
+And from the hand of all who hate us;
+72 To show mercy to our fathers,
+And to remember His holy covenant,
+73 The oath which He swore to our father Abraham,
+74 To grant us that we, being rescued from the hand of our enemies,
+Would serve Him without fear,
+75 In holiness and righteousness before Him all our days.
+76 And you, child, also will be called the prophet of the Most High;
+For you will go on before the Lord to prepare His ways;
+77 To give His people the knowledge of salvation
+By the forgiveness of their sins,
+78 Because of the tender mercy of our God,
+With which the Sunrise from on high will visit us,
+79 To shine on those who sit in darkness and the shadow of death,
+To guide our feet into the way of peace.”**</span>
 
 Zechariah’s prophecy overflows with covenant language:
 
@@ -155,7 +159,9 @@ This is **kingdom expectation**, exactly as the prophets promised.
 
 Peters reflects on the impossibility of God “redefining” such promises:
 
-> “…if David’s throne and kingdom is not David’s throne and kingdom as the words indicate… how then can we reconcile it with God’s own assurances of veracity… that He would clothe His own gracious and merciful words in a dress calculated to deceive… No! never, never can we receive any theory… which thus reflects on God’s goodness…”
+<div class="peters-quote">
+“if David’s throne and kingdom is not David’s throne and kingdom as the words indicate, and as fondly believed in for centuries, but is, as men in their wisdom afterward developed, the Father’s throne in heaven and the Father’s Kingdom on earth and in heaven, how then can we reconcile it with God’s own assurances of veracity, desire to instruct, undeviating truthfulness, etc., that He would clothe His own gracious and merciful words in a dress calculated to deceive, and which did beguile the Jews and Primitive Christians, His children, into a false faith and hope. No! never, never can we receive any theory, however plausibly and learnedly presented, which thus reflects on God’s goodness, makes Him virtually a party to gross deception, and which degrades the intelligence and piety of former saints. Who can censure us for believing in a sense so generally admitted as given by God Himself, placing ourselves where prophets, pious Jews, and the early Christians stood? Having thus in the outset a vantage ground, needing not to prove what multitudes already concede, let us lay aside our “worldly wisdom,” and in a childlike disposition for instruction, follow this grammatical interpretation, carefully gathering up the detached portions, and see where it will lead us. It will reveal a strangeness most surprising, a sublimity most inspiring, and a beauty most delightful, in God’s work.”
+</div>
 
 This is one of the most forceful arguments in the entire work.
 
@@ -190,7 +196,9 @@ If the disciples were fundamentally mistaken about the nature of the kingdom, th
 
 Peters captures the absurdity:
 
-> “Why does not John and the disciples first receive preliminary counsel, so that, themselves freed from alleged error, they may properly teach others respecting the Kingdom? …No other explanation will cover the facts in the case.”
+<div class="peters-quote">
+“Why does not John and the disciples first receive preliminary counsel, so that, themselves freed from alleged error, they may properly teach others respecting the Kingdom? …No other explanation will cover the facts in the case.”
+</div>
 
 If Jesus intended to establish a spiritual kingdom, it is inconceivable that He would send out messengers who misunderstood the very thing they were preaching.
 
@@ -200,13 +208,11 @@ If Jesus intended to establish a spiritual kingdom, it is inconceivable that He 
 
 Right up to the ascension—*after* 40 days of kingdom instruction—the disciples ask:
 
-> “Lord, is it at this time You are restoring the kingdom to Israel?”
-> *(Acts 1:6)*
+<span class="scripture">“Lord, is it at this time You are restoring the kingdom to Israel?”</span>
+<span class="scripture">-Acts 1:6</span>
 
 Jesus does not correct their understanding of what the kingdom **is**.
-He only corrects their understanding of **the timing**.
-
-This silence is thunderous.
+He only corrects their understanding of <span class="kingdom-gold">the timing</span>.
 
 ---
 

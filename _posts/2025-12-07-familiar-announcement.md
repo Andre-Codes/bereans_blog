@@ -9,8 +9,8 @@ series_order: 1
 image: /assets/post_images/john_baptist_announcement_1.png
 ---
 
-*Series: The Kingdom Announcement • Part 1*
 
+Before we put on the scuba gear and plunge into the sea of propositions, let’s begin in the helicopter. First comes the broad view—the lay of the land, the shape of the coastline—before we descend into the depths. For this, we start with the **announcement** of the kingdom itself.
 
 To understand what the announcement of the kingdom actually meant—and why it landed with such force—we need to step into the world of a first-century Jew. Before we impose later theological systems, the task is simple: *hear the announcement the way they heard it.*
 
@@ -23,8 +23,10 @@ This post works closely with George N. H. Peters’ nineteenth proposition:
 
 Peters points out a striking feature of the early chapters of the New Testament: the preaching of the kingdom comes to the people <span class="kingdom-gold">without a single word of definition.</span>
 
-> “The preaching of the kingdom, its simple announcement, without the least attempt to explain its meaning or nature… presupposed that it was a subject familiar to them. John the Baptist, Jesus, and the Seventy all proclaimed the kingdom in a way, without definition or explanation, that indicated their hearers were acquainted with its meaning.”
-> Prop. 19 (Intro)
+<div class="peters-quote">
+“The preaching of the kingdom, its simple announcement, without the least attempt to explain its meaning or nature… presupposed that it was a subject familiar to them. John the Baptist, Jesus, and the Seventy all proclaimed the kingdom in a way, without definition or explanation, that indicated their hearers were acquainted with its meaning.”
+<br>— <em>Prop. 19, Intro</em>
+</div>
 
 If this observation is true—and it is plainly seen on the surface of the text—it becomes a crucial piece of evidence for understanding Jewish expectations and the truthfulness of a literal restoration of Israel under the reign of the Messiah.
 
@@ -32,9 +34,8 @@ If this observation is true—and it is plainly seen on the surface of the text�
 
 # **The Announcement Itself**
 
-> <span class="scripture">**“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying,
-> ‘Repent, for the kingdom of heaven is at hand.’”**</span>
-> —<span class="scripture">Matthew 3:1–2</span>
+<span class="scripture">“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying, ‘Repent, for the kingdom of heaven is at hand.’”</span>
+<span class="scripture">-Matthew 3:1–2</span>
 
 The simplicity of this announcement is easy to glide over. Many words and phrases in Scripture are dismissed because they do not fit modern interpretive frameworks. But here the simplicity is the point: <span class="kingdom-gold">John assumes his hearers already know exactly what “the kingdom” means.</span>
 
@@ -66,8 +67,10 @@ And this is where the real trouble begins.
 
 Peters notes that modern attempts to reinterpret the kingdom have given destructive critics enormous leverage. Rationalists capitalized on these inconsistencies, using them as grounds to attack the reliability of Scripture, the authority of the apostles, and even the character of Christ.
 
-> “The prophecies referring to the Kingdom of God, as now interpreted by the large majority of Christians, afford the strongest leverage employed by unbelievers against Christianity.”
-> —Peters, Prop. 17 (Obs. 4)
+<div class="peters-quote">
+“The prophecies referring to the Kingdom of God, as now interpreted by the large majority of Christians, afford the strongest leverage employed by unbelievers against Christianity.”
+<br>— <em>Prop. 17, Obs. 4</em>
+</div>
 
 Some critics went so far as to say:
 
@@ -131,8 +134,10 @@ If theologians claim:
 
 Peters’ conclusion is sharp and compelling:
 
-> Rejecting the plain grammatical sense “makes the ancient faith an ignorant one, the early Church occupying a false position, and the Bible a book to which man adds any sense under the plea of spiritualization.”
-> —Prop. 17 (Obs. 4)
+<div class="peters-quote">
+Rejecting the plain grammatical sense “makes the ancient faith an ignorant one, the early Church occupying a false position, and the Bible a book to which man adds any sense under the plea of spiritualization.”
+<br>— <em>Prop. 17, Obs. 4</em>
+</div>
 
 This is the heart of the problem.
 If the kingdom is spiritualized, the unity of Scripture fractures. The integrity of God’s promises is obscured. And critics gain ground the Bible never intended to yield.

@@ -159,6 +159,5 @@ Understanding the structure of *The Theocratic Kingdom* is more than a matter of
 
 As we move forward, the propositions will begin to unfold this thread with growing clarity.
 
-Next, we will explore why Peters believed the Kingdom is not simply one doctrine among many, but the unifying theme of the entire Bible—a claim that, if true, reshapes how we read Scripture from the ground up.
 
 ---

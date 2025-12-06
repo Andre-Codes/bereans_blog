@@ -62,24 +62,43 @@ Use this wrapper for Peters' propositions.
 ```
 
 ### 3. Scripture References
-Use this to style Bible verses green.
+Use this to style Bible verses green. **Do not use the `>` blockquote symbol.**
 
 ```html
 <span class="scripture">“Repent, for the kingdom of heaven is at hand.”</span>
 ```
 
-### 4. Post Series
+### 4. Peters' Quotes
+Use this wrapper for quotes specifically from George N. H. Peters.
+
+```html
+<div class="peters-quote">
+  “The Kingdom of God is the Kingdom of the Messiah...”
+  <br>— <em>Prop. 22, Obs. 1</em>
+</div>
+```
+
+**Note:** If you need to use Markdown (like **bold** or *italics*) inside the quote, add `markdown="1"` to the div:
+
+```html
+<div class="peters-quote" markdown="1">
+  “The **Kingdom of God** is the Kingdom of the Messiah...”
+  <br>— <em>Prop. 22, Obs. 1</em>
+</div>
+```
+
+### 5. General Blockquotes
+Use standard Markdown blockquotes for other theologians (e.g., Walvoord, Woods). These have a simple gray border.
+
+```markdown
+> “This is a quote from a general theologian.”
+```
+
+### 6. Post Series
 To link posts together in a series (e.g., "The Kingdom Announcement"):
 1.  Add `series: "Exact Series Name"` to the front matter of all related posts.
 2.  Add `series_order: 1` (or 2, 3, etc.) to define the sequence.
 3.  A navigation box will automatically appear at the top of the post.
-
-### 5. Blockquotes
-Standard Markdown blockquotes are styled with a gold border.
-
-```markdown
-> “This is a quote from Peters or a theologian.”
-```
 
 ---
 

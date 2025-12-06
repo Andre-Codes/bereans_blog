@@ -47,7 +47,7 @@ Before diving line-by-line through Peters’ 206 propositions, the first several
 These early posts will help prepare the ground—so that once we enter the propositions themselves, their logic becomes clear rather than overwhelming.
 
 After these overview posts, we will walk through *every* proposition in order.
-Each entry will include:
+Each entry will include some or all of the following:
 
 * a readable summary
 * key observations from Peters
