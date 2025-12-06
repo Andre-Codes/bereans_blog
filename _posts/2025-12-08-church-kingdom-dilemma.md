@@ -3,9 +3,13 @@ layout: post
 title:  "The Critics, the Church, and the Collision: How Modern Theories Opened the Door to Rationalism"
 date:   2025-12-08 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom, Hermeneutics]
-tags: [Kingdom of God, Spiritualizing, Literal Interpretation, George N. H. Peters, Hermeneutics]
+tags: [Kingdom of God, Spiritualizing, Literal Interpretation, Prop 17, Prop 19, Prop 21, Prop 23]
+series: "The Kingdom Announcement"
+series_order: 2
 image: /assets/post_images/john_baptist_announcement_2.png
 ---
+
+*Series: The Kingdom Announcement • Part 2*
 
 If the first post confronted us with the simplicity of the kingdom’s announcement, this second post forces us to grapple with the uncomfortable consequences of that simplicity. The announcement’s form is so plain, so undeveloped, so unprotected by theological scaffolding that <span class="kingdom-gold">every modern theory which *redefines* the kingdom must eventually answer for it.</span> And as many have discovered in the two centuries before us, those answers do not merely fail—they open the door for critics to walk straight into the sanctuary and accuse the Bible itself of error.
 

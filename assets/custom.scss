@@ -53,3 +53,68 @@ blockquote {
   margin-left: 0;
   margin-right: 0;
 }
+
+/* Series Navigation */
+.series-nav {
+  background-color: #f0f4f8; /* Very light blue-grey, distinct from proposition parchment */
+  border: 1px solid #d1d9e6;
+  border-radius: 6px;
+  padding: 1.2rem;
+  margin: 1.5rem 0 2rem 0;
+  font-family: "Georgia", serif;
+}
+
+.series-header {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: #7f8c8d;
+  letter-spacing: 1px;
+  margin-bottom: 0.2rem;
+}
+
+.series-title {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  color: #2c3e50;
+  border-bottom: 1px solid #e1e4e8;
+  padding-bottom: 0.5rem;
+}
+
+.series-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.series-item {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.series-item a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.series-item a:hover {
+  text-decoration: underline;
+}
+
+.series-item.current {
+  font-weight: bold;
+  color: #24292e;
+}
+
+.series-number {
+  color: #586069;
+  font-weight: normal;
+  margin-right: 5px;
+}
+
+.current-indicator {
+  font-size: 0.85rem;
+  color: #2e7d32; /* Green to indicate active */
+  font-style: italic;
+  margin-left: 5px;
+}

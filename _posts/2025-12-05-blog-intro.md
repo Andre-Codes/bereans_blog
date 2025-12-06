@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing a Study Through George N. H. Peters’ 'The Theocratic Kingdom'"
 date:   2025-12-05 12:00:00 -0500
 categories: [Introduction, The Theocratic Kingdom]
-tags: [George N. H. Peters, Kingdom of God, Premillennialism, Systematic Theology]
+tags: [Kingdom of God, Premillennialism, Systematic Theology]
 image: /assets/post_images/intro.png
 ---
 

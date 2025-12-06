@@ -3,9 +3,14 @@ layout: post
 title:  "A Familiar Announcement: Hearing the Kingdom Through First-Century Ears"
 date:   2025-12-07 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom]
-tags: [Prop 19, John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
+tags: [Prop 17, Prop 19, John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
+series: "The Kingdom Announcement"
+series_order: 1
 image: /assets/post_images/john_baptist_announcement_1.png
 ---
+
+*Series: The Kingdom Announcement • Part 1*
+
 
 To understand what the announcement of the kingdom actually meant—and why it landed with such force—we need to step into the world of a first-century Jew. Before we impose later theological systems, the task is simple: *hear the announcement the way they heard it.*
 

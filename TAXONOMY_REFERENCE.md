@@ -17,7 +17,6 @@ This document serves as a reference for the categories and tags used in the Bere
 *Specific keywords to describe the content.*
 
 ### Key Figures
-*   `George N. H. Peters`
 *   `John the Baptist`
 *   `Jesus Christ`
 *   `The Apostles`

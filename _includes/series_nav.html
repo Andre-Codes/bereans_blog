@@ -1,0 +1,23 @@
+{% if page.series %}
+  <div class="series-nav">
+    <div class="series-header">This post is part of the series:</div>
+    <h3 class="series-title">{{ page.series }}</h3>
+    <ul class="series-list">
+      {% assign series_posts = site.posts | where: "series", page.series | sort: "series_order" %}
+      {% for post in series_posts %}
+        <li class="series-item {% if post.url == page.url %}current{% endif %}">
+          {% if post.url == page.url %}
+            <span class="series-number">Part {{ post.series_order }}:</span> 
+            <span class="series-link-text">{{ post.title }}</span>
+            <span class="current-indicator">(You are here)</span>
+          {% else %}
+            <a href="{{ post.url | relative_url }}">
+              <span class="series-number">Part {{ post.series_order }}:</span> 
+              {{ post.title }}
+            </a>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
