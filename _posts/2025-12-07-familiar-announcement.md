@@ -4,15 +4,15 @@ title:  "A Familiar Announcement: Hearing the Kingdom Through First-Century Ears
 date:   2025-12-07 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom]
 tags: [Prop 17, Prop 19, John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
-series: "The Kingdom Announcement"
+series: "The Kingdom Framework"
 series_order: 1
 image: /assets/post_images/john_baptist_announcement_1.png
 ---
 
 
-Before we put on the scuba gear and plunge into the sea of propositions, let’s begin in the helicopter. First comes the broad view—the lay of the land, the shape of the coastline—before we descend into the depths. For this, we start with the **announcement** of the kingdom itself.
+Before we put on the scuba gear and plunge into the sea of Peters' propositions, let’s begin in the helicopter. First comes the broad view—the lay of the land, the shape of the coastline—before we descend into the depths. This will have us touch on some later propositions which we will of course return to in greater detail later with dedicated posts. For now, we will start with a broad discussion on the kingdom by diving straight into scripture. For this we begin with <span class="kingdom-gold">the announcement of the Kingdom</span>. 
 
-To understand what the announcement of the kingdom actually meant—and why it landed with such force—we need to step into the world of a first-century Jew. Before we impose later theological systems, the task is simple: *hear the announcement the way they heard it.*
+To understand what the announcement of the kingdom actually meant we need to step into the world of a first-century Jew. Before we impose later theological systems, the task is simple: *hear the announcement the way they heard it.*
 
 This post works closely with George N. H. Peters’ nineteenth proposition:
 
@@ -28,18 +28,18 @@ Peters points out a striking feature of the early chapters of the New Testament:
 <br>— <em>Prop. 19, Intro</em>
 </div>
 
-If this observation is true—and it is plainly seen on the surface of the text—it becomes a crucial piece of evidence for understanding Jewish expectations and the truthfulness of a literal restoration of Israel under the reign of the Messiah.
+If this observation is true—and it is plainly seen on the surface of the text—it becomes a crucial piece of evidence for understanding Jewish expectations and the truthfulness of a <span class="kingdom-gold">literal restoration of Israel under the reign of the Messiah.</span>
 
 ---
 
 # **The Announcement Itself**
 
-<span class="scripture">“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying, ‘Repent, for the kingdom of heaven is at hand.’”</span>
-<span class="scripture">-Matthew 3:1–2</span>
+<div class="scripture-quote">“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying, ‘Repent, for the kingdom of heaven is at hand.’” -Matthew 3:1–2
+</div>
 
 The simplicity of this announcement is easy to glide over. Many words and phrases in Scripture are dismissed because they do not fit modern interpretive frameworks. But here the simplicity is the point: <span class="kingdom-gold">John assumes his hearers already know exactly what “the kingdom” means.</span>
 
-Theologians across traditions acknowledge this but often treat it as unimportant—or worse, attempt to explain it away. Peters notices that some simply pass the issue in silence, while others produce explanations that unintentionally insult the intelligence of the age, undermine the believers living then, and disturb confidence in the Word itself.
+Theologians across traditions acknowledge this but often treat it as unimportant—or worse, attempt to explain it away. Peters notices that some simply pass the issue in silence, while others produce explanations that unintentionally insult the intelligence of the age, undermine the believers living then, and disturb confidence in the Word itself. All of which we will delve into more in future posts.
 
 ---
 
@@ -47,13 +47,14 @@ Theologians across traditions acknowledge this but often treat it as unimportant
 
 Here is the unavoidable question:
 
-**If the kingdom is what many modern theologians claim—something spiritual, ecclesiological, or inward—how do we account for the way it was preached in the first century?**
+**If the kingdom is what many modern theologians claim; something spiritual, ecclesiological, inward, or (in postmillennial thought) the gradual cultural triumph of the gospel within history, how do we account for the way it was preached in the first century?**
 
 John’s hearers were never told:
 
 * “Actually, this kingdom is spiritual, not literal.”
 * “You have misunderstood the prophets.”
 * “The kingdom is your inner transformation.”
+* “The kingdom will unfold as society progressively Christianizes.”
 
 Nothing like that appears in the announcement. Instead, the preaching assumes *familiarity* with the concept.
 
@@ -89,9 +90,9 @@ Peters summarizes the problem pointedly:
 
 Pause the modern debate and imagine yourself as a first-century Jew.
 
-John the Baptist—the long-promised forerunner—appears after four centuries of prophetic silence. He calls the nation to repentance. He declares the kingdom to be at hand. He introduces the Messiah.
+John the Baptist appears—the very forerunner Isaiah and Malachi predicted, arriving after four centuries of prophetic silence. His arrival is itself a literal fulfillment of prophecy. He calls the nation to repentance. He announces that the kingdom is at hand. He identifies the Messiah.
 
-If you were wrong about the kingdom—if you misunderstood its nature entirely—why does the announcement come without correction?
+If your entire expectation of the kingdom were mistaken—if you had fundamentally misunderstood its nature—why does this announcement arrive with no correction at all?
 
 Why would God present the message:
 
@@ -116,7 +117,7 @@ French philosopher Ernest Renan and others—open unbelievers—saw the opportun
 Peters cites also von Ammon and Edmond Schérer, both rationalists, who made the same charge:
 **The New Testament reflects Jewish Messianic expectations that did not come to pass, proving (to them) that Scripture is flawed.**
 
-Their reasoning was wrong—but tragically understandable if modern interpretations are right.
+Their reasoning was wrong—but unfortunately understandable if modern interpretations are right.
 
 ---
 
@@ -155,9 +156,8 @@ From this foundation, the next posts will ask:
 * Who held those expectations, and on what grounds?
 * When the disciples expressed those expectations, did Jesus correct them—or confirm them?
 
-Post 2 will explore how modern theories attempted to reconcile the announcement with non-literal interpretations—and why those attempts fail.
+Post 2 will explore how various theories attempted to reconcile the announcement with non-literal interpretations—and why those attempts fail.
 
 Post 3 will turn fully to the expectations themselves: the Davidic covenant, the prophetic promises, and the way Mary, Zechariah, John, Jesus, and the disciples all understood the kingdom’s meaning.
 
-The kingdom was not a mystery to the first hearers.
-Recovering their understanding is the key to understanding Christ’s announcement today.
+From there we will then turn to *Proposition 1* to begin the deep dive.

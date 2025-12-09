@@ -9,6 +9,7 @@ header_pages:
   - about.md
   - tags.md
   - categories.md
+  - the_theocratic_kingdom.md
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 exclude: [Gemfile, Gemfile.lock, vendor]

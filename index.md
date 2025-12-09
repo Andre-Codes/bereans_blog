@@ -20,7 +20,9 @@ In an age where the definition of the Kingdom has become vague and spiritualized
 
 We are currently working through **George N. H. Peters'** magnum opus, *The Theocratic Kingdom*. This monumental work argues that the Kingdom offered by Jesus was the same Kingdom promised to David—a real, political, and spiritual theocracy on earth—which was rejected by Israel and postponed until the Second Advent.
 
-> "The Kingdom is not the Church, nor the Church the Kingdom; but the Church is the body of heirs gathered out for the Kingdom."
+<div class="peters-quote">
+"The Kingdom is not the Church, nor the Church the Kingdom; but the Church is the body of heirs gathered out for the Kingdom."
+</div>
 
 ### Start Here
 

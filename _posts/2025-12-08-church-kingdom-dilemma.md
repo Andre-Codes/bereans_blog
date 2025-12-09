@@ -4,16 +4,14 @@ title:  "The Critics, the Church, and the Collision: How Modern Theories Opened 
 date:   2025-12-08 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom, Hermeneutics]
 tags: [Kingdom of God, Spiritualizing, Literal Interpretation, Prop 17, Prop 19, Prop 21, Prop 23]
-series: "The Kingdom Announcement"
+series: "The Kingdom Framework"
 series_order: 2
 image: /assets/post_images/john_baptist_announcement_2.png
 ---
 
-*Series: The Kingdom Announcement • Part 2*
+If the first post confronted us with the simplicity of the kingdom’s announcement, this second post forces us to grapple with the uncomfortable consequences of that simplicity. The announcement’s form is so plain and undeveloped that <span class="kingdom-gold">every modern theory which *redefines* the kingdom must eventually answer for it.</span> And as many have discovered in the two centuries before us, those answers do not merely fail, but they also open the door for critics to walk straight into the sanctuary and accuse the Bible itself of error.
 
-If the first post confronted us with the simplicity of the kingdom’s announcement, this second post forces us to grapple with the uncomfortable consequences of that simplicity. The announcement’s form is so plain, so undeveloped, so unprotected by theological scaffolding that <span class="kingdom-gold">every modern theory which *redefines* the kingdom must eventually answer for it.</span> And as many have discovered in the two centuries before us, those answers do not merely fail—they open the door for critics to walk straight into the sanctuary and accuse the Bible itself of error.
-
-The issue is not abstract. It is not a scholastic tangle over words. It is a question of whether Christ, His apostles, and His forerunner preached a kingdom that meant one thing to their hearers, yet secretly intended another. If so, modern interpreters may imagine they are defending Scripture—but in doing so <span class="kingdom-gold">they unintentionally grant rationalistic critics the very leverage they need to declare the New Testament confused, contradictory, or worse.</span>
+The issue is not abstract, it's a question of whether Christ, His apostles, and His forerunner preached a kingdom that meant one thing to their hearers, yet secretly intended another. If so, modern interpreters may imagine they are defending Scripture—but in doing so <span class="kingdom-gold">they unintentionally grant rationalistic critics the very leverage they need to declare the New Testament confused, contradictory, or worse.</span>
 
 This collision between modern theology and unbelieving criticism is one of the great ironies George N. H. Peters exposes. <span class="kingdom-gold">Attempts to “protect” Scripture by spiritualizing prophecy end up undermining its credibility far more severely than straightforward literal interpretation ever could.</span>
 
@@ -25,13 +23,13 @@ If the kingdom Jesus preached was spiritualized, heavenly, ecclesiastical, or in
 
 Modern theories, whether amillennial or postmillennial, stumble here. They must either:
 
-• downplay the announcement,
-• reinterpret its meaning, or
-• explain why God allowed the Jews (and the disciples!) to operate under “mistaken” expectations.
+* downplay the announcement,
+* reinterpret its meaning, or
+* explain why God allowed the Jews (and the disciples!) to operate under “mistaken” expectations.
 
 And the moment they do, the rationalistic critics—Renan, von Ammon, Schérer, and others—step in and say: *Exactly. <span class="kingdom-gold">If the kingdom does not mean what the Jews thought it meant, then Jesus and the apostles were themselves confused, inconsistent, or deceptive.</span>*
 
-This is the tragic irony Peters exposes. Many modern theologians unwittingly arm the critics with ammunition by abandoning the plain sense of Scripture.
+This is the tragic irony Peters exposes. Many modern theologians unwittingly arm the critics with ammunition by abandoning the plain sense of Scripture. *These theories and other criticisms of the NT from secular writers are discussed in detail in later propositions such as 4 & 19.*
 
 ## **Renan and the Rise of Rationalistic Criticism**
 
@@ -43,9 +41,9 @@ Some unbelievers even go to the length of denouncing the Saviour and the apostle
 <br>— <em>Prop. 17, Obs. 4</em>
 </div>
 
-Notice the force of Renan’s reasoning: *If the Old Testament kingdom prophecies did not come to pass literally, and if Jesus did not establish such a kingdom, then Jesus either misunderstood them or quietly abandoned them.*
+Notice the force of Renan’s reasoning: *If the Old Testament kingdom prophecies did not come to pass literally, and if Jesus did not establish such a kingdom, then failed to fulfill them or quietly abandoned them.*
 
-If one accepts modern non-literal views of the kingdom, this line of reasoning becomes disturbingly persuasive.
+If one accepts modern non-literal views of the kingdom, this line of reasoning becomes disturbingly persuasive—especially to someone already on the fence about Christianity, or to a Jewish reader today who has long concluded that Jesus could not be the Messiah precisely because He did not establish the very kingdom the prophets described.
 
 ## **Why Critics Gain Ground When the Church Abandons Literal Interpretation**
 
@@ -65,7 +63,7 @@ If you claim the kingdom was *never meant* in the plain sense Israel understood 
 
 At that point, the critic no longer attacks the edges of Christian doctrine—he attacks the integrity of Christ Himself.
 
-## **Von Ammon, Schérer, and the Charge of a “Fatal Discrepancy”**
+### **Von Ammon, Schérer, and the Charge of a “Fatal Discrepancy”**
 
 Two thinkers Peters highlights—Christoph Friedrich von Ammon and Edmond Schérer—press the accusations even further.
 
@@ -90,8 +88,9 @@ Here is the hinge point of the controversy:
 **If the modern Church is correct in redefining the kingdom, then the critics are correct in accusing Scripture of error.**
 
 This is precisely the leverage they exploit.
+And unless modern theories can demonstrate that the kingdom prophecies and Israel’s restoration were always meant to be spiritualized or transferred to the Church (a claim thoroughly contradicted by the text and overwhelmingly disproven by the historical and grammatical evidence), then the ground remains tilted in the critics’ favor.
 
-## **The Tragic Consequence: Reinterpretation Leads to Accusation**
+### **Reinterpretation Leads to Accusation**
 
 Modern interpreters may claim they are “honoring Christ” by interpreting the kingdom spiritually. But Peters argues the opposite. By introducing new meanings foreign to the prophetic Scriptures, they unintentionally make Jesus appear to have promised what He never intended to deliver.
 

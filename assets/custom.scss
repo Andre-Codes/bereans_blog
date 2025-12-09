@@ -10,9 +10,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Scripture References - Green as requested */
+/* In-text citation: Bold, Forest Green, Not Italic */
 .scripture {
   color: #2e7d32; /* Forest Green */
-  font-style: italic;
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Scripture Block Quote - Similar to Peters quote but green */
+.scripture-quote {
+  background-color: #f1f8e9; /* Very light green */
+  border-left: 4px solid #2e7d32; /* Forest Green */
+  padding: 1rem;
+  margin: 1.5rem 0;
+  font-family: "Georgia", serif;
+  color: #1b5e20; /* Darker green for text readability */
+  border-radius: 0 4px 4px 0;
 }
 
 /* Propositions (for Peters' Propositions) */
@@ -23,6 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 1rem;
   margin: 1.5rem 0;
   font-family: "Georgia", serif;
+  font-weight: bold;
   color: #3e2723;
   border-radius: 0 4px 4px 0;
 }
@@ -61,7 +75,6 @@ blockquote {
   margin: 1.5rem 0;
   font-family: "Georgia", serif;
   color: #4e342e;
-  font-style: italic;
   border-radius: 0 4px 4px 0;
 }
 
