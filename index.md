@@ -27,6 +27,6 @@ We are currently working through **George N. H. Peters'** magnum opus, *The Theo
 ### Start Here
 
 *   **[Read the Blog](/blog/)**: Follow our latest proposition studies and reflections.
-*   **[About the Project](/about/)**: Learn more about the methodology and purpose behind this site.
+*   **[About the Blog](/about/)**: Learn more about the methodology and purpose behind this site.
 *   **[The Propositions](/categories/)**: Browse posts by specific theological propositions.
 

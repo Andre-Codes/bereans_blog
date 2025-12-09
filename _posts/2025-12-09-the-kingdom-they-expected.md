@@ -21,7 +21,7 @@ And this expectation appears with startling clarity in the **phraseology** itsel
 
 When the Jews heard John use the word *kingdom,* they would have done what Dr. Andrew Woods insists all interpreters must do:
 
-> “…not define it by their favorite theological system, but rather… define it by the Old Testament.” ( The Coming Kingdom 08. The Kingdom Offered - Matthew 3:2, 45:30, https://www.youtube.com/playlist?list=PLJ5WZ9aWBhyi3bHbotTG1iONLkMn-Ck-b)
+> “…not define it by their favorite theological system, but rather… define it by the Old Testament.”[^1]
 
 This is the unavoidable starting point.
 
@@ -47,7 +47,7 @@ The conclusion is plain enough: <span class="kingdom-gold">the kingdom Jesus ann
 
 Dr. Andrew Woods presses a simple but decisive point:
 
-> “So what do you have in Matthew 3:2? You just have the word ‘Kingdom’ and it’s not defined. So I’m not free to pour into that word another definition. What I am obligated under God to do is to search the Old Testament and figure out how prior revelation defines that term; *it is the geo-political and spiritual rule of Christ manifested on planet earth*… and you see, the amillennial system… completely pours a bunch of meaning in that word Kingdom that you’re not going to find anywhere in the Old Testament.” (The Coming Kingdom 08. The Kingdom Offered - Matthew 3:2, 42:05,  https://www.youtube.com/playlist?list=PLJ5WZ9aWBhyi3bHbotTG1iONLkMn-Ck-b)
+> “So what do you have in Matthew 3:2? You just have the word ‘Kingdom’ and it’s not defined. So I’m not free to pour into that word another definition. What I am obligated under God to do is to search the Old Testament and figure out how prior revelation defines that term; *it is the geo-political and spiritual rule of Christ manifested on planet earth*… and you see, the amillennial system… completely pours a bunch of meaning in that word Kingdom that you’re not going to find anywhere in the Old Testament.”[^2]
 
 Woods’ point is hermeneutically airtight:
 <span class="kingdom-gold">If Jesus does not redefine the term, the Old Testament remains the authoritative dictionary.</span>
@@ -206,5 +206,10 @@ The only framework that fits every detail of the announcement, every expectation
 
 
 This concludes the high-level overview that sets the stage for the rest of what this blog is dedicated to. With this framework established, we are now prepared to move forward in a careful, sequential study. The posts that follow will begin walking through George N. H. Peters’ propositions one by one, allowing his arguments to unfold in the order he constructed them, tested against Scripture, history, and reason.
+
+---
+
+[^1]: Andrew Woods, *The Coming Kingdom 08. The Kingdom Offered - Matthew 3:2*, 45:30, [YouTube](https://www.youtube.com/playlist?list=PLJ5WZ9aWBhyi3bHbotTG1iONLkMn-Ck-b).
+[^2]: Andrew Woods, *The Coming Kingdom 08. The Kingdom Offered - Matthew 3:2*, 42:05, [YouTube](https://www.youtube.com/playlist?list=PLJ5WZ9aWBhyi3bHbotTG1iONLkMn-Ck-b).
 
 
