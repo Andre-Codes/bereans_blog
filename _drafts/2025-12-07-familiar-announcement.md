@@ -3,7 +3,8 @@ layout: post
 title:  "A Familiar Announcement: Hearing the Kingdom Through First-Century Ears"
 date:   2025-12-07 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom]
-tags: [Prop 17, Prop 19, John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
+tags: [John the Baptist, Kingdom Announcement, Hermeneutics, Jewish Expectations]
+propositions: [17, 19]
 series: "The Kingdom Framework"
 series_order: 1
 image: /assets/post_images/john_baptist_announcement_1.png

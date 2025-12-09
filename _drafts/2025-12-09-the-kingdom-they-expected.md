@@ -3,7 +3,8 @@ layout: post
 title:  "The Kingdom They Expected: How Jews, Disciples, and Early Christians Defined “Kingdom”"
 date:   2025-12-09 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom, Historical Theology]
-tags: [Jewish Expectations, Early Church, Kingdom Definition, Prop 22]
+tags: [Jewish Expectations, Early Church, Kingdom Definition]
+propositions: [22]
 series: "The Kingdom Framework"
 series_order: 3
 image: /assets/post_images/john_baptist_announcement_3.png

@@ -31,6 +31,7 @@ title:  "Your Post Title"
 date:   2025-12-08 12:00:00 -0500
 categories: [Category1, Category2]
 tags: [Tag1, Tag2]
+propositions: [1, 2, 3]      # Optional: List of related propositions
 image: /assets/post_images/your_image.png
 series: "Series Name"        # Optional: Must match exactly across posts
 series_order: 1              # Optional: 1, 2, 3...
@@ -39,6 +40,7 @@ series_order: 1              # Optional: 1, 2, 3...
 
 *   **Image:** Place images in `assets/post_images/`.
 *   **Taxonomy:** See `TAXONOMY_REFERENCE.md` for approved categories and tags.
+*   **Propositions:** List the proposition numbers (e.g., `[17, 19]`) discussed in the post. These will appear on the [Propositions Index](/propositions/).
 
 ---
 

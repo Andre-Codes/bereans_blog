@@ -3,7 +3,8 @@ layout: post
 title:  "The Critics, the Church, and the Collision: How Modern Theories Opened the Door to Rationalism"
 date:   2025-12-08 12:00:00 -0500
 categories: [Propositions, The Theocratic Kingdom, Hermeneutics]
-tags: [Kingdom of God, Spiritualizing, Literal Interpretation, Prop 17, Prop 19, Prop 21, Prop 23]
+tags: [Spiritualizing, Literal Interpretation]
+propositions: [17, 19, 21, 23]
 series: "The Kingdom Framework"
 series_order: 2
 image: /assets/post_images/john_baptist_announcement_2.png

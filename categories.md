@@ -18,7 +18,7 @@ permalink: /categories/
 <hr>
 
 {% for category in categories %}
-  <h2 id="{{ category[0] | slugify }}">{{ category[0] | capitalize }}</h2>
+  <h3 id="{{ category[0] | slugify }}">{{ category[0] | capitalize }}</h3>
   <ul>
     {% for post in category[1] %}
       <li>

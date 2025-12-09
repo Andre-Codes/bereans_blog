@@ -16,7 +16,7 @@ permalink: /tags/
 <hr>
 
 {% for tag in tags %}
-  <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+  <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
       <li>
