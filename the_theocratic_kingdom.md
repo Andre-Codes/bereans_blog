@@ -20,19 +20,23 @@ George Peters is remembered primarily because of his three volume work The Theoc
 
 ## **Study Resources on *The Theocratic Kingdom***
 
-This site is dedicated to exploring Peters' monumental work. To get started, we recommend these two introductory posts:
+This site is dedicated to exploring Peters' monumental work. To get started, we recommend these resources:
 
-### **1. Introduction to the Study**
+### **1. Introduction to *The Theocratic Kingdom* by G.N.H Peters**
+**[Read Peters' Own Introduction](/gnh-peters/introduction/)**  
+This is George N. H. Peters' own introduction to his three-volume work, where he lays out the foundational principles and necessity of this study.
+
+### **2. Introduction to the Study**
 **[Introducing a Study Through George N. H. Peters’ 'The Theocratic Kingdom'](/2025/12/05/blog-intro/)**  
 *3 min read*  
 An overview of why Peters' work matters, the "golden thread" of the Kingdom, and why we are undertaking this study.
 
-### **2. Understanding the Structure**
+### **3. Understanding the Structure**
 **[How to Read 'The Theocratic Kingdom': Understanding Peters’ Unique Structure](/2025/12/05/how-to-read-the-theocratic-kingdom/)**  
 *5 min read*  
 A guide to navigating the propositions, observations, and historical citations that make up the three volumes.
 
-### **3. Discussing Peters' Introduction**
+### **4. Discussing Peters' Introduction**
 **[Rediscovering the Kingdom: Discussing Peters' Introduction](/2025/12/05/the-theocratic-kingdom-introduction/)**  
 *6 min read*  
 A discussion on Peters' own introduction to his work, highlighting the importance of the Kingdom doctrine and the stability of Scripture.
