@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Read 'The Theocratic Kingdom': Understanding Peters’ Unique Structure"
-date:   2025-12-05 12:00:00 -0500
+date:   2025-12-04 12:00:00 -0500
 categories: [Introduction, The Theocratic Kingdom]
 tags: [Structure, Methodology, Propositions]
 image: /assets/post_images/book_structure.png
