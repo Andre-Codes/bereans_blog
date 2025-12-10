@@ -7,7 +7,7 @@ tags: [Kingdom of God, Premillennialism, Systematic Theology]
 image: /assets/post_images/intro.png
 ---
 
-For more than a century, [George N. H. Peters’](/gnh-peters/) *The Theocratic Kingdom* has stood as one of the most exhaustive, meticulously argued works ever written on the doctrine of the Kingdom of God. Spanning three volumes, thousands of scripture references, and hundreds of propositions, Peters undertakes something no author before or after has attempted: a systematic, historical, grammatical case that <span class="kingdom-gold">the Bible’s central theme is the coming, literal, earthly Kingdom of Christ</span>—the long-promised reign of the Son of David.
+For more than a century, [**George N. H. Peters’**](/gnh-peters/) *The Theocratic Kingdom* has stood as one of the most exhaustive, meticulously argued works ever written on the doctrine of the Kingdom of God. Spanning three volumes, thousands of scripture references, and hundreds of propositions, Peters undertakes something no author before or after has attempted: a systematic, historical, grammatical case that <span class="kingdom-gold">the Bible’s central theme is the coming, literal, earthly Kingdom of Christ</span>—the long-promised reign of the Son of David.
 
 Yet despite its scope and influence, *The Theocratic Kingdom* is rarely read today. Its length is formidable. Its nineteenth-century style and form can feel dense. Its structure, built on propositions, observations, and loaded with historical citations, can be difficult for modern readers to navigate. And its core argument runs against the prevailing assumptions of much contemporary theology.
 
