@@ -11,7 +11,7 @@ image: /assets/post_images/john_baptist_announcement_1.png
 ---
 
 
-Before we put on the scuba gear and plunge into the sea of Peters' propositions, let’s begin in the helicopter. First comes the broad view—the lay of the land, the shape of the coastline—before we descend into the depths. This will have us touch on some later propositions which we will of course return to in greater detail later with dedicated posts. For now, we will start with a broad discussion on the kingdom by diving straight into scripture. For this we begin with <span class="kingdom-gold">the announcement of the Kingdom</span>. 
+Before we put on the scuba gear and plunge into the sea of Peters' propositions, let’s begin in the helicopter. First comes the broad view—the lay of the land, the shape of the coastline—before we descend into the depths. This will have us touch on some later propositions which we will of course return to in greater detail later with dedicated posts. For now, we will start with a broad discussion on the kingdom by looking at the opening pages of the NT. For this we begin with <span class="kingdom-gold">the announcement of the Kingdom</span>. 
 
 To understand what the announcement of the kingdom actually meant we need to step into the world of a first-century Jew. Before we impose later theological systems, the task is simple: *hear the announcement the way they heard it.*
 

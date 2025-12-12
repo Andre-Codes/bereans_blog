@@ -30,9 +30,9 @@ This study is grounded in a literal, grammatical-historical interpretation of Sc
 
 ## Join the Study
 
-Whether you are a seasoned theologian or new to the study of eschatology, we hope these resources challenge and encourage you.
+Whether you are a seasoned theologian or new to the study of eschatology, we hope these resources challenge and encourage you. Recommended starting points include:
 
-*   [Start with the Introductory Post](/2025/12/03/blog-intro/)
-*   [Read about G.N.H. Peters](/gnh-peters/)
-*   [Browse the Blog](/index.html)
+1.   [Start with the Introductory Post](/2025/12/03/blog-intro/)
+2.   [Read about G.N.H. Peters](/gnh-peters/) (*highly recommended*)
+3.   [Browse the Blog](/index.html)
 
