@@ -118,3 +118,13 @@ He asks a piercing question regarding this uncertainty:
 </div>
 
 He highlights the contradiction between those who say the Kingdom has been continuous throughout history and those who admit the New Testament presents it as something "new." The spiritualizing method leaves us with a Kingdom that is <span class="kingdom-gold">everywhere and nowhere</span>, eternal and yet "at hand," creating a fog that obscures the clear timeline of prophecy.
+
+### Conclusion: A Fog of Our Own Making
+
+What Peters uncovered in his own century is exactly what we still face: once the clear, covenanted, Davidic Kingdom is reinterpreted, spiritualized, or abstracted, everything else begins to wobble. The definitions multiply, the timelines blur, and the “Kingdom” becomes whatever the interpreter needs it to be. Instead of a concrete, promised government rooted in Scripture, we inherit a cloud of competing metaphors, each claiming the same name but pointing in wildly different directions.
+
+The result is not merely academic confusion—it is a loss of theological coherence. When the Kingdom becomes subjective, elastic, or symbolic, the promises attached to it lose their weight, and our hope becomes as foggy as our definitions.
+
+If this was the state of things in Peters’ time, what happened when the 20th and 21st centuries arrived with new philosophies, new politics, new movements, and new theological agendas?
+
+In Part 2, we follow Peters’ warning into the modern world—and watch how the fog thickened, fractured, and spread even further.

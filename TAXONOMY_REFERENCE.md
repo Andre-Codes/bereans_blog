@@ -33,6 +33,7 @@ This document serves as a reference for the categories and tags used in the Bere
 *   `Resurrection`
 *   `Millennium`
 *   `Basileia` (Greek term for Kingdom)
+*   `Modern Theology`
 
 ### Interpretive Themes
 *   `Hermeneutics`
