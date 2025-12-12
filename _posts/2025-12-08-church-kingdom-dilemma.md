@@ -2,7 +2,7 @@
 layout: post
 title:  "The Critics, the Church, and the Collision: How Modern Theories Opened the Door to Rationalism"
 date:   2025-12-08 12:00:00 -0500
-categories: [Propositions, The Theocratic Kingdom, Hermeneutics]
+categories: [Hermeneutics]
 tags: [Spiritualizing, Literal Interpretation]
 propositions: [17, 19, 21, 23]
 series: "The Kingdom Framework"

@@ -6,10 +6,11 @@ This document serves as a reference for the categories and tags used in the Bere
 *Broad groupings for posts.*
 
 *   **Introduction**: Posts that introduce the blog, the author, or major new series.
-*   **The Theocratic Kingdom**: Core studies directly related to George N. H. Peters' work.
-*   **Propositions**: Specific posts analyzing one of Peters' propositions (e.g., Prop 19).
 *   **Biblical Studies**: Exegesis of specific scripture passages not strictly tied to a Proposition.
 *   **Historical Theology**: Examinations of how the Kingdom has been viewed throughout church history.
+*   **Ecclesiology**: The study of the Church, its role in the present age, and its distinction from the Kingdom.
+*   **Eschatology**: The study of end times, prophecy, the Millennium, and the future Kingdom.
+*   **Systematic Theology**: Discussions on specific doctrines, definitions, and how theological concepts interrelate.
 *   **Hermeneutics**: Posts focusing on the methods of interpretation (literal vs. spiritualizing).
 *   **Reflections**: Personal thoughts or applications of the theology.
 
