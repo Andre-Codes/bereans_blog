@@ -94,9 +94,21 @@ Even the systematic giant Charles Hodge is not spared. Peters lists Hodge's seve
 If the *nature* of the Kingdom is confused, the *timing* is even worse. Peters points out that because theologians have abandoned the specific Davidic restoration, they cannot agree on when the Kingdom began.
 
 <div class="peters-quote">
-“They are as little agreed concerning its beginning as in its meaning. Some commence it in paradise; others, after the fall... some with the patriarchs... others, at the preaching of John the Baptist; some, with the birth of Christ... others, on the day of Pentecost; and others, at the destruction of Jerusalem.”
+“Those who give us such definitions, antagonistic to the primitive Church view, exhibit also the greatest diversity among themselves respecting the commencement of this kingdom in its supposed present form. They are as little agreed concerning its beginning as in its meaning.”
 <br>— <em>Prop. 3, Obs. 8</em>
 </div>
+
+A direct symptom of these vague definitions is the profound lack of consensus on when the Kingdom actually began. Theologians have proposed numerous, conflicting start dates, including:
+
+*   In Paradise
+*   After the Fall
+*   At the establishment of the Theocracy at Sinai
+*   With the preaching of John the Baptist
+*   At the birth, baptism, or death of Christ
+*   On the day of Pentecost
+*   At the destruction of Jerusalem
+
+This radical disagreement on a point as fundamental as the Kingdom's inauguration is presented not merely as scholarly debate, but as dispositive proof that the modern definitions are fatally flawed, arising from a non-scriptural "felt need to locate a presently existing kingdom."
 
 He asks a piercing question regarding this uncertainty:
 
