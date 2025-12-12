@@ -159,6 +159,4 @@ From this foundation, the next posts will ask:
 
 Post 2 will explore how various theories attempted to reconcile the announcement with non-literal interpretations—and why those attempts fail.
 
-Post 3 will turn fully to the expectations themselves: the Davidic covenant, the prophetic promises, and the way Mary, Zechariah, John, Jesus, and the disciples all understood the kingdom’s meaning.
-
-From there we will then turn to *Proposition 1* to begin the deep dive.
+Post 3 will turn fully to the expectations themselves: the Davidic covenant, the prophetic promises, and how the first-century Jewish mind understood them.
