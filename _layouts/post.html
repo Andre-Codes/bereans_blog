@@ -43,5 +43,14 @@ layout: default
     {{ content }}
   </div>
 
+  <!-- Next Post Button -->
+  {% if page.next %}
+    <div class="post-navigation" style="margin-top: 3rem; text-align: right;">
+      <a href="{{ page.next.url | relative_url }}" class="next-post-button">
+        Next Post: {{ page.next.title }} &rarr;
+      </a>
+    </div>
+  {% endif %}
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

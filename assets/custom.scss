@@ -162,3 +162,20 @@ blockquote {
   font-style: italic;
   margin-left: 5px;
 }
+
+/* Next Post Button */
+.next-post-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #5d4037; /* Antique Brown to match headings */
+  color: #ffffff !important; /* White text */
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  
+  &:hover {
+    background-color: #3e2723; /* Darker brown on hover */
+    text-decoration: none;
+  }
+}
