@@ -33,22 +33,25 @@ For centuries, theologians have debated the central theme of the Bible. Peters a
 
 To demonstrate why this subject deserves the “first rank,” Peters lists numerous particulars in Observation 1, showing the doctrine’s sheer magnitude:
 
-- The Kingdom is the object guaranteed by God’s oath-bound covenant.
-- It is the central theme and burden of biblical prophecy.
-- Scripture devotes more space to the Kingdom than to any other doctrine.
-- It was the leading topic preached by John the Baptist, Christ, the disciples, and the apostles.
-- It was a cherished theme in the preaching of the early Church.
-- It is the foundation of true biblical preaching, since the Gospel itself is “the gospel of the Kingdom.”
-- Jesus came, suffered, died, and will return for the purpose of establishing and manifesting this Kingdom.
-- Christ is deeply invested in it, for it is His honor, His inheritance, and His appointed destiny.
-- Believers are invited to inherit this Kingdom as a supreme privilege.
-- It is the constant object of Christian faith and hope, shaping prayer, duty, and watchfulness.
-- It is the goal toward which all prior dispensations have been moving.
-- It contains the completion of redemption, where all God’s promises reach fulfillment.
-- It outwardly displays God’s will in saving humanity and liberating creation.
-- It unifies all divine revelation, vindicating Scripture and its prophetic design.
-- It affirms both the humanity and divinity of Christ and displays His majesty as the Theocratic King, together with the exaltation of His co-heirs.
-
+<div class="feature-callout">
+	<ul class="feature-grid">
+		<li>The Kingdom is the object guaranteed by God’s oath-bound covenant.</li>
+		<li>It is the central theme and burden of biblical prophecy.</li>
+		<li>Scripture devotes more space to the Kingdom than to any other doctrine.</li>
+		<li>It was the leading topic preached by John the Baptist, Christ, the disciples, and the apostles.</li>
+		<li>It was a cherished theme in the preaching of the early Church.</li>
+		<li>It is the foundation of true biblical preaching, since the Gospel itself is “the gospel of the Kingdom.”</li>
+		<li>Jesus came, suffered, died, and will return for the purpose of establishing and manifesting this Kingdom.</li>
+		<li>Christ is deeply invested in it, for it is His honor, His inheritance, and His appointed destiny.</li>
+		<li>Believers are invited to inherit this Kingdom as a supreme privilege.</li>
+		<li>It is the constant object of Christian faith and hope, shaping prayer, duty, and watchfulness.</li>
+		<li>It is the goal toward which all prior dispensations have been moving.</li>
+		<li>It contains the completion of redemption, where all God’s promises reach fulfillment.</li>
+		<li>It outwardly displays God’s will in saving humanity and liberating creation.</li>
+		<li>It unifies all divine revelation, vindicating Scripture and its prophetic design.</li>
+		<li>It affirms both the humanity and divinity of Christ and displays His majesty as the Theocratic King, together with the exaltation of His co-heirs.</li>
+	</ul>
+</div>
 He concludes this observation by noting that the Kingdom “enforces not only the humanity... of Christ, but also His Divinity... with the strongest reasoning.”
 
 ---

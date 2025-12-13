@@ -179,3 +179,84 @@ blockquote {
     text-decoration: none;
   }
 }
+
+/* Feature grid (two-column) */
+.feature-callout {
+  margin: 1.25rem 0;
+}
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem 0.75rem; /* smaller gaps */
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.95rem; /* slightly smaller overall */
+}
+.feature-grid li {
+  background: #fffaf6;
+  border: 1px solid #efe6dd;
+  padding: 0.45rem 0.5rem; /* slightly smaller padding */
+  border-radius: 6px;
+  color: #3e2723;
+  line-height: 1.15; /* tighter line height */
+  font-size: 0.85rem; /* a few points smaller */
+}
+
+@media (max-width: 700px) {
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Post figure helpers: floating and block display */
+.post-figure {
+  display: block;
+  margin: 0 0 1rem 0;
+}
+.post-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.post-figure .figure-caption {
+  font-size: 0.85rem;
+  color: #6b4f42;
+  margin-top: 0.4rem;
+}
+
+.post-figure.image-left {
+  float: left;
+  margin-right: 1rem; /* space between image and text */
+  margin-bottom: 0.65rem;
+  width: auto; /* constrained by inline style max-width when provided */
+}
+.post-figure.image-right {
+  float: right;
+  margin-left: 1rem;
+  margin-bottom: 0.65rem;
+  width: auto;
+}
+.post-figure.image-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Prevent very long lists or paragraphs from overlapping floated images */
+.post-content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 780px) {
+  /* stack images on small screens */
+  .post-figure.image-left,
+  .post-figure.image-right {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100% !important;
+  }
+}

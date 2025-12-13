@@ -40,7 +40,37 @@ series_order: 1              # Optional: 1, 2, 3...
 
 *   **Image:** Place images in `assets/post_images/`.
 *   **Taxonomy:** See `TAXONOMY_REFERENCE.md` for approved categories and tags.
-*   **Propositions:** List the proposition numbers (e.g., `[17, 19]`) discussed in the post. These will appear on the [Propositions Index](/propositions/).
+*   **Propositions:** List the proposition numbers (e.g., `[17, 19]`) discussed in the post. These will appear on the [Propositions Index](/propositions/). These will also be used to make 'badges' at top of the post.
+
+### Proposition badges (top of post)
+
+If you add a `propositions` array in a post's front matter, the layout will automatically render a small proposition badge near the top of the post header. Example front matter:
+
+```yaml
+propositions: [1, 19]
+```
+
+The badge is generated in the post layout and styled with the `.proposition-badge` class. Use numeric proposition identifiers only; the layout will format and display them for you.
+
+### Feature callout / Feature grid
+
+Use the `feature-callout` wrapper with the `feature-grid` list to present long lists in a compact, two-column layout that collapses to one column on small screens. Example (paste into the post where you want the list):
+
+```html
+<div class="feature-callout">
+  <ul class="feature-grid">
+    <li>First compact item</li>
+    <li>Second compact item</li>
+    <li>Third compact item</li>
+    <!-- more items -->
+  </ul>
+</div>
+```
+
+Notes:
+- The grid is responsive (switches to one column below ~700px).
+- Items are styled via `.feature-grid li` (smaller font, reduced padding) to keep long lists compact and scannable.
+- If you prefer larger spacing, edit `assets/custom.scss` or wrap with your own utility class.
 
 ---
 
