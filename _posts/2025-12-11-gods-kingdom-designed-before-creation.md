@@ -5,6 +5,7 @@ date:   2025-12-11 12:00:00 -0500
 categories: [Biblical Studies]
 tags: [Creation]
 propositions: [2]
+image: /assets/post_images/kingdom_before_eternity.png
 ---
 
 In the study of eschatology and the Divine Plan, few concepts are as stabilizing and awe-inspiring as the realization that God’s Kingdom is not a reaction to history, but the very reason for history. In his monumental work, *The Theocratic Kingdom*, G.N.H. Peters lays out a profound proposition that shifts our eyes from the chaos of the present to the unshakeable intent of the past.

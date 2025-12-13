@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rediscovering the Kingdom: Discussing Peters' Introduction"
-date:   2025-12-05 12:00:00 -0500
+title: "Rediscovering the Kingdom: Discussing Peters' Introduction"
+date: 2025-12-05 12:00:00 -0500
 categories: [Introduction, The Theocratic Kingdom]
 tags: [Hermeneutics, Premillennialism]
 image: /assets/post_images/rediscover_the_kingdom.png

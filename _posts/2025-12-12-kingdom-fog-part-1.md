@@ -7,6 +7,7 @@ tags: [Hermeneutics, Spiritualizing]
 propositions: [3]
 series: "The Kingdom Fog"
 series_order: 1
+image: /assets/post_images/kingdom_fog.png
 ---
 
 If you were to walk into five different churches this Sunday and ask the pastors to define the "Kingdom of God," you would likely receive five mutually exclusive answers. To one, it is the institutional Church itself, the visible hierarchy of believers; to another, it is a progressive movement for social justice, economic equity, and political reform; to a third, it is a subjective sense of inner peace or the "reign of God in the heart"; to a fourth, it is a mystical, existential encounter with the divine; and to a fifth, it is simply a synonym for heaven, the ethereal place we go when we die.

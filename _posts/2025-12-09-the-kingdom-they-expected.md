@@ -214,7 +214,9 @@ The only framework that fits every detail of the announcement, every expectation
 7. **The future messianic kingdom still awaits literal fulfillment.**
 
 
-This concludes the high-level overview that sets the stage for the rest of what this blog is dedicated to. With this framework established, we are now prepared to move forward in a careful, sequential study. The posts that follow will begin walking through George N. H. Peters’ propositions one by one, allowing his arguments to unfold in the order he constructed them, tested against Scripture, history, and reason.
+This concludes the high-level overview that sets the stage for the rest of what this blog is dedicated to. With this framework established, we are now prepared to continue forward with the careful, sequential study. Continuing with *proposition 2* and onward, we will begin walking through George N. H. Peters’ propositions one by one, allowing his arguments to unfold in the order he constructed them, tested against Scripture, history, and reason.
+
+In the next post, we discuss how it was purposed in eternity: [God’s Kingdom Designed Before Creation](/2025/12/11/gods-kingdom-designed-before-creation/).
 
 ---
 

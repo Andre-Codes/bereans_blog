@@ -7,6 +7,7 @@ tags: [Hermeneutics]
 propositions: [3]
 series: "The Kingdom Fog"
 series_order: 2
+image: /assets/post_images/kingdom_fog.png
 ---
 
 In [Part 1](/2025/12/12/kingdom-fog-part-1/), we established G.N.H. Peters' core critique: when the "Kingdom of God" is severed from its literal Davidic roots, it becomes a "wax nose," capable of being shaped into any form the interpreter desires. Peters predicted that this <span class="kingdom-gold">abandonment of the covenanted definition</span> would lead to a "vague" and "indefinite" theology where the Kingdom means everything and nothing.
