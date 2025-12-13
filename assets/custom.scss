@@ -51,6 +51,26 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.05em;
 }
 
+/* Proposition Badge in Post Header */
+.proposition-badge-container {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.proposition-badge {
+  display: inline-block;
+  background-color: #f9f7f1; /* Light parchment look */
+  border: 1px solid #8d6e63; /* Antique brown border */
+  border-left: 4px solid #8d6e63; /* Thicker left border like the block */
+  padding: 4px 12px;
+  font-family: "Georgia", serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #5d4037; /* Antique Brown text */
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+}
+
 /* Emphasis for strong points */
 .kingdom-gold {
   color: #b8860b; /* Dark Goldenrod */

@@ -13,6 +13,18 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+
+    {%- if page.propositions -%}
+    <div class="proposition-badge-container">
+      <span class="proposition-badge">
+        {%- if page.propositions.size > 1 -%}
+          Props {{ page.propositions | join: ", " }}
+        {%- else -%}
+          Prop {{ page.propositions | first }}
+        {%- endif -%}
+      </span>
+    </div>
+    {%- endif -%}
   </header>
 
   <!-- NEW: Cover Image Section -->

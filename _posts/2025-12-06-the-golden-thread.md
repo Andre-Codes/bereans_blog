@@ -12,6 +12,8 @@ In the vast landscape of biblical theology, there is one subject that acts as th
 
 This is the core argument of G. N. H. Peters’ first proposition in *The Theocratic Kingdom*: <span class="kingdom-gold">the doctrine of the Kingdom is not a peripheral theme, but the organizing principle that clarifies everything else.</span>
 
+In this post we will jump right in and explore the first proposition. Then, we will take a brief detour to establish a high-level context and backdrop before moving on to *proposition 2* and beyond.
+
 <div class="proposition"><span class="prop-title">Proposition 1</span>The kingdom of God is a subject of vital importance.</div>
 
 Peters begins with a stark warning about the necessity of this doctrine:
