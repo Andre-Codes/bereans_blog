@@ -13,42 +13,56 @@ This document serves as a reference for the categories and tags used in the Bere
 *   **Systematic Theology**: Discussions on specific doctrines, definitions, and how theological concepts interrelate.
 *   **Hermeneutics**: Posts focusing on the methods of interpretation (literal vs. spiritualizing).
 *   **Reflections**: Personal thoughts or applications of the theology.
+*   **Modern Theology**: Analysis of contemporary theological trends and their impact on Kingdom doctrine.
 
 ## Tags
 *Specific keywords to describe the content.*
+
+**Guideline:** Categories should stay broad (from the list above). Use tags for granularity: proposition numbers, authors, books/works, covenants, interpretive moves, and specific doctrines.
 
 ### Key Figures
 *   `John the Baptist`
 *   `Jesus Christ`
 *   `The Apostles`
 *   `Church Fathers` (or specific names like `Papias`, `Irenaeus`)
+*   `Origen`
+
+### Works / Sources
+*   `The Coming Kingdom`
 
 ### Theological Concepts
 *   `Kingdom of God`
 *   `Theocracy`
 *   `Premillennialism`
+*   `Amillennialism`
+*   `Postmillennialism`
 *   `Covenant Theology`
+*   `Biblical Theology`
+*   `Systematic Theology`
+*   `Christology`
+*   `Exegesis`
 *   `Restoration of Israel`
+*   `Davidic Covenant`
+*   `Abrahamic Covenant`
 *   `Second Coming`
 *   `Resurrection`
 *   `Millennium`
 *   `Basileia` (Greek term for Kingdom)
-*   `Modern Theology`
 
 ### Interpretive Themes
 *   `Hermeneutics`
 *   `Literal Interpretation`
 *   `Grammatical-Historical Method`
 *   `Spiritualizing` (as a counter-point)
+*   `Allegory`
+*   `Alexandrian School`
+*   `Rationalism`
 *   `Jewish Expectations`
 *   `Kingdom Announcement`
 *   `Mystery of the Kingdom`
-
-### Specific Propositions (Examples)
-*   `Prop 1`
-*   `Prop 19`
-*   `Prop 20`
-*   ... (Add as you progress)
+*   `Progressive Revelation`
+*   `Typology`
+*   `Gospel of the Kingdom`
 
 ## Front Matter Template
 
