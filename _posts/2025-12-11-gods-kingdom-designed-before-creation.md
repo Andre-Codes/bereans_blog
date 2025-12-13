@@ -14,7 +14,7 @@ In the study of eschatology and the Divine Plan, few concepts are as stabilizing
   “The establishment of this kingdom was determined before, and designed and prepared from, the foundation of the world.”
 </div>
 
-This truth anchors the believer in the reality that the Kingdom was the <span class="kingdom-gold">original blueprint in the mind of the Creator</span>. As Peters notes, the Scriptures reveal that “the Divine purpose relating to the kingdom existed in the mind of the Eternal before the creation of the world” <span class="scripture">(Matthew 25:34, John 17:24, Ephesians 1:4, Hebrews 4:3, 1 Peter 1:20, Revelation 13:8)</span>.
+This truth anchors the believer in the reality that the Kingdom was the <span class="kingdom-gold">original blueprint in the mind of the Creator</span>. As Peters notes, the Scriptures reveal that “the Divine purpose relating to the kingdom existed in the mind of the Eternal before the creation of the world” (Matthew 25:34, John 17:24, Ephesians 1:4, Hebrews 4:3, 1 Peter 1:20, Revelation 13:8).
 
 Here are key insights regarding this eternal design, drawn directly from Peters’ work.
 
@@ -27,7 +27,7 @@ We often view creation as a separate event from the Kingdom, but Peters argues t
 <br>— <em>Prop. 2, Obs. 1</em>
 </div>
 
-Critics may mock the biblical language of the “foundations of the earth,” but Peters reminds us that “the general analogy of the Scriptures teach that these are in the creative power, wisdom, love—the attributes—of the Creator” <span class="scripture">(Job 26:7)</span>.
+Critics may mock the biblical language of the “foundations of the earth,” but Peters reminds us that “the general analogy of the Scriptures teach that these are in the creative power, wisdom, love—the attributes—of the Creator” (Job 26:7).
 
 We can properly infer the dignity of this subject, for it is “comprehended in the eternal counsels and evolved from the ever-existing ‘purpose of Him, which worketh all things after the counsel of His own will.’”
 
@@ -42,7 +42,7 @@ This is not a distant reality; rather:
 <br>— <em>Prop. 2, Obs. 2</em>
 </div>
 
-While the Fall introduced antagonistic elements, the original purpose remains. Peters argues that while unbelief views nature as an end in itself, the doctrine of the Kingdom proposes “a renewal, a deliverance, a restitution, which shall free nature, exalt man, and glorify the Maker” <span class="scripture">(Ephesians 1:4, 1 Peter 1:20)</span>.
+While the Fall introduced antagonistic elements, the original purpose remains. Peters argues that while unbelief views nature as an end in itself, the doctrine of the Kingdom proposes “a renewal, a deliverance, a restitution, which shall free nature, exalt man, and glorify the Maker” (Ephesians 1:4, 1 Peter 1:20).
 
 ### **A Restitution of What Was Marred**
 
@@ -78,7 +78,7 @@ Why has history unfolded in this specific way? Peters suggests that the very age
 <br>— <em>Prop. 2, Obs. 6</em>
 </div>
 
-Whether we look at the Adamic, Abrahamic, or Christian ages, they are “ordered in their succession as part of the Divine purpose in relation to this kingdom” <span class="scripture">(1 Corinthians 2:7)</span>.
+Whether we look at the Adamic, Abrahamic, or Christian ages, they are “ordered in their succession as part of the Divine purpose in relation to this kingdom” (1 Corinthians 2:7).
 
 ### **The Unchanging Nature of the Plan**
 
@@ -93,7 +93,7 @@ Furthermore, “God will undoubtedly accomplish His revealed will concerning it,
 
 ### **Wisdom Rejoices in the Earth**
 
-Finally, this doctrine vindicates the wisdom of God. It shows a cohesive narrative from Genesis to Revelation. In “<span class="scripture">Proverbs 8:31</span>, wisdom is represented as ‘rejoicing in the habitable part of his earth,’ and as delighting in or presenting ‘my delights’ to ‘the sons of men.’”
+Finally, this doctrine vindicates the wisdom of God. It shows a cohesive narrative from Genesis to Revelation. In “Proverbs 8:31, wisdom is represented as <span class="scripture">‘rejoicing in the habitable part of his earth,’</span> and as delighting in or presenting <span class="scripture">‘my delights’</span> to <span class="scripture">‘the sons of men.’</span>”
 
 Ultimately, this grand design proves the existence of a guiding Mind:
 
@@ -104,4 +104,4 @@ Ultimately, this grand design proves the existence of a guiding Mind:
 
 ### **Conclusion**
 
-The Kingdom is not a secondary ambition of God. It is the <span class="kingdom-gold">original reason for the ground we walk on</span>. As we study Scripture, we find that “known unto God are all His works from the beginning of the world” <span class="scripture">(Acts 15:18)</span>, and we can rest in the certainty that He who designed the foundation will also bring about the glorious capstone.
+The Kingdom is not a secondary ambition of God. It is the <span class="kingdom-gold">original reason for the ground we walk on</span>. As we study Scripture, we find that “known unto God are all His works from the beginning of the world” (Acts 15:18), and we can rest in the certainty that He who designed the foundation will also bring about the glorious capstone.

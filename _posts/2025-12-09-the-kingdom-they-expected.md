@@ -118,7 +118,7 @@ Before John or Jesus ever preach, Mary and Zechariah give Spirit-filled interpre
 ### **The Angel’s Announcement to Mary**
 
 <span class="scripture">“He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever, and His kingdom will have no end.”</span>
-<span class="scripture">-Luke 1:32–33</span>
+-Luke 1:32–33
 
 No spiritualizing.
 No redefinition.

@@ -59,17 +59,17 @@ Peters addresses this head-on in Observation 3.
 
 Rather than diminishing Christ, the Kingdom places Him in His biblically intended role. The King is always greater than the Kingdom—and Peters insists that any proper understanding of the Kingdom forces us to see Christ in a higher and more exalted light, not a lower one.
 
-The Kingdom exists because of Christ; it is His inheritance, His coronation, and His publicly manifested glory (<span class="scripture">Ps 2:6–8; Rev 11:15</span>).
+The Kingdom exists because of Christ; it is His inheritance, His coronation, and His publicly manifested glory (Ps 2:6–8; Rev 11:15).
 
 To deny or minimize that Kingdom is, ironically, to diminish the very glory Scripture assigns to the Son. We cannot honor a King while denying the realm He is prophesied to rule.
 
-The relationship between the King and the Kingdom is therefore inseparable. Christ is not absorbed into the doctrine of the Kingdom—He is the very center of it. The covenants themselves point directly to Him as the heir of David’s throne (<span class="scripture">2 Sam 7:12–16; Lk 1:32–33</span>). The Kingdom is not a competing theme alongside Christ; it is the arena in which His redemptive work reaches its full and visible expression.
+The relationship between the King and the Kingdom is therefore inseparable. Christ is not absorbed into the doctrine of the Kingdom—He is the very center of it. The covenants themselves point directly to Him as the heir of David’s throne (2 Sam 7:12–16; Lk 1:32–33). The Kingdom is not a competing theme alongside Christ; it is the arena in which His redemptive work reaches its full and visible expression.
 
 Peters captures this beautifully when he reminds us that in the literal, Theocratic Kingdom, “Jesus Himself is evermore the central figure.”
 
-This is why the apostles consistently connect His exaltation with His future reign (<span class="scripture">Acts 2:29–36; Heb 2:5–9</span>). It’s why Jesus ties His own return to the renewal of the world and the restoration of Israel’s fortunes (<span class="scripture">Mt 19:28; Acts 1:6–7</span>). And it’s why Scripture speaks of the Kingdom as His inheritance—the place where every promise of God finds its “Yes” in Him (<span class="scripture">2 Cor 1:20</span>).
+This is why the apostles consistently connect His exaltation with His future reign (Acts 2:29–36; Heb 2:5–9). It’s why Jesus ties His own return to the renewal of the world and the restoration of Israel’s fortunes (Mt 19:28; Acts 1:6–7). And it’s why Scripture speaks of the Kingdom as His inheritance—the place where every promise of God finds its “Yes” in Him (2 Cor 1:20).
 
-Far from reducing Christ’s significance, the Kingdom doctrine heightens it. It shows that His mediatorial work does not end at the cross or even at the resurrection but culminates in His visible, earthly, covenant-fulfilling reign—the moment when creation itself is liberated and restored (<span class="scripture">Rom 8:19–23</span>).
+Far from reducing Christ’s significance, the Kingdom doctrine heightens it. It shows that His mediatorial work does not end at the cross or even at the resurrection but culminates in His visible, earthly, covenant-fulfilling reign—the moment when creation itself is liberated and restored (Rom 8:19–23).
 
 In Peters’ words, Christ can “never be regarded in a higher, holier, clearer light” than when He is beheld as the King who inherits and manifests the Kingdom in all its fullness.
 
