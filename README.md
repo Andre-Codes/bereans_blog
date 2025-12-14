@@ -72,6 +72,29 @@ Notes:
 - Items are styled via `.feature-grid li` (smaller font, reduced padding) to keep long lists compact and scannable.
 - If you prefer larger spacing, edit `assets/custom.scss` or wrap with your own utility class.
 
+### Image utilities (quick floats)
+
+If you prefer simple inline images instead of the include, you can add one of these CSS utility classes to an `<img>` tag or use kramdown attribute lists.
+
+Examples:
+
+HTML:
+```html
+<img src="/assets/post_images/mary_and_thrones.png" alt="Mary and the thrones" class="image-left" width="250">
+<img src="/assets/post_images/zechariah_and_baby_john.png" alt="Zechariah" class="image-right" width="250">
+<img src="/assets/post_images/large.png" alt="Large" class="image-block" width="700">
+```
+
+kramdown shorthand:
+```markdown
+![Mary and the thrones](/assets/post_images/mary_and_thrones.png){:.image-left width=250}
+```
+
+Notes:
+- `.image-left` and `.image-right` float the image with sensible margins and collapse to block on small screens.
+- `.image-block` centers the image.
+- These utilities are defined in `assets/custom.scss`.
+
 ---
 
 ## Styling & Features Guide

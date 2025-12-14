@@ -171,7 +171,7 @@ blockquote {
   color: #ffffff !important; /* White text */
   text-decoration: none;
   border-radius: 5px;
-  font-weight: bold;
+  font-weight: normal;
   transition: background-color 0.3s ease;
   
   &:hover {
@@ -258,5 +258,40 @@ blockquote {
     margin-left: 0;
     margin-right: 0;
     max-width: 100% !important;
+  }
+}
+
+/* Simple utility classes for inline images (no include required)
+   Usage in Markdown/HTML:
+     <img src="/assets/post_images/foo.png" alt="Alt" class="image-left" width="250">
+     ![Alt](/assets/post_images/foo.png){:.image-right width=250}
+     <img src="/assets/post_images/foo.png" alt="Alt" class="image-block" width="700">
+*/
+.image-left {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 6px;
+  max-width: 45%;
+}
+.image-right {
+  float: right;
+  margin-left: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 6px;
+  max-width: 45%;
+}
+.image-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+}
+
+@media (max-width: 780px) {
+  .image-left, .image-right {
+    float: none;
+    margin: 0 0 1rem 0;
+    max-width: 100%;
   }
 }

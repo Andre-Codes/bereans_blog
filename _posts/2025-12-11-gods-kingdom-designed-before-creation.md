@@ -8,7 +8,7 @@ propositions: [2]
 image: /assets/post_images/kingdom_before_eternity.png
 ---
 
-In the study of eschatology and the Divine Plan, few concepts are as stabilizing and awe-inspiring as the realization that God’s Kingdom is not a reaction to history, but the very reason for history. In his monumental work, *The Theocratic Kingdom*, G.N.H. Peters lays out a profound proposition that shifts our eyes from the chaos of the present to the unshakeable intent of the past.
+In the study of eschatology and the Divine Plan, few concepts are as stabilizing and awe-inspiring as the realization that God’s Kingdom is not a reaction to history, but the very reason for history. In *The Theocratic Kingdom*, G.N.H. Peters lays out a proposition that shifts our eyes from the chaos of the present to the immutable purpose of the past.
 
 <div class="proposition">
   <span class="prop-title">Prop. 2</span>
@@ -43,7 +43,7 @@ This is not a distant reality; rather:
 <br>— <em>Prop. 2, Obs. 2</em>
 </div>
 
-While the Fall introduced antagonistic elements, the original purpose remains. Peters argues that while unbelief views nature as an end in itself, the doctrine of the Kingdom proposes “a renewal, a deliverance, a restitution, which shall free nature, exalt man, and glorify the Maker” (Ephesians 1:4, 1 Peter 1:20).
+While the Fall introduced sin, the original purpose remains. Peters argues that while unbelief views nature as an end in itself, the doctrine of the Kingdom proposes “a renewal, a deliverance, a restitution, which shall free nature, exalt man, and glorify the Maker” (Ephesians 1:4, 1 Peter 1:20).
 
 ### **A Restitution of What Was Marred**
 
@@ -79,7 +79,7 @@ Why has history unfolded in this specific way? Peters suggests that the very age
 <br>— <em>Prop. 2, Obs. 6</em>
 </div>
 
-Whether we look at the Adamic, Abrahamic, or Christian ages, they are “ordered in their succession as part of the Divine purpose in relation to this kingdom” (1 Corinthians 2:7).
+Whether we look at the Adamic, Abrahamic, or Church ages, they are “ordered in their succession as part of the Divine purpose in relation to this kingdom” (1 Corinthians 2:7). In Matt. 24:3 the disciples even inquire about the <span class="scripture">end of the age</span>, indicating that the ages themselves are tied to the Kingdom’s fulfillment.
 
 ### **The Unchanging Nature of the Plan**
 
@@ -90,11 +90,18 @@ Because this plan is rooted in God’s attributes, it cannot be easily cast asid
 <br>— <em>Prop. 2, Obs. 7</em>
 </div>
 
-Furthermore, “God will undoubtedly accomplish His revealed will concerning it, confirmed as it is even by oath. God Himself stands pledged to the ultimate realization of this idea.”
+Furthermore:
+
+<div class="peters-quote">
+"The idea of the kingdom being thus identified in its connection with eternal purpose and with
+creation, God will undoubtedly accomplish His revealed will concerning it, confirmed as it is even by
+oath. God Himself stands pledged to the ultimate realization of this idea."
+<br>— <em>Prop. 2, Obs. 3</em>
+</div>
 
 ### **Wisdom Rejoices in the Earth**
 
-Finally, this doctrine vindicates the wisdom of God. It shows a cohesive narrative from Genesis to Revelation. In “Proverbs 8:31, wisdom is represented as <span class="scripture">‘rejoicing in the habitable part of his earth,’</span> and as delighting in or presenting <span class="scripture">‘my delights’</span> to <span class="scripture">‘the sons of men.’</span>”
+Finally, this doctrine vindicates the wisdom of God. It shows a cohesive narrative from Genesis to Revelation. In “Proverbs 8:31, wisdom is represented as <span class="scripture">rejoicing in the habitable part of his earth,</span> and as delighting in or presenting <span class="scripture">my delights</span> to <span class="scripture">the sons of men.</span>”
 
 Ultimately, this grand design proves the existence of a guiding Mind:
 
@@ -103,6 +110,4 @@ Ultimately, this grand design proves the existence of a guiding Mind:
 <br>— <em>Prop. 2, Obs. 9</em>
 </div>
 
-### **Conclusion**
-
-The Kingdom is not a secondary ambition of God. It is the <span class="kingdom-gold">original reason for the ground we walk on</span>. As we study Scripture, we find that “known unto God are all His works from the beginning of the world” (Acts 15:18), and we can rest in the certainty that He who designed the foundation will also bring about the glorious capstone.
+As we study, we find that <span class="scripture">known unto God are all His works from the beginning of the world</span> (Acts 15:18), and we can rest in the certainty that He who designed the foundation will also bring about the glorious capstone.

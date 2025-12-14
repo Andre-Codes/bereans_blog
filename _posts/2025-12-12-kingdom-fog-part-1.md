@@ -12,7 +12,7 @@ image: /assets/post_images/kingdom_fog.png
 
 If you were to walk into five different churches this Sunday and ask the pastors to define the "Kingdom of God," you would likely receive five mutually exclusive answers. To one, it is the institutional Church itself, the visible hierarchy of believers; to another, it is a progressive movement for social justice, economic equity, and political reform; to a third, it is a subjective sense of inner peace or the "reign of God in the heart"; to a fourth, it is a mystical, existential encounter with the divine; and to a fifth, it is simply a synonym for heaven, the ethereal place we go when we die.
 
-We often assume this theological vertigo is a strictly modern phenomenon, perhaps a byproduct of postmodern deconstruction, 20th-century liberal drift, or the fracturing of denominations. But over a century ago, the premillennialist theologian George N.H. Peters identified this exact crisis. In his magnum opus, *The Theocratic Kingdom*, Peters argued that <span class="kingdom-gold">abandoning the literal, covenanted definition of the Kingdom</span>—specifically its rooting in the Davidic Covenant—<span class="kingdom-gold">leads inevitably to theological chaos.</span>
+We often assume this theological juggling is a strictly modern phenomenon, perhaps a byproduct of postmodern deconstruction, 20th-century liberal drift, or the fracturing of denominations. But over a century ago, the premillennialist theologian George N.H. Peters identified this exact crisis. In *The Theocratic Kingdom*, Peters argued that <span class="kingdom-gold">abandoning the literal, covenanted definition of the Kingdom</span>—specifically its rooting in the Davidic Covenant—<span class="kingdom-gold">leads inevitably to theological chaos.</span>
 
 In **Proposition 3**, Peters laid out a critique that is as devastating and relevant today as it was in 1884. He foresaw that without a specific anchor, the "Kingdom" would become a wax nose, shaped by the cultural and philosophical preferences of every passing generation.
 
@@ -44,7 +44,7 @@ This "option of the writer" is the root of our modern crisis. It allows the inte
 <br>— <em>Prop. 3, Obs. 3</em>
 </div>
 
-This looseness allows even skeptics and rationalists to co-opt the term. Peters cites Renan and others who strip the Kingdom of divinity entirely, redefining it as "the reign of the poor," "the liberty of the soul," or "civilization viewed religiously." When the definition is loose, it becomes a "phantom" that anyone can claim.
+This looseness allows even skeptics and rationalists to play with the term. Peters cites Renan and others who strip the Kingdom of divinity entirely, redefining it as "the reign of the poor," "the liberty of the soul," or "civilization viewed religiously." When the definition is loose, it becomes a "phantom" that anyone can claim.
 
 ### **The Contradictions: A Multiplication of Kingdoms**
 
@@ -77,18 +77,33 @@ He applies similar scrutiny to theologians like Dr. Barrow, who defined the King
 <br>— <em>Prop. 3, Obs. 10</em>
 </div>
 
+Appellation of faith indeed. By failing to maintain clear, scriptural definitions, theologians create a fog of confusion where the Kingdom can mean anything and everything, leading to contradictions that undermine the very concept they seek to uphold. When, as we've briefly demonstrated in prior posts, the Kingdom was is very definite, covenanted, and concrete reality, expected by God's chosen people and preached by Christ Himself.
+
 #### **The Multiplication of Realms**
 
-Perhaps the most absurd consequence of spiritualizing the Kingdom is the sheer number of "Kingdoms" theologians are forced to invent to make their systems work.
+Perhaps the most absurd consequence of spiritualizing the Kingdom is the sheer number of “Kingdoms” theologians are forced to invent in order to preserve their systems. Once the covenanted, Davidic Kingdom is set aside, and Israel is spiritualized into the Church, <span class="kingdom-gold">theology compensates by multiplying definitions, each tailored to explain away texts that no longer fit.</span>
 
-Peters notes that scholars like Neander were forced to create seven different definitions, including an "invisible kingdom in the Church," a "visible kingdom in the Church," and a "kingdom in the person of Christ." Similarly, Dr. Lange divided the Kingdom into the "kingdom of power," "kingdom of grace," and "kingdom of glory," and then subdivided *each of those* into two more. Peters wryly remarks on these inventions:
+Peters observed this tendency already in his own century. Scholars such as Neander were compelled to invent multiple kingdoms—an “invisible kingdom in the Church,” a “visible kingdom in the Church,” and even a “kingdom in the person of Christ.” Dr. Lange went further, dividing the Kingdom into the “kingdom of power,” the “kingdom of grace,” and the “kingdom of glory,” only to subdivide each of those again. The result was not clarity, but escalation.
 
-<div class="peters-quote">
-“These are purely theological deductions, having no foundation whatever in Scripture... Like preceding definitions, it lowers the theocracy by denying to it the reality of being in all respects the kingdom of God. This alone should cause us to receive it with grave doubts.”
-<br>— <em>Prop. 3, Obs. 4</em>
-</div>
+What follows is not an exaggeration but a representative sample of how leading theologians, many of whom Peters admired, were forced to redefine and multiply the Kingdom once its original covenantal meaning was abandoned:
 
-Even the systematic giant Charles Hodge is not spared. Peters lists Hodge's seven different manifestations of the Kingdom, asking, *"How can it be new, if it has always existed?"* He concludes that a system requiring such a dizzying array of definitions "forces upon our minds the suspicion that there must be a serious defect."
+
+| **Theologian / Source**                                                       | **Primary Definition of the Kingdom**                                                              | **Key Divisions / Features**                                                                                                                      | **Temporal Orientation**                           | **Core Problem Identified by Peters**                                                                       |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Dr. Johann Peter Lange**                                                    | A multi-layered divine order encompassing power, grace, and glory                                  | Sixfold division: power (nature & rebellion), grace (OT type & NT spiritual), glory (heavenly Church & final union)                               | Eternal, present, and future simultaneously        | Purely theological deductions; no scriptural foundation; constant shifting of meaning; lowers the Theocracy |
+| **Lange (Commentary, later statements)**                                      | Restoration of humanity under Christ; spiritual redemption; dominion of the Spirit in human hearts | Kingdom as new creation; inner spiritual rule; Church-founded kingdom; kingdom in Christ and Christ in kingdom                                    | From beginning of time → Apostolic Church → future | Internal contradictions; substitutes means (Church, redemption) for the Kingdom itself                      |
+| **Friedrich Olshausen**                                                       | Both external and internal Kingdom                                                                 | External: Church & consummation; Internal: believer’s heart & ideal future                                                                        | Present now and still future                       | Arbitrary tense-shifting; collapses covenanted Kingdom into Church and inward experience                    |
+| **Millenarian-leaning Mystics (e.g., Oosterzee, Delitzsch, Auberlen, Bonar)** | Kingdom fully realized in millennium, but partially present now                                    | Present Church-kingdom merging into future Kingdom                                                                                                | Present and future                                 | Failure to distinguish Church from covenanted Kingdom; mystical dilution                                    |
+| **Charles Hodge**                                                             | Church identified as God’s Kingdom                                                                 | Seven forms: invisible patriarchal, visible Israel, invisible pre-Advent, kingdom of power, invisible spiritual, visible Church, kingdom of glory | Always existing + new at Christ’s coming           | Explosion of kingdoms; confuses Divine sovereignty with Theocracy; ignores covenant distinctions            |
+| **American Tract Society (NT Notes)**                                         | Reign of Christ’s Gospel over hearts and society                                                   | Multiple stages: individual heart, Church, society, millennium, judgment, heaven                                                                  | Continuous across all ages                         | Mistakes means (Gospel influence) for the Kingdom itself                                                    |
+| **Johann Christian Storr**                                                    | Kingdom spans entire Messianic era                                                                 | Compressed, undifferentiated Messianic time                                                                                                       | Entire age of Messiah                              | Ignores distinction between present Gentile times and future Messianic Kingdom                              |
+| **Johann Heinrich Schmid**                                                    | Dominion of exalted Christ over minds, Church history, judgment                                    | Grace, glory, judgment, divine order, spiritual communion                                                                                         | Eternal, developing, temporal                      | Over-expansion renders Kingdom undefined; includes nearly everything                                        |
+
+This proliferation is not accidental. <span class="kingdom-gold">Each additional “kingdom” exists to solve a theological problem created by spiritualizing the text.</span> Instead of allowing Scripture to define the Kingdom, these systems redefine the Kingdom to protect their conclusions—substituting abstractions, processes, and stages for a single promised reign.
+
+Peters’ assessment is devastating precisely because it is so restrained:
+
+<div class="peters-quote"> “These are purely theological deductions, having no foundation whatever in Scripture... Like preceding definitions, it lowers the theocracy by denying to it the reality of being in all respects the kingdom of God. This alone should cause us to receive it with grave doubts.” <br>— <em>Prop. 3, Obs. 4</em> </div>
 
 ### **The Chronological Chaos**
 

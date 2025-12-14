@@ -129,7 +129,7 @@ The promise is explicit: David’s throne, David’s house, David’s kingdom—
 ### **Zechariah’s Prophetic Prayer**
 
 
-<img src="/assets/post_images/zechariah_and_baby_john.png" alt="Zechariah" width="250" style="float: right; margin: 0 0 15px 15px; border-radius: 5px;">
+<img src="/assets/post_images/zechariah_and_baby_john.png" alt="Zechariah" width="250" class="image-left">
 
 <div class="scripture">
 68 “Blessed be the Lord God of Israel,
@@ -179,12 +179,11 @@ Peters reflects on the impossibility of God “redefining” such promises:
 <br>— <em>Prop. 21, Obs. 2</em>
 </div>
 
+<img src="/assets/post_images/mary_and_thrones.png" alt="Mary and the thrones" width="250" class="image-right">
+
 This is one of the most forceful arguments in the entire work.
 
 John Walvoord, commenting on the Davidic covenant, confirms the same point:
-
-
-<img src="/assets/post_images/mary_and_thrones.png" alt="Mary and the thrones" width="250" style="float: left; margin: 0 15px 15px 0; border-radius: 5px;">
 
 > “In this and other Old Testament references there is no allusion anywhere to the idea that these promises are to be understood in a spiritualized sense as referring to the church or to a reign of God in heaven. Rather, it is linked to the earth and to the seed of Israel, and to the land… Such a situation does not prevail in this present age and is not related here or elsewhere to the reign of Christ from the throne of His Father in heaven rather than the throne of David on earth.”
 
@@ -205,13 +204,17 @@ This expectation is not fringe. It is the unified witness of:
 
 The only framework that fits every detail of the announcement, every expectation of the Jews, every covenant promise, and every prophetic utterance is:
 
-1. **The Old Testament defined the kingdom literally.**
-2. **The Jews expected that literal kingdom.**
-3. **John and Jesus preached that same kingdom.**
-4. **Mary and Zechariah celebrated its literal fulfillment.**
-5. **Jesus never redefined the kingdom or corrected the expectation.**
-6. **Israel’s rejection postponed—not transformed—the kingdom.**
-7. **The future messianic kingdom still awaits literal fulfillment.**
+<div class="feature-callout">
+	<ul class="feature-grid">
+		<li>The Old Testament defined the kingdom literally.</li>
+		<li>The Jews, including Apostles, expected that literal kingdom.</li>
+		<li>John and Jesus preached that same kingdom.</li>
+		<li>Mary and Zechariah celebrated its literal fulfillment.</li>
+		<li>Jesus never redefined the kingdom or corrected the expectation.</li>
+		<li>Israel’s rejection postponed—not transformed—the kingdom.</li>
+		<li>The future messianic kingdom still awaits literal fulfillment.</li>
+	</ul>
+</div>
 
 
 This concludes the high-level overview that sets the stage for the rest of what this blog is dedicated to. With this framework established, we are now prepared to continue forward with the careful, sequential study. Continuing with *proposition 2* and onward, we will begin walking through George N. H. Peters’ propositions one by one, allowing his arguments to unfold in the order he constructed them, tested against Scripture, history, and reason.
