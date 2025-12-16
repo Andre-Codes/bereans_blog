@@ -62,6 +62,7 @@ Peters dissected the commentary of Albert Barnes to illustrate this incoherence.
 | Matthew 13:44 | "The gospel, the new dispensation, the offer of eternal life" |
 | Matthew 25:34 | "Salvation," "eternal life," or "heaven" |
 | Matthew 16:19 | "The Church on earth" |
+{: .compact-table }
 
 These definitions are <span class="kingdom-gold">fundamentally contradictory</span> because they fail to observe critical scriptural distinctions. By treating the term as a flexible cipher, such interpretations collapse distinct theological categories: the proclamation concerning the Kingdom (the gospel) is confused with the reality of the Kingdom itself; the inhabitants who are to receive it (the heirs) are conflated with the reward they are promised (the inheritance). Peters cuts through this with devastating logic regarding the "heirs":
 
@@ -70,14 +71,7 @@ These definitions are <span class="kingdom-gold">fundamentally contradictory</sp
 <br>— <em>Prop. 3, Obs. 1</em>
 </div>
 
-He applies similar scrutiny to theologians like Dr. Barrow, who defined the Kingdom as "the state or constitution of religion." Peters counters that if the Kingdom is merely a "state of religion," then the Old Testament saints (who certainly had a state of religion) must have been in the Kingdom, yet the New Testament speaks of it as future. He quotes Jeremy Taylor to highlight how men dignify their own inventions:
-
-<div class="peters-quote">
-“Men will call all opinions by the name of religion; and superstructures by the name of fundamental articles; and fancies by the glorious appellation of faith.”
-<br>— <em>Prop. 3, Obs. 10</em>
-</div>
-
-Appellation of faith indeed. By failing to maintain clear, scriptural definitions, theologians create a fog of confusion where the Kingdom can mean anything and everything, leading to contradictions that undermine the very concept they seek to uphold. When, as we've briefly demonstrated in prior posts, the Kingdom was is very definite, covenanted, and concrete reality, expected by God's chosen people and preached by Christ Himself.
+He applies similar scrutiny to theologians like Dr. Barrow, who defined the Kingdom as "the state or constitution of religion." Peters counters that if the Kingdom is merely a "state of religion," then the Old Testament saints (who certainly had a state of religion) must have been in the Kingdom, yet the New Testament speaks of it as future.
 
 #### **The Multiplication of Realms**
 
@@ -88,7 +82,7 @@ Peters observed this tendency already in his own century. Scholars such as Neand
 What follows is not an exaggeration but a representative sample of how leading theologians, many of whom Peters admired, were forced to redefine and multiply the Kingdom once its original covenantal meaning was abandoned:
 
 
-| **Theologian / Source**                                                       | **Primary Definition of the Kingdom**                                                              | **Key Divisions / Features**                                                                                                                      | **Temporal Orientation**                           | **Core Problem Identified by Peters**                                                                       |
+| **Theologian / Source**                                                       | **Primary Definition of the Kingdom**                                                              | **Key Features**                                                                                                                      | **Temporal Orientation**                           | **Core Problem Identified by Peters**                                                                       |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Dr. Johann Peter Lange**                                                    | A multi-layered divine order encompassing power, grace, and glory                                  | Sixfold division: power (nature & rebellion), grace (OT type & NT spiritual), glory (heavenly Church & final union)                               | Eternal, present, and future simultaneously        | Purely theological deductions; no scriptural foundation; constant shifting of meaning; lowers the Theocracy |
 | **Lange (Commentary, later statements)**                                      | Restoration of humanity under Christ; spiritual redemption; dominion of the Spirit in human hearts | Kingdom as new creation; inner spiritual rule; Church-founded kingdom; kingdom in Christ and Christ in kingdom                                    | From beginning of time → Apostolic Church → future | Internal contradictions; substitutes means (Church, redemption) for the Kingdom itself                      |
@@ -98,6 +92,7 @@ What follows is not an exaggeration but a representative sample of how leading t
 | **American Tract Society (NT Notes)**                                         | Reign of Christ’s Gospel over hearts and society                                                   | Multiple stages: individual heart, Church, society, millennium, judgment, heaven                                                                  | Continuous across all ages                         | Mistakes means (Gospel influence) for the Kingdom itself                                                    |
 | **Johann Christian Storr**                                                    | Kingdom spans entire Messianic era                                                                 | Compressed, undifferentiated Messianic time                                                                                                       | Entire age of Messiah                              | Ignores distinction between present Gentile times and future Messianic Kingdom                              |
 | **Johann Heinrich Schmid**                                                    | Dominion of exalted Christ over minds, Church history, judgment                                    | Grace, glory, judgment, divine order, spiritual communion                                                                                         | Eternal, developing, temporal                      | Over-expansion renders Kingdom undefined; includes nearly everything                                        |
+{: .compact-table }
 
 This proliferation is not accidental. <span class="kingdom-gold">Each additional “kingdom” exists to solve a theological problem created by spiritualizing the text.</span> Instead of allowing Scripture to define the Kingdom, these systems redefine the Kingdom to protect their conclusions—substituting abstractions, processes, and stages for a single promised reign.
 

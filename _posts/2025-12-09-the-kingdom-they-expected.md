@@ -131,7 +131,7 @@ The promise is explicit: David’s throne, David’s house, David’s kingdom—
 
 <img src="/assets/post_images/zechariah_and_baby_john.png" alt="Zechariah" width="250" class="image-left">
 
-<div class="scripture">
+<div class="scripture-quote" markdown="1">
 68 “Blessed be the Lord God of Israel,
 For He has visited us and accomplished redemption for His people,  
 69 And has raised up a horn of salvation for us
