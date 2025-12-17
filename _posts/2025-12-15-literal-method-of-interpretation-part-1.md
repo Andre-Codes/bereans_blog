@@ -2,8 +2,8 @@
 layout: post
 title: "The Logic of Language — Why Be So Literal?"
 date: 2025-12-15 12:00:00 -0500
-categories: [Propositions, The Theocratic Kingdom, Hermeneutics]
-tags: [Literal Interpretation, Hermeneutics, Language, Biblical Interpretation]
+categories: [Hermeneutics, Biblical Studies]
+tags: [Literal Interpretation, Grammatical-Historical Method, Hermeneutics]
 propositions: [4]
 series: "Taking God at His Word"
 series_order: 1

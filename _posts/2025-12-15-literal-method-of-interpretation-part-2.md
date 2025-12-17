@@ -2,8 +2,8 @@
 layout: post
 title: "The Verdict of History — How Allegory Entered and Why It Would Not Leave"
 date: 2025-12-15 12:00:00 -0500
-categories: [Propositions, The Theocratic Kingdom, Hermeneutics, Church History]
-tags: [Allegory, Literal Interpretation, Origen, Church History]
+categories: [Hermeneutics, Historical Theology, Eschatology]
+tags: [Allegory, Origen, Augustine, "Alexandrian School"]
 propositions: [4]
 series: "Taking God at His Word"
 series_order: 2
@@ -18,7 +18,7 @@ Peters answers this charge by appealing not to theory, but to **history itself**
 
 ---
 
-## **The Appeal to Antiquity**
+## The Appeal to Antiquity
 
 Peters insists that grammatical interpretation was not merely one option among many in the early Church—it was the *default*.
 
@@ -49,7 +49,7 @@ Notably, there is little evidence of controversy over the millennium in the firs
 This historical reality reinforces Peters’ point: the grammatical method did not *produce* an eccentric doctrine of the Kingdom. It preserved the one already embedded in Scripture.
 
 
-### **The Fork in the Road: Jerusalem and Alexandria**
+### The Fork in the Road: Jerusalem and Alexandria
 
 The great hermeneutical divide did not originate within Christianity—it predated it.
 
@@ -67,7 +67,7 @@ That fork in the road would soon cross into Christianity.
 
 ---
 
-## **The Trojan Horse of Allegory**
+## The Trojan Horse of Allegory
 
 Peters identifies the decisive moment with unmistakable clarity:
 
@@ -100,7 +100,7 @@ Meaning was no longer *discovered*. It was *assigned*.
 
 ---
 
-## **From Exception to Empire: Allegory Becomes the Norm**
+## From Exception to Empire: Allegory Becomes the Norm
 
 What began as an intellectual accommodation soon hardened into an interpretive system.
 
@@ -117,12 +117,11 @@ Peters notes the tragic irony: even those who admitted the literal sense felt co
 
 This system produced immense creativity—and immense instability.
 
-## **A Compressed Timeline: From Apostolic Expectation to Institutional Stability**
+## A Compressed Timeline: From Apostolic Expectation to Institutional Stability
 
 To understand why allegory proved so resilient, it helps to trace the path it took—not as an abstraction, but as a historical progression.
 
-### **1. The Early Church (c. AD 100–300): Literal Reading, Literal Hope**
-
+### 1. The Early Church (c. AD 100–300): Literal Reading, Literal Hope
 The earliest Christians inherited both the Jewish Scriptures and the Jewish way of reading them. They interpreted prophecy historically, grammatically, and concretely—and they expected the Kingdom accordingly.
 
 This produced what later critics would call *chiliasm*: the expectation of a future, visible, earthly reign of Christ. But to the early Church, this was not a theory. It was simply the natural outcome of reading the prophets and apostles as meaning what they said.
@@ -131,7 +130,7 @@ There is little evidence of sustained controversy over the millennium in this pe
 
 The early Church did not spiritualize the Kingdom because it had no reason to. It was persecuted, marginalized, and politically powerless. A future, disruptive intervention by God made sense of both Scripture and experience.
 
-### **2. Origen (3rd Century): Allegory as an Interpretive Tool**
+### 2. Origen (3rd Century): Allegory as an Interpretive Tool
 
 The decisive shift begins not with rejection, but with *re-ranking*.
 
@@ -143,7 +142,7 @@ Once the grammatical sense could be set aside whenever it conflicted with philos
 
 This was the lever Peters identifies. The door, once opened, would not easily close.
 
-### **3. Augustine (5th Century): Allegory Systematized**
+### 3. Augustine (5th Century): Allegory Systematized
 
 What Origen introduced, Augustine institutionalized.
 
@@ -153,9 +152,22 @@ The “thousand years” became symbolic. The reign of Christ became spiritual. 
 
 This move achieved stability—but only by extending allegory across the entire prophetic corpus. Once Revelation 20 was spiritualized, consistency demanded that Old Testament kingdom promises be treated the same way.
 
-The result was not merely amillennialism, but **supersessionism**: if the Kingdom is spiritual, its people must also be spiritualized. Israel’s national promises were absorbed into the Church.
+The result was not merely amillennialism, but **supersessionism**, also known as *replacement theology*: if the Kingdom is spiritual, its people must also be spiritualized. Israel’s national promises were absorbed into the Church.
 
-### **4. The Reformation (16th Century): Partial Recovery, Lingering Blind Spots**
+<details>
+<summary>More on supersessionism</summary>
+This was not a conclusion drawn from the Old Testament text, but a conclusion read *back* into it. Once the Kingdom was redefined as a present, spiritual reality embodied in the Church, Israel itself had to be reinterpreted to **fit the new framework**. The clear, national, territorial promises given to Abraham and David were no longer allowed to mean what they plainly said; they were reclassified as shadows, types, or symbols whose “true” fulfillment lay elsewhere.
+
+In practice, this meant that the Church became the hermeneutical key for the Old Testament. Israel was no longer read as Israel, but as a provisional figure for a later, spiritual people. Land became “inheritance in Christ” (reframed from passages such as Galatians 3:29). Kingship became “Christ’s spiritual rule” (Ephesians 1:20–22). Restoration became “conversion” (Acts 3:19, detached from its immediate context). What Scripture presented as covenantal promises to a nation were transformed into metaphors for individual salvation or ecclesial blessing.
+
+This spiritualization was then retroactively justified by selective appeals to the New Testament. Texts such as Galatians 3:7–9, Galatians 3:16, and Galatians 3:28–29 were treated as dissolving Israel’s national identity into a purely spiritual category. Ephesians 2:14–16 was pressed to mean the erasure of Israel rather than the reconciliation of Jew and Gentile in one body. 1 Peter 2:9—originally covenant language drawn directly from Exodus 19:5–6—was cited as proof that the Church had assumed Israel’s role in totality. Meanwhile, Paul’s explicit distinctions regarding Israel’s ongoing identity and future for 3 full chapters in Romans were either minimized.
+
+The danger of this approach is not merely eschatological. Once replacement becomes the governing assumption, Scripture is no longer permitted to define its own terms. Promises are dissolved into principles. History is absorbed into theology. And the faithfulness of God to His explicit covenants is subtly subordinated to a system that requires those covenants to mean something other than what they say.
+
+In short, supersessionism is not an isolated doctrine but the logical outcome of a prior hermeneutical decision: when the Kingdom is spiritualized, Israel must be spiritualized with it. The cost of that decision is nothing less than the loss of the Bible’s own covenantal storyline, God's immutability, and the integrity of prophetic fulfillment.
+</details>
+
+### 4. The Reformation (16th Century): Partial Recovery, Lingering Blind Spots
 
 The Reformers recovered much that had been lost: the authority of Scripture, justification by faith, and the right of private interpretation. They decisively rejected Rome’s claim to control meaning.
 
@@ -167,7 +179,7 @@ In Peters’ assessment, the Reformation corrected *who* had authority over Scri
 
 The result was a Church free from Rome, yet still shaped by Alexandrian habits of interpretation.
 
-### **5. The Ongoing Divide**
+### 5. The Ongoing Divide
 
 What emerges from this timeline is not confusion, but causation.
 
@@ -180,11 +192,11 @@ The modern debate is not new. It is the continuation of an ancient choice—betw
 
 ---
 
-## **Answering the “Gotcha” Verses**
+## Answering the “Gotcha” Verses    
 
 Against this backdrop, Peters turns to the texts most often used to justify allegory.
 
-### **“The Letter Kills” (2 Corinthians 3:6)**
+### “The Letter Kills” (2 Corinthians 3:6)
 
 Peters calls this appeal not merely mistaken, but destructive.
 
@@ -199,7 +211,7 @@ To make this verse condemn grammatical interpretation is, Peters argues, to indi
 
 ---
 
-### **“Spiritually Discerned” (1 Corinthians 2:14)**
+### “Spiritually Discerned” (1 Corinthians 2:14)
 
 Here again Peters dismantles the mystical reading:
 
@@ -217,7 +229,7 @@ Once “spiritual discernment” becomes license to add meaning, Scripture is no
 
 ---
 
-## **The Cost of Departure**
+## The Cost of Departure
 
 Peters presses the issue further. Allegory does not merely confuse—it **forces dangerous concessions**.
 
@@ -244,7 +256,7 @@ At that point, disagreement is no longer an accident, it is inevitable.
 
 ---
 
-## **Standing on Solid Ground**
+## Standing on Solid Ground
 
 Peters ends where he began—with a rule that predates the controversy:
 

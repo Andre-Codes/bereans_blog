@@ -117,8 +117,9 @@ Before John or Jesus ever preach, Mary and Zechariah give Spirit-filled interpre
 
 ### **The Angel’s Announcement to Mary**
 
-<span class="scripture">“He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever, and His kingdom will have no end.”</span>
--Luke 1:32–33
+<div class="scripture-quote">
+“He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever, and His kingdom will have no end.” (Luke 1:32–33)
+</div>
 
 No spiritualizing.
 No redefinition.
@@ -145,13 +146,13 @@ And to remember His holy covenant,
 74 To grant us that we, being rescued from the hand of our enemies,
 Would serve Him without fear,  
 75 In holiness and righteousness before Him all our days.  
-76 And you, child, also will be called the prophet of the Most High;  
-For you will go on before the Lord to prepare His ways;
-77 To give His people the knowledge of salvation  
-By the forgiveness of their sins,
-78 Because of the tender mercy of our God,  
-With which the Sunrise from on high will visit us,
-79 To shine on those who sit in darkness and the shadow of death,  
+76 And you, child, also will be called the prophet of the Most High;
+For you will go on before the Lord to prepare His ways;  
+77 To give His people the knowledge of salvation
+By the forgiveness of their sins,  
+78 Because of the tender mercy of our God,
+With which the Sunrise from on high will visit us,  
+79 To shine on those who sit in darkness and the shadow of death,
 To guide our feet into the way of peace.”
 </div>
 
