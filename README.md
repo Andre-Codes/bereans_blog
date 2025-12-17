@@ -155,6 +155,43 @@ To link posts together in a series (e.g., "The Kingdom Announcement"):
 2.  Add `series_order: 1` (or 2, 3, etc.) to define the sequence.
 3.  A navigation box will automatically appear at the top of the post.
 
+### 7. Callouts (include)
+
+There is a reusable callout include at `_includes/callout.html` for short sidebars, notes, tips, and warnings. It supports parameters: `type` (note|info|tip|warning|danger), `title`, `id`, `icon`, `classes`, `collapsible` (true|false), and `open`.
+
+Examples:
+
+- Non-collapsible note:
+
+  `{% include callout.html type="note" title="Heads up" content=your_variable_or_string %}`
+
+- Collapsible warning (native `<details>`):
+
+  `{% include callout.html type="warning" title="More on supersessionism" content=supersessionism collapsible=true %}`
+
+- Capture long content then include:
+
+  `{% capture body %}Long markdown content...{% endcapture %}`
+  `{% include callout.html type="tip" title="Quick tip" content=body %}`
+
+Notes:
+
+- `type` sets color + default icon; `icon` overrides the icon.  
+- `collapsible=true` uses a native `<details>` element (accessible without JS). An optional `assets/callout.js` enhancer can be added for animated open/close.
+
+### 8. Compact Tables
+
+To make wide or dense tables visually smaller, add the `.compact-table` class using a kramdown attribute list. Place the attribute list on the line immediately after the table:
+
+```markdown
+| Col A | Col B | Col C |
+| ----- | ----- | ----- |
+| a     | b     | c     |
+{: .compact-table}
+```
+
+The `.compact-table` rules are defined in `assets/custom.scss` and reduce padding and font-size for dense tabular data.
+
 ---
 
 ## Deployment

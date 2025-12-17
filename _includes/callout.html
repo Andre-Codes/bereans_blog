@@ -1,0 +1,42 @@
+{%- assign callout_type = include.type | default: 'note' -%}
+{%- assign callout_id = include.id | default: include.title | slugify | append: '-callout' -%}
+{%- assign icon_name = include.icon | default: callout_type -%}
+
+{%- comment -%}
+  If `collapsible=true`, render a <details> with <summary> for native accessibility.
+  Otherwise render an <aside> with role="complementary".
+{%- endcomment -%}
+
+{%- if include.collapsible == true or include.collapsible == 'true' -%}
+  <details class="callout callout--{{ callout_type }} callout--collapsible" {% if include.open == true or include.open == 'true' %}open{% endif %}>
+    <summary class="callout__summary">
+      <span class="callout__icon" aria-hidden="true">
+        {% case icon_name %}
+        {% when 'info' %}{% include icons/icon-info.html %}
+        {% when 'tip' %}{% include icons/icon-tip.html %}
+        {% when 'warning' %}{% include icons/icon-warning.html %}
+        {% when 'danger' %}{% include icons/icon-danger.html %}
+        {% else %}{% include icons/icon-note.html %}
+        {% endcase %}
+      </span>
+      {% if include.title %}<span class="callout__title">{{ include.title }}</span>{% endif %}
+    </summary>
+    <div id="{{ callout_id }}" class="callout__body">{{ include.content | markdownify }}</div>
+  </details>
+{%- else -%}
+  <aside class="callout callout--{{ callout_type }} {{ include.classes }}" role="complementary" aria-labelledby="{{ callout_id }}">
+    <span class="callout__icon" aria-hidden="true">
+      {% case icon_name %}
+      {% when 'info' %}{% include icons/icon-info.html %}
+      {% when 'tip' %}{% include icons/icon-tip.html %}
+      {% when 'warning' %}{% include icons/icon-warning.html %}
+      {% when 'danger' %}{% include icons/icon-danger.html %}
+      {% else %}{% include icons/icon-note.html %}
+      {% endcase %}
+    </span>
+    {% if include.title %}
+      <h4 id="{{ callout_id }}" class="callout__title">{{ include.title }}</h4>
+    {% endif %}
+    <div class="callout__body">{{ include.content | markdownify }}</div>
+  </aside>
+{%- endif -%}

@@ -305,3 +305,46 @@ blockquote {
 .compact-table th, .compact-table td {
   font-family: inherit;
 }
+
+/* Callout / Sidebar styles */
+.callout {
+  background-color: #fff8e1;
+  border-left: 4px solid #ffb74d;
+  padding: 0.9rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+  color: #3e2723;
+  font-family: "Georgia", serif;
+}
+.callout-title {
+  margin: 0 0 0.25rem 0;
+  font-weight: bold;
+  color: #5d4037;
+}
+.callout-note { background-color:#f8fcf7; border-left-color:#66bb6a; }
+.callout-info { background-color:#f1f8ff; border-left-color:#2196f3; }
+.callout-body img { max-width: 100%; height: auto; }
+
+/* Callout internals */
+.callout__icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 0.6rem;
+}
+.callout__icon svg { display:block; width:20px; height:20px; }
+.callout__title { display:inline-block; vertical-align:middle; margin:0; }
+.callout__body { margin-top: 0.5rem; }
+
+/* Type modifiers */
+.callout--note { background-color:#fff8e1; border-left-color:#b8860b; }
+.callout--info { background-color:#eaf4ff; border-left-color:#1976d2; }
+.callout--tip { background-color:#f1f8f2; border-left-color:#2e7d32; }
+.callout--warning { background-color:#fff7ed; border-left-color:#f59e0b; }
+.callout--danger { background-color:#fff5f5; border-left-color:#d32f2f; }
+
+/* Collapsible (details) adjustments */
+details.callout { padding: 0.25rem 0.9rem; }
+details.callout .callout__summary { cursor: pointer; list-style: none; display:flex; align-items:center; }
+details.callout .callout__summary::-webkit-details-marker { display:none; }
+details.callout[open] .callout__body { margin-top: 0.5rem; }
+
