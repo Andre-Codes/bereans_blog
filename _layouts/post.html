@@ -43,6 +43,14 @@ layout: default
     {{ content }}
   </div>
 
+  <!-- Social Sharing Buttons -->
+  <div class="social-share">
+    <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener">Share on Twitter</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener">Share on Facebook</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" target="_blank" rel="noopener">Share on LinkedIn</a>
+    <a href="mailto:?subject={{ page.title | url_encode }}&body={{ page.url | absolute_url }}" target="_blank" rel="noopener">Share via Email</a>
+  </div>
+
   <!-- Next Post Button -->
   {% if page.next %}
     <div class="post-navigation" style="margin-top: 3rem; text-align: right;">

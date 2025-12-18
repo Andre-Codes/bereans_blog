@@ -10,6 +10,9 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
+  <!-- GLightbox CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+
   <!-- BLB ScriptTagger -->
   <script src="https://www.blueletterbible.org/assets/scripts/blbToolTip/BLB_ScriptTagger-min.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -20,5 +23,46 @@
     BLB.Tagger.Style = 'par'; 
     BLB.Tagger.NoSearchTagNames = ''; 
     BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
+  </script>
+
+  <!-- GLightbox JS -->
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+  <!-- Dark Mode Script -->
+  <script>
+    function toggleDarkMode() {
+      const body = document.body;
+      const currentTheme = body.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      body.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      updateToggleIcon();
+    }
+
+    function updateToggleIcon() {
+      const toggle = document.querySelector('.dark-mode-toggle');
+      if (toggle) {
+        const theme = document.body.getAttribute('data-theme');
+        toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.body.setAttribute('data-theme', savedTheme);
+
+      // Add toggle button
+      const toggle = document.createElement('button');
+      toggle.className = 'dark-mode-toggle';
+      toggle.onclick = toggleDarkMode;
+      toggle.title = 'Toggle Dark Mode';
+      document.body.appendChild(toggle);
+      updateToggleIcon();
+
+      // Initialize GLightbox
+      const lightbox = GLightbox({
+        selector: '.lightbox, .image-block'
+      });
+    });
   </script>
 </head>

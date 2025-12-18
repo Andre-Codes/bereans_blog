@@ -27,7 +27,7 @@ Before debating *what* the Kingdom is, Peters insists we must settle *how* God s
 
 ## The Confusion of Tongues
 
-#TODO: 
+#TODO: add more from prop
 
 Theological confusion rarely announces itself as rebellion. More often, it presents itself as sophistication.
 
