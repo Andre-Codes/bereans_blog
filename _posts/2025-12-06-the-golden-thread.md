@@ -14,11 +14,14 @@ This is the core argument of G. N. H. Peters’ first proposition in *The Theocr
 
 In this post we will jump right in and explore the first proposition. Then, we will take a brief detour to establish a high-level context and backdrop before moving on to *proposition 2* and beyond.
 
-<div class="proposition"><span class="prop-title">Proposition 1</span>The kingdom of God is a subject of vital importance.</div>
+<div class="proposition">
+<span class="prop-title">Proposition 1</span>
+The kingdom of God is a subject of vital importance.
+</div>
 
 Peters begins with a stark warning about the necessity of this doctrine:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “The Scriptures cannot be rightly comprehended without a due knowledge of this kingdom. It is a fact... that the doctrine respecting the kingdom has materially affected the judgments of men concerning the canonical authority, the credibility, inspiration, and the meaning of the writings contained in the Bible.”
 <br>— <em>[Prop. 1, Intro](/theocratic-kingdom-full/#prop-1)</em>
 </div>

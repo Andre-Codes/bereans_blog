@@ -7,8 +7,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-  html_to_native:
-    - ["div", { "class" => "peters-quote" }, "markdown"]
+  parse_block_html: true
+  html_to_native: true
 header_pages:
   - index.md
   - blog.md
@@ -17,6 +17,5 @@ header_pages:
   - categories.md
   - propositions.md
   - the_theocratic_kingdom.md
-markdown: kramdown
 permalink: /:year/:month/:day/:title/
 exclude: [Gemfile, Gemfile.lock, vendor]
