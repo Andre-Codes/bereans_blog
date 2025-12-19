@@ -133,10 +133,10 @@ Use this wrapper for quotes specifically from George N. H. Peters.
 </div>
 ```
 
-**Note:** If you need to use Markdown (like **bold** or *italics*) inside the quote, add `markdown="1"` to the div:
+**Note:** Markdown is enabled by default inside `.peters-quote` divs (configured in `_config.yml`), so you don't need to add `markdown="1"`. If you want to disable it for a specific div, you can add `markdown="0"`.
 
 ```html
-<div class="peters-quote" markdown="1">
+<div class="peters-quote" markdown="0">
   “The **Kingdom of God** is the Kingdom of the Messiah...”
   <br>— <em>Prop. 22, Obs. 1</em>
 </div>

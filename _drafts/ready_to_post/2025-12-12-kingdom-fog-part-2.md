@@ -48,7 +48,7 @@ A third stream interiorizes the Kingdom into consciousness or biology, stripping
 
 After surveying these wildly different trajectories—some ecclesiastical, some political, some mystical—the reader begins to feel what Peters himself felt more than a century ago: a doctrine stretched until it tears. He saw the same tendency in his own era, a relentless pressure to make the Kingdom validate whatever movement, institution, or ideology a group wished to justify.
 
-<div class="peters-quote"> “Indeed, no doctrine of the Bible has fared so badly through mere fancy, imagination, enthusiasm, and fanaticism as that of the kingdom. In behalf of a theory or system it has been perverted, distorted, and abused until many persons, looking only at the abuses and antagonism (forgetting that all truth is subject to the same), discard the whole matter. When the Papacy, Shakers, Mormons, etc. define it in a way to embrace their particular organizations; when Anabaptists, Fifth Monarchy men, etc. interpret it so as to include their ambitious projects; when almost every denomination, sect, etc. explain it so as to make themselves the recipients of the kingdom; when it has been prostituted to the basest of purposes, and it is presented in a hundred different aspects and claims—all this only shows how important these parties consider the incorporation and possession in some form, of the doctrine. It is amazing to a person who steadily for years notices the definitions of others, how latitudinarian they have become in these modern days.” <br>— <em>Prop. 3, Obs. 7</em> </div>
+<div class="peters-quote"> “Indeed, no doctrine of the Bible has fared so badly through mere fancy, imagination, enthusiasm, and fanaticism as that of the kingdom. In behalf of a theory or system it has been perverted, distorted, and abused until many persons, looking only at the abuses and antagonism (forgetting that all truth is subject to the same), discard the whole matter. When the Papacy, Shakers, Mormons, etc. define it in a way to embrace their particular organizations; when Anabaptists, Fifth Monarchy men, etc. interpret it so as to include their ambitious projects; when almost every denomination, sect, etc. explain it so as to make themselves the recipients of the kingdom; when it has been prostituted to the basest of purposes, and it is presented in a hundred different aspects and claims—all this only shows how important these parties consider the incorporation and possession in some form, of the doctrine. It is amazing to a person who steadily for years notices the definitions of others, how latitudinarian they have become in these modern days.” <br>— <em>[Prop. 3, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-3)</em> </div>
 
 That tendency didn’t die with the eccentric movements of the 1800s. It just morphed. Unfortunately, modern theology didn’t dodge the problem, it amplified it.
 
@@ -85,14 +85,14 @@ But the deeper reason is fear. We fear that investigating the foundations of our
 
 <div class="peters-quote">
 “Many shrink from investigation when they find that things which they fondly believed, incorporated in their prayers and hopes, and portrayed with eloquence, are subject to the suspicion of being built upon a sandy foundation... This may indeed be an amiable weakness, but it is one as fatal to the student as Delilah’s hands were to Samson.”
-<br>— <em>Prop. 3, Obs. 14</em>
+<br>— <em>[Prop. 3, Obs. 14](/theocratic-kingdom-full/#obs-14-prop-3)</em>
 </div>
 
 This "amiable weakness" blinds us. We are comfortable with the "friendly" error of a spiritualized Kingdom that validates our current church programs. We are less comfortable with the "adversary" of a literal Kingdom that declares our current efforts insufficient and points to a future Divine intervention. As Peters warns:
 
 <div class="peters-quote">
 “Error, too, is often plausible and friendly; truth sometimes comes in the garb of an adversary.”
-<br>— <em>Prop. 3, Obs. 13</em>
+<br>— <em>[Prop. 3, Obs. 13](/theocratic-kingdom-full/#obs-13-prop-3)</em>
 </div>
 
 ### The Cost of "Fancy"
@@ -101,7 +101,7 @@ In Peters’ terms, what we are witnessing is not mere diversity of emphasis but
 
 <div class="peters-quote">
 “When comparing the early Church doctrine of the kingdom with the meanings now so extensively given and adopted, a wide departure from the original and primitive meaning is fully evidenced.”
-<br>— <em>Prop. 3, Obs. 10</em>
+<br>— <em>[Prop. 3, Obs. 10](/theocratic-kingdom-full/#obs-10-prop-3)</em>
 </div>
 
 This is not development but substitution. Peters is careful to note that the modern doctrine does not merely differ; <span class="kingdom-gold">it stands in opposition to the original, assuming “the attitude of hostility” toward what the Church first believed and proclaimed.</span> The Kingdom has not been clarified; it has been replaced. And in that replacement, the Church has not abandoned religious language, but redefined i; calling opinions “religion,” systems “fundamentals,” and fancies “faith.”
@@ -115,14 +115,14 @@ Peters does not attribute this drift to malice, but to a deeper and more troubli
 
 <div class="peters-quote">
 “We realize… the fallibility of the most powerful mind even under the most favorable circumstances, and in its moments of highest confidence.”
-<br>— <em>Prop. 3, Obs. 11</em>
+<br>— <em>[Prop. 3, Obs. 11](/theocratic-kingdom-full/#obs-11-prop-3)</em>
 </div>
 
 Here lies the great irony. God foresaw this weakness. He anticipated the limits of human intellect and graciously accommodated Himself to them—not through obscurity, but through clarity. He bound His promises in covenant. He expressed His purposes in plain, grammatical language. He spoke so as to be understood.
 
 <div class="peters-quote">
 “God foresaw this diversity, and hence accommodated Himself to our weakness in the plain, grammatical language and sense in which He expresses Himself.”
-<br>— <em>Prop. 3, Obs. 11</em>
+<br>— <em>[Prop. 3, Obs. 11](/theocratic-kingdom-full/#obs-11-prop-3)</em>
 </div>
 
 Yet theology repeatedly treats this divine accommodation as insufficient. In what Peters calls our “superior wisdom,” we add to what God has said—replacing the grammatical sense with constructions of what the sense *ought* to be. In doing so, we do not escape confusion; we manufacture it.

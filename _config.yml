@@ -7,6 +7,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
+  html_to_native:
+    - ["div", { "class" => "peters-quote" }, "markdown"]
 header_pages:
   - index.md
   - blog.md
