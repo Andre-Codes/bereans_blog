@@ -133,7 +133,7 @@ Use this wrapper for quotes specifically from George N. H. Peters.
 </div>
 ```
 
-**Note:** Markdown is enabled by default inside `.peters-quote` divs (configured in `_config.yml`), so you don't need to add `markdown="1"`. If you want to disable it for a specific div, you can add `markdown="0"`.
+>**Note:** Markdown is enabled by default inside `.peters-quote` divs (configured in `_config.yml`), so you don't need to add `markdown="1"`. If you want to disable it for a specific div, you can add `markdown="0"`.
 
 ```html
 <div class="peters-quote" markdown="0">
