@@ -12,8 +12,7 @@ permalink: /theocratic-kingdom-full/
 
 1. [Prop. 1.—The Kingdom of God is a subject of vital importance](#prop-1)  
 2. [Prop. 2.—The establishment of this Kingdom was determined before, and designed or prepared from, the foundation of the world](#prop-2) 
-3. Prop. 3.—The meanings usually given to this Kingdom indicate that the most vague, indefinite  
-notions concerning it exist in the minds of many  
+3. [Prop. 3.—The meanings usually given to this Kingdom indicate that the most vague, indefinite notions concerning it exist in the minds of many](#prop-3)
 4. Prop. 4.—The literal, grammatical interpretation of the Scriptures must (connected with the  
 figurative, tropical, or rhetorical) be observed in order to obtain a correct understanding of the  
 Kingdom  
@@ -567,4 +566,328 @@ mankind, the fundamental laws of society, etc., are appealed to in proof. Numero
 merely God's knowledge and wisdom, but the manifestation of such in a predetermined purpose.
 Systematic theology directs particular attention to the evidences of a previously settled purpose. Our
 subject largely develops this fact, and insists upon the truth and force of Ephesians 3:10–11 and kindred
-passages.
+passages.  
+
+---
+
+### Prop. 3. The meanings usually given to this kingdom indicate that the most vague, indefinite notions exist concerning it. {#prop-3}
+Theologians, eminent for their piety and position in the Church, are now entertaining crude ideas and
+contradictory conceptions of the kingdom. For many centuries, under the interpretation given by men
+who have, probably unconsciously, largely imbibed the spirit of the Alexandrian school, the kingdom has
+been made to mean a variety of things at the option of the writer. Modern authors, with but few
+exceptions, instead of discarding this looseness, seem to revel in it, making the kingdom to denote
+almost everything that fancy connects with religion, or the Church, or even with humanity. We select,
+out of numerous examples, several to illustrate the prevalent mode of expounding it, and the latitude of
+opinion expressed concerning it.  
+
+**Obs. 1.**{: #obs-1-prop-3} Albert Barnes, who, possessing many admirable traits, is regarded as a popular commentator,
+gives the following definitions of the kingdom in his Commentary. The kingdom is, Matthew 3:2, "His
+(Messiah's) spiritual reign begun in the Church on earth and completed in heaven;" Matthew 6:10, the
+"reign," God's reign, or the Gospel of Christ advanced; Matthew 13:24, "the gospel," or "the effect of
+the gospel;" Matthew 13:31, "piety in a renewed heart, or the Church;" Matthew 13:44, "the gospel, the
+new dispensation, the offer of eternal life;" Matthew 13:45, "religion," or "the gospel;" Matthew 13:52,
+"the gospel," or "the truth;" Matthew 25:34. "salvation," "eternal life," or "heaven;" Matthew 26:29,
+"heaven;" Matthew 19:24, "way of salvation;" Matthew 21:31, to "become Christians," or to "follow the
+Saviour;" Matthew 5:19, "the Church;" Matthew 5:20, "the Church," or "the world to come;" Matthew
+11:11, "preaching the kingdom of God, or the gospel;" Matthew 16:19, "the Church on earth;" etc. With
+minor changes (as e.g. John 3:5, "the true Church," I Corinthians 15:24, "dominion in general"), and a
+hesitancy in precisely determining what it means (as e.g. Mark 10:15, "the gospel, the new dispensation
+by the Messiah, or the reign of God through a mediator," etc.), we find these often repeated.  
+
+Surely the kingdom cannot possibly mean all these things, seeing that such explanations are both arbitrary and
+contradictory. The gospel of, or concerning, the kingdom is one fact, the kingdom itself is quite another;
+the dispensation in which the kingdom is to be manifested is certainly different from the kingdom which
+it embraces; the heirs of the kingdom are certainly not the inheritance. These and other plain scriptural
+statements are entirely overlooked in such definitions. The evident antagonism of such popular
+explanations are amply sufficient to their refutation. The reply to all such definitions will follow, as e.g.
+Props. 90–115.  
+
+    Dr. Lawrence in the Independent, October 23d, 1870, makes "the kingdom of heaven" to mean: 1.
+"The universe of matter and mind;" 2. "That part of the revolted human race which has been brought
+into subjection to Christ;" 3. "A kingdom of grace, because it is by God's love in Christ that
+they—believers—are brought into it;" 4. "A kingdom of glory in heaven;" and 5. "It is His reign over His
+loyal subjects." Our Church literature is permeated with similar definitions. M'Clintock and Strong's
+Cyclop., Art. "Kingdom of Heaven," defines it, first, "the Divine spiritual kingdom, the glorious reign of
+the Messiah;" then afterward it is "the Christian dispensation or the community of those who receive
+Jesus as the Messiah;" this again is divided into "an internal and external form"—internal "in the hearts
+of all Christians," and externally it is "embodied in the visible Church;" and then finally in its future
+relation, "it denotes the bliss of heaven, eternal life." Compare Dr. Craven's remarks, in an excursus,
+Lange's Com. Rev., p. 94, on Robinson's definition (Greek Dic.) of the kingdom, who makes it a
+dispensation, also a principle, and likewise a people actuated by that principle. Dr. Craven justly objects
+to such "a looseness in the use of language."  
+
+**Obs. 2.**{: #obs-2-prop-3} Dr. Barrow, On the Creed, explains "the kingdom of heaven" as "capable especially of two
+acceptations." Without discarding other views, he lays down this proposition: "It first commonly signifies
+the state or constitution of religion under the gospel, in opposition to, or contradistinction to, the state
+of things under the ancient law." To prove this, he shows that "in the time of the law, God's kingdom
+was in a manner earthly," and proceeds to point out its earthly characteristics; but that now under the
+gospel "God's kingdom is more capacious, unlimited," and, in brief, more spiritual. From this he deduces
+that it may denote: 1. The state of relation; 2. The society of men put into such a state; and then also
+adds: 3. It is "taken for the perfection or utmost improvement of this state."  
+
+    Aside from the indefiniteness of such a definition, indicating the difficulty of forming a consistent
+whole (for the relation in which men are placed is superseded by the men themselves, and then again by
+the perfection of the state realized), we only now notice some self-contradictions which it contains:  
+
+1. If the phrase "kingdom of heaven" is used "in opposition or contradistinction to "former
+dispensations (the ancient Theocracy), then it follows, which he himself will not allow, that no true
+kingdom of God existed previously to the Christian Church.  
+2. If the kingdom only denotes the state or constitution of religion, does it embrace or reject that which
+preceded the Christian era? If it embraces it, then, after all the kingdom is a continuation of the former;
+if it rejects, then it does not allow that religion existed previously in "a state or constitution."  
+3. If the mere "capaciousness," etc. causes such a change in phraseology, that the expression "kingdom
+of heaven" is applicable to the Church now and not to the Church previously existing, how comes it,
+notwithstanding its supposed earthly nature (as opposed to the present state), that the ancient saints
+are accounted equally worthy with Christian believers to enter in and inherit the kingdom? The whole
+theory, in its invidious comparisons, is derogatory of God's previous appointments, and degrades the
+position occupied by the ancient believers. Other objections, still more serious, will be brought forth
+under appropriate heads: these however, briefly suggested, are sufficient for the student to note the
+defectiveness of interpretation.  
+
+**Obs. 3.**{: #obs-3-prop-3} Neander’s elaborated theory of the kingdom is pervaded by the same indistinctness and
+contradiction. Thus e.g., in one place (Life of Christ, sec. 213) the kingdom is something not visible, not
+outward; in other places (Hist. Ch. Church, vol. 2, p. 176) “the Church comprised the whole visible form
+of the kingdom of God,” and (p. 177) “hitherto, therefore, there could be no visible appearance of the
+kingdom of God beyond the pale of the Church.” His view only makes these “apparent” contradictions;
+for he has a number of kingdoms to suit the varied demands of his development speculations. He gives
+us:  
+
+1. An invisible kingdom connected with the Church;
+2. An invisible kingdom established in the heart;
+3. A visible kingdom in the Church;
+4. A future consummation or completion by the direct intervention of Jesus Christ;
+5. The present as one with the future, i.e. viewed connectedly;
+6. A kingdom in the person of Christ;
+7. The higher spiritual world or heavenly community co-existing with the invisible Church.  
+
+    In defining, a singular variety is introduced, and as we shall have occasion to quote largely from him
+under the propositions relating to the Church, one illustration (Hist. Ch. Church, vol. 1, p. 499) will
+suffice: “The idea of the Church is subordinate to that of the kingdom of God, because by the latter is
+denoted either the whole of a series of historical developments or a great assemblage of co-existent
+spiritual creations.” Here is certainly a latitude opened great enough to introduce the various changes
+that strict adherence to the development theory required. Following propositions will show how
+unscriptural such interpretations are, when compared with the simplicity and unity of the Word. They
+engraft upon Holy Writ the deductions of Hegelian philosophy, and thus, through the great ability and
+learning cojoined, mislead the unwary reader.  
+
+**Obs. 4.**{: #obs-4-prop-3} Dr. Lange (Bremen Lectures, 1871, Lec. 8) says: “The kingdom of God itself, the older theologians divided, not without grounds, into the kingdom of power, the kingdom of grace, the kingdom of glory.
+Still it must be remarked that each of these kingdoms properly separates into two kingdoms; the
+kingdom of power into God’s rule over entire nature, and His rule over the whole rebellion of such
+intelligences as, in the misuse of freedom, have gone astray; the kingdom of grace, into the typical
+prefiguration of the real kingdom of heaven, or the Old Testament theocracy, and into the real, i.e.
+spiritually potent, New Testament kingdom itself; the kingdom of glory, into the realm of the triumphant
+Church in the other world, and the union of that world and this in the final consummation.” Lange thus
+forms six kingdoms or divisions of the kingdom, which was rendered necessary by the partial rejection of
+the early Church doctrine. These are purely theological deductions, having no foundation whatever in
+Scripture, as will appear when “we come to the preaching of the apostles, the doctrine of the Church,
+etc. As we are only now concerned in giving a few specimens of entertained opinions, it is premature to
+present our reply. Like preceding definitions, it lowers the theocracy by denying to it the reality of being
+in all respects the kingdom of God. This alone should cause us to receive it with grave doubts.  
+
+    It is difficult at times to understand those complex and contradictory meanings. Thus e.g., Lange in his
+Commentary gives a variety, some of which are not in accord with those just mentioned. In the general
+introduction he says: “As mankind was originally destined to form the kingdom of God, and for that
+purpose was arranged into one family, the kingdom of God may also be viewed as the restoration of
+mankind to one body under the One and Eternal Head (Acts 3:21, Ephesians 1:22) in whom it was
+elected from all eternity, and called, for the harmonious manifestation of the glory of God, Ephesians
+1:4–5.” (This we can cordially adopt with the provision that this is done in the covenanted way
+proposed). But then he adds: “The kingdom of God is that new creation in which God reveals Himself in
+His character as Redeemer.” “It consists in the restoration of the dominion of the Spirit of God over the
+hearts of men,” etc. Hence it existed from the beginning of time, for he says, p. 3, “the real kingdom of
+God was founded when redemption was introduced,” etc. On p. 24 he has it founded in the Apostolic
+Church and manifested in “ecclesiastical and Christian life.” On p. 25 he has “the kingdom of heaven in
+the person of Christ,” and afterward “the person of Christ in the kingdom of heaven.” On p. 25 he has
+“His kingdom founded upon earth by the planting of His Church through the power of the Holy Ghost,”
+etc. Thus there is a shifting from one position to another, a substitution of the means by which to obtain
+the kingdom for the kingdom itself, etc., that evidences a weakness incompatible with a leading doctrine
+of the Bible. For indefiniteness, see Com. on Matthew 16:13, 20, p. 298, where it is, and then it is not,
+the kingdom of heaven. Comp. p. 299, s. 5 and 6, etc.  
+
+**Obs. 5.**{: #obs-5-prop-3} Olshausen (Com. on Matthew 3:1) defines the kingdom of heaven to be both “external and
+internal;” externally in the Church, and ultimately in its consummation; internally in believers, and in the
+ideal future world. Hence a believer is already in the kingdom, or carries it with him, and “yet even for
+him it is still to come,” i.e., a higher manifestation or realization of it. This is also “applied to different
+relations” both of time, place, etc. How unsatisfactory this is in the light of covenant and promise, will
+be shown under the Church (Props. 94–115), where the incongruity of persons being in the kingdom
+while still heirs, the lack of resemblance between the covenanted kingdom and the Church (visible and
+invisible) are fully noticed. Much that Olshausen has written is valuable and suggestive (take e.g. the
+caution, ch. 10, p. 116, Introduction), but his exegesis of Matthew 3:2 is most certainly defective. For
+any theory which can make “is at hand” to be actually present, thus arbitrarily changing the tenses used;
+which virtually makes the kingdom of God “always existing,” thus not discriminating between things that
+materially differ; which makes the theocracy under Moses and David a mere type, thus overlooking its
+reality as a kingdom; which applies Luke 17:21 to a kingdom in the heart, divides and subdivides the
+kingdom after the fashion of those already referred to, and tells us, without proof annexed, that “the
+Saviour put forward its ideal character,” must be received with great caution.  
+
+    The reader will notice that we also introduce those who are Millenarian, or have a strong bias for our
+doctrine (as Olshausen, Lange, etc.), and yet largely adopt the mystical notion of the kingdom. While
+such have the kingdom pre-eminently, and in its fulness, in the millennium, they also (not accurately
+distinguishing the kingdom, as covenanted, from the Church, not observing the postponement of the
+kingdom, not discerning the difference between the Divine Sovereignty and the Theocracy, etc.) have a
+kingdom now existing in the Church and individual believer, preparatory to and merging into the other
+or proper one. A large number of eminent men take this position, as e.g. Oosterzee, Delitzsch, Auberlen,
+Bonar, etc. A careful consideration of Scripture compels us to differ from brethren highly esteemed; the
+reasons will follow in their order.  
+
+**Obs. 6.**{: #obs-6-prop-3} In Dr. Hodge’s recent work on Systematic Divinity, we find (p. 596, vol. 2) a section entitled, “the Church, God’s kingdom.” To prove this caption, he informs us that God determined to deliver man from
+his apostasy, and hence inaugurated a kingdom antagonistic to that of darkness. This kingdom thus
+introduced had no “visible organization apart from the families, the people of God.” It was afterward
+through the descendants of the patriarchs formed into a “visible kingdom,” which has existed down to
+the present day. But when we ask, if it has always thus existed, why e.g. do the prophets speak of it as
+non-existing, as still future, as something to be anticipated, as set up by the Messiah at His coming, such
+questions, and similar ones, that readily suggest themselves to the scholar, remain unanswered. Indeed,
+as he goes on defining, he forgets his previous declaration; for when speaking of the nature of Christ’s
+kingdom he tells us, that “as the Messiah was to come to make all things new” (which he thus strangely
+locates with the first Advent instead of the second, as the Scriptures do), we have also “the 
+establishment of a new kingdom.” How can it be new, if it has always existed? Then he has Christ’s
+dominion over the universe, calling it “the kingdom of power;” Christ’s “spiritual kingdom,” which is
+twofold, viz., an invisible kingdom consisting only of the regenerated, and a visible kingdom manifested
+in the organized, external society of believers.  
+
+Finally, he gives us “the kingdom of glory” to be revealed when Christ comes again. Thus he presents us,  
+
+ 1. An invisible kingdom down to the patriarchs;  
+ 2. A visible kingdom down to Christ;  
+ 3. An invisible one down to the first Advent;  
+ 4. Christ’s kingdom of power;  
+ 5. Christ’s invisible kingdom since his Advent;  
+ 6. Christ’s visible kingdom extending from the same period;  
+ 7. And the kingdom of glory.  
+ 
+Surely the very enumeration of such a list, when compared with the simplicity and uniform phraseology of the Bible, forces upon our minds the suspicion that there must be a serious defect in a system which requires such an array of kingdoms; which ignores the
+distinctive marks of the covenanted kingdom; which does not distinguish between the universal Divine
+sovereignty and the kingdom as predicted; and which presents us a series of definitions utterly unknown
+to those who were specially set apart to preach the gospel of the kingdom.  
+
+    Such interpretations, with slight changes, could be multiplied. The New Testament, with notes
+published by the American Tract Society on Matthew 3:2, makes the kingdom “the sway of Christ’s
+Gospel and dispensation over the hearts, lives, and destinies of men, both in this world and the next,”
+and this (mistaking the means for the end) is equivalent to “the Messiah’s reign as predicted by the
+prophets.” But to make this out, recourse is had to various “stages” in the “heart of the individual
+believer, in the churches, in influencing society, in the millennium, in the judgment-day, and in the
+heavenly world.” Storr, in Diss. on the Kingdom of Heaven, compresses the matter so that it shall
+“embrace the whole time of the Messiah.” He forgets that this is not the time of the Messiah (e.g. Luke
+17:22), but the times of the Gentiles (Luke 21:24), and that the predicted time of the Messiah is still
+future, (Comp. e.g. Props. 136 and 137).  
+
+Schmid (Bib. Theol. N.T., p. 244) tells us that “the kingdom of God is understood to be both present and future; the dominion of the exalted Christ, which consists partly in the influence over the minds of men exercised by the Word, partly in the guidance of the
+external destinies of the Church, partly in the rewards and punishments at the last judgment. 
+In it, too, is perhaps recognized the kingdom of grace, the temporal institutions of religion, the kingdom of glory,
+and the future acts of judgment; adding, too, the idea that Jesus was only in error in fixing too close a
+proximity for this judgment.” Schmid afterward defines the kingdom to be “in its nature, on the one
+hand, something simply existing and eternal, and, on the other, something temporal, developing itself
+through various conditions;” being also “a Divine order of things,” “a communion of spirits founded by
+Christ,” “a fellowship of men,” etc.  
+
+**Obs. 7.**{: #obs-7-prop-3} The definitions given to the kingdom by Infidels, Rationalists, Free Religionists, etc., are varied. While some reject the idea entirely as a mere phantom or “Jewish conception,” others incorporate it
+and make it mean, “God manifested in and through nature,” or “God in humanity,” or “God in
+progressive development,” or “the truth,” or “the supremacy of reason,” or “the supremacy of the
+natural dignity and nature of man,” etc. Renan (Life of Jesus, p. 240) makes it, “the reign of the poor and
+disinherited,” “the literal accomplishment of the Apocalyptic visions of Daniel and Enoch,” “the kingdom
+of souls” (p. 249), “the good,” “the reign of justice,” “the liberty of the soul,” etc. In this direction there
+is no end to the notions respecting it, generally drifting, however, toward the idea of a humanity
+redeemed by an enthroned reason (of which Jesus is an example of high genius), or of a God permeating
+nature and man.  
+
+    Indeed, no doctrine of the Bible has fared so badly through mere fancy, imagination, enthusiasm, and
+fanaticism as that of the kingdom. In behalf of a theory or system it has been perverted, distorted, and
+abused until many persons, looking only at the abuses and antagonism (forgetting that all truth is
+subject to the same), discard the whole matter. When the Papacy, Shakers, Mormons, etc. define it in a
+way to embrace their particular organizations; when Anabaptists, Fifth Monarchy men, etc. interpret it
+so as to include their ambitious projects; when almost every denomination, sect, etc. explain it so as to
+make themselves the recipients of the kingdom; when it has been prostituted to the basest of purposes,
+and it is presented in a hundred different aspects and claims—all this only shows how important these
+parties consider the incorporation and possession in some form, of the doctrine.  
+
+It is amazing to a person who steadily for years notices the definitions of others, how latitudinarian they have become in these modern days. Recently a tract written and published by Speer informs us that the Church was
+“taken into the Roman kingdom of God”—i.e., into the Roman Empire, thus designating that “the
+kingdom of God” which the Scriptures (Daniel 2 and 7) call a “Beast.” We are told by Rev. Fowle
+(Contemp. Review, May, 1872, art. “Christ, and Immortality”), that “by the kingdom of heaven Christ
+meant almost, if not quite exclusively, the establishment of God’s rule and order upon earth;” and to
+make this denote the Church is, in his opinion, “a substituting a secondary and comparatively
+unimportant interpretation for the primary and true one.” This, then, opens the way for mystical
+incorporations, for it supplies “the missing link needed to bind together the morality of Paganism and
+Christianity,” and brings us to this result: “the kingdom of heaven is civilization viewed religiously,
+owning God as its Creator and Judge, and looking for still nobler developments in other spheres.”  
+
+**Obs. 8.**{: #obs-8-prop-3} Those who give us such definitions, antagonistic to the primitive Church view, exhibit also the greatest diversity among themselves respecting the commencement of this kingdom in its supposed
+present form. They are as little agreed concerning its beginning as in its meaning. Some commence it in
+paradise; others, after the fall when redemption was proposed; some with the patriarchs or with the
+theocratic ordering at Sinai; others, at the preaching of John the Baptist; some, with the birth of Christ;
+others, at Christ’s baptism; some, at the preaching of Jesus and disciples; others, at the confession of
+Peter; some, at the death of Christ, or at his resurrection and ascension; others, on the day of Pentecost;
+and others, at the destruction of Jerusalem.  
+
+Some again have several commencements or different stages; others have only one, regarding all previous as merely typical and unreal. Quotations illustrative of this antagonism will be given in following propositions. Let us only now suggest to the reader: is it not remarkable that a kingdom of God, so distinctively covenanted and predicted, should be so indefinite in its commencement that eminent and pious men are unable to point out its beginning with any degree of absolute certainty? That we even find many who, in their perplexity, have several beginnings, such as “typical,” “initial,” etc.? That they are undecided from what period in Christ’s life to date it? Surely, is it not wise to consider that such a diversity, unknown to Scripture, and based solely on assertion, may arise from some mistake, a fatal flaw in its meaning? Having a kingdom to find and at present existing (over against the plainest statements of Scripture to the contrary), it is easy to see how such a confusion
+and variety arises.  
+
+**Obs. 9.**{: #obs-9-prop-3} Attention is called to the fact, that the most serious contradictions greatly weaken the force of these definitions. Thus e.g. eminent men inform us that there has been a continuous kingdom, without intermission, from the earliest period down to the present. Now others, as e.g. Van Oosterzee (Theol. of N. Test.) positively makes the kingdom of heaven or of Christ something “new;” not a mere
+continuation, for “since it had first come nigh in the fulness of time, it did not before exist on earth;” and
+then asserts that it is a mistake to make the Church the kingdom. He reduces the force of the latter by
+admitting that, although it is spiritual, yet the Church is also the external form in which it appears.  
+
+With some truth, we have here an admixture of error and weakness, that neutralizes the whole. In the
+following pages, it will be shown, step by step, that the kingdom of God did previously exist on earth,
+that it does not apply to the existing Church, and that the kingdom of Jesus Christ, when established, is
+not new but a renewal with precious, astounding additions. Meyer (Com. on Matthew 3:2), seeing how
+fanciful, arbitrary, and contradictory are the interpretations usually given, cautiously remarks: “These
+expressions ‘kingdom of heaven,’ etc., never signify else than the Messianic kingdom, even in those
+passages which seem to denote the Church, the Christian religion, etc.”  
+
+**Obs. 10.**{: #obs-10-prop-3} Able authors admit that Christianity has met with, and undergone, changes since its
+introduction. Buckle (Hist. Civ.) informs us that this has been affected by foreign events contrary to the
+original scheme. This has been pressed by Bauer, Renan, etc. All confess to some variations from the
+original; one class contending that they are for the better—another, for the worse. However this may
+be, it must be acknowledged, that when comparing the early Church doctrine of the kingdom with the
+meanings now so extensively given and adopted, a wide departure from the original and primitive
+meaning is fully evidenced. It is a substitution, too, so opposite and diverse, that it assumes the attitude
+of hostility to the first one adopted by the Church, casting, at the same time, as many shadows as Simon
+Magus is reported to have done when walking the streets. The design of this work is to restore and
+defend the original meaning, by showing its scriptural basis and historical connection.  
+
+    It has been truthfully said by Jer. Taylor (Works, vol. 5, p. 348) that “men will call all opinions by the
+name of religion; and superstructures by the name of fundamental articles; and fancies by the glorious
+appellation of faith.” This, alas, is constantly repeated, so that the student needs constant watchfulness.
+Nothing is exempt from diversity, so that, as illustrative, Vares long ago assured us that he reckoned the
+old philosophers had about eight hundred opinions concerning the “summum bonum.”  
+
+**Obs. 11.**{: #obs-11-prop-3} Considering the various conflicting interpretations entertained by learned men respecting the
+kingdom, we realize what Glanvil (The Vanity of Dogmatizing) developed from hints given by Bacon, viz.,
+the fallibility of the most powerful mind even under the most favorable circumstances, and in its
+moments of highest confidence. After making due allowance for the leadings of education, the tenacity
+of prejudice, the proneness to error, the inherent weakness of intellect, we have still a sufficiency to
+guide us. God foresaw this diversity, and hence accommodated Himself to our weakness in the plain,
+grammatical language and sense in which He expresses Himself. But unfortunately we are prone, in our
+superior wisdom, to overlook this fact, and arrogate to ourselves the higher power of adding to the
+grammatical meaning our own constructions of what the sense ought to be, and thus plunge ourselves
+into hopeless embarrassments.  
+
+**Obs. 12.**{: #obs-12-prop-3} The only way to rid ourselves of these ill-defined and antagonistic explanations, is to adopt
+legitimate principles of interpretation, and then carefully, in detail, examine the original covenants and
+promises upon which the kingdom is based; and if we have obtained a definition strictly in accordance
+with these, never to depart from the same, without the most express—not inferential—proof in hand
+that a change is denoted.  
+
+**Obs. 13.**{: #obs-13-prop-3} It is a lamentable fact, that few theologians are to be found who are willing to give a rigid
+scriptural examination to this subject. Preachers, who profess themselves called to proclaim “the gospel
+of the kingdom,” totally waive such a study. A few isolated passages, either torn from their connection,
+or misapprehended in their relationship to other Scripture, form the basis of a vast inferential structure.
+Instead of making Holy Writ the standard of interpretation, multitudes, while in theory recognizing the
+Bible as the sole measure of faith, yet in practice will take the explanations and Scriptural references
+given by favorite authors as their reliable guides, without the least attempt to verify, by a personal
+application to Scripture, their correctness. Undoubtedly we are greatly indebted to writers for
+definitions, interpretations, suggestions, etc., yet, after all, those who are called on to instruct others
+should satisfy themselves by a personal study of Revelation that their belief and opinions are scripturally
+founded. Error, too, is often plausible and friendly; truth sometimes comes in the garb of an adversary.  
+
+**Obs. 14.**{: #obs-14-prop-3} Many shrink from investigation when they find that things which they fondly believed,
+incorporated in their prayers and hopes, and portrayed with eloquence, are subject to the suspicion of
+being built upon a sandy foundation. It is a trite saying that “truth never dies,” however great the
+opposition; and we may rest assured that any opinion that we may individually entertain, can never
+alter or seriously affect the truth of God. It is folly to shelter ourselves behind the fear that,
+peradventure, inquiry and scrutiny may lead to a revolution of our views. This may indeed be an amiable
+weakness, but it is one as fatal to the student as Delilah’s hands were to Samson. If in earnest search
+after the truth, such a result, should it occur under clear apprehension and decided conviction of
+Scriptural authority, must be accepted as alone honorable. It is to the credit of some of the greatest
+writers (especially the German who so frankly express it), that opinions once strongly advocated were
+subsequently discarded under the persuasion that truth, honesty, and integrity required the change.

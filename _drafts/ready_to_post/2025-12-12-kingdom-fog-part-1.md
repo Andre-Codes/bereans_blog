@@ -124,7 +124,8 @@ This radical disagreement on a point as fundamental as the Kingdom's inauguratio
 He asks a piercing question regarding this uncertainty:
 
 <div class="peters-quote">
-“Is it not remarkable that a kingdom of God, so distinctively covenanted and predicted, should be so indefinite in its commencement that eminent and pious men are unable to point out its beginning with any degree of absolute certainty?”
+“Is it not remarkable that a kingdom of God, so distinctively covenanted and predicted, should be so indefinite in its commencement that eminent and pious men are unable to point out its beginning with any degree of absolute certainty?...Surely, is it
+not wise to consider that such a diversity, unknown to Scripture, and based solely on assertion, may arise from some mistake, a fatal flaw in its meaning? Having a kingdom to find and at present existing (over against the plainest statements of Scripture to the contrary), it is easy to see how such a confusion and variety arises.”
 <br>— <em>Prop. 3, Obs. 8</em>
 </div>
 
