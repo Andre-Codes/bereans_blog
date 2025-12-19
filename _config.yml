@@ -3,6 +3,10 @@ description: Theology of the Kingdom of God
 baseurl: ""
 url: "https://www.bereansblog.com"
 theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
 header_pages:
   - index.md
   - blog.md

@@ -20,7 +20,7 @@ Peters begins with a stark warning about the necessity of this doctrine:
 
 <div class="peters-quote" markdown="1">
 “The Scriptures cannot be rightly comprehended without a due knowledge of this kingdom. It is a fact... that the doctrine respecting the kingdom has materially affected the judgments of men concerning the canonical authority, the credibility, inspiration, and the meaning of the writings contained in the Bible.”
-<br>— <em>Peters, Prop. 1, Intro</em>
+<br>— <em>[Prop. 1, Intro](/theocratic-kingdom-full/#prop-1)</em>
 </div>
 
 And if we are in error regarding the Kingdom, Peters argues, it “will inevitably manifest itself, e.g., in exegesis and criticism.”
@@ -74,7 +74,7 @@ Peters captures this beautifully when he reminds us:
 
 <div class="peters-quote" markdown="1">
 "In the kingdom, Jesus Himself is evermore the central figure, and He can never be regarded in a higher, holier, clearer light than that reflected upon Him by His theocratic relationship. This will hereafter be brought forth in detail."
-<br>— <em>Prop. 1, Obs. 3</em>
+<br>— <em>[Prop. 1, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-1)</em>
 </div>
 
 This is why the apostles consistently connect His exaltation with His future reign (Acts 2:29–36; Heb 2:5–9). It’s why Jesus ties His own return to the renewal of the world and the restoration of Israel’s fortunes (Mt 19:28; Acts 1:6–7). And it’s why Scripture speaks of the Kingdom as His inheritance—the place where every promise of God finds its “Yes” in Him (2 Cor 1:20).
@@ -96,14 +96,14 @@ Despite its centrality, church history shows a tragic drift away from this doctr
 
 <div class="peters-quote" markdown="1">
 “It is significant to the thoughtful student... that the idea of a distinctive Divine kingdom related to Christ and this earth, a kingdom which decidedly holds the foremost place in the teaching of Jesus, should be made... to come down from its first position in the Bible and occupy, when alluded to, a very subordinate one.”
-<br>— <em>Prop. 1, Obs. 2</em>
+<br>— <em>[Prop. 1, Obs. 2](/theocratic-kingdom-full/#obs-2-prop-1)</em>
 </div>
 
 In modern theology, the Kingdom is often spiritualized into an abstraction. Peters laments the state of Christian literature in his day:
 
 <div class="peters-quote" markdown="1">
 “In hundreds of books, where it reasonably ought to be conspicuous, a few references of a somewhat mystical and unsatisfactory nature... dismisses the entire subject; while inferior subjects have long chapters and even volumes in their interest. There is, to the reflecting mind, something radically wrong in such a change of position.”
-<br>— <em>Prop. 1, Obs. 2</em>
+<br>— <em>[Prop. 1, Obs. 2](/theocratic-kingdom-full/#obs-2-prop-1)</em>
 </div>
 
 More on this neglect, subordination, and distortion will be covered in more detail when we discuss *Proposition 3*, where we explore the “theological fog” that has obscured this vital doctrine.
@@ -119,8 +119,8 @@ Critics often claim that the apostles were mistaken in their expectation of a li
 As stated in Observation 8:
 
 <div class="peters-quote" markdown="1">
-“A deeper investigation of this doctrine... will remove those painful concessions now made to unbelief, which stigmatizes the apostles and early Church as still under the influence of ‘erroneous Jewish forms.’”
-<br>— <em>Prop. 1, Obs. 8</em>
+“A deeper investigation of this doctrine and a correspondent return to the old faith, held by men who, by position and association (as e.g. Apostolical Church), <span class="kingdom-gold">were pre-eminently qualified to comprehend it</span>, will remove those painful concessions now made to unbelief, which stigmatizes the apostles and early Church as still under the influence of ‘erroneous Jewish forms.’”
+<br>— <em>[Prop. 1, Obs. 8](/theocratic-kingdom-full/#obs-8-prop-1)</em>
 </div>
 
 It is only by accepting their definition of the Kingdom that we can hope for “a consistent pleading, justification, and protection against the Strauss and Bauer school.” The doctrine of the Kingdom vindicates the apostles and proves that the Bible is a unified document rather than a collection of evolving religious sentiments.
@@ -135,7 +135,7 @@ Ultimately, the study of the Kingdom is not just for scholars; it is the inherit
 
 <div class="peters-quote" markdown="1">
 “The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine.”
-<br>— <em>Peters, Prop. 1</em>
+<br>— <em>[Prop. 1, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-1)</em>
 </div>
 
 To study the Kingdom is to study the heart of God’s plan for the ages. It is, as Peters concludes, the key that unlocks the unity of the Divine will, “exhibiting manifested unity... and vindicating the inspiration of Holy Writ.”
@@ -152,6 +152,6 @@ This is the story the prophets told, the apostles preached, and Peters sought to
 If the King and the Kingdom are inseparable, the next question naturally follows:
 How far back does this plan go?
 
-*Proposition 2* takes us behind the curtain of history itself. Peters argues that the Kingdom is not an afterthought, not a reaction, not a patch added to a failing world. It was designed, established, and prepared before the foundation of the world—woven into the very architecture of creation and redemption.
+*[Proposition 2](/theocratic-kingdom-full/#prop-2)* takes us behind the curtain of history itself. Peters argues that the Kingdom is not an afterthought, not a reaction, not a patch added to a failing world. It was designed, established, and prepared before the foundation of the world—woven into the very architecture of creation and redemption.
 
-Before, however, we move onto *proposition 2*, it will help to briefly dive into a very high-level overview of the kingdom. The following post, [A Familiar Announcement](/2025/12/07/familiar-announcement/), begins a 3-part series titled **The Kingdom Framework**, which lays out the essential background and context of this Kingdom we seek to understand.
+Before, however, we move onto *[proposition 2](/theocratic-kingdom-full/#prop-2)*, it will help to briefly dive into a very high-level overview of the kingdom. The following post, [A Familiar Announcement](/2025/12/07/familiar-announcement/), begins a 3-part series titled **The Kingdom Framework**, which lays out the essential background and context of this Kingdom we seek to understand.

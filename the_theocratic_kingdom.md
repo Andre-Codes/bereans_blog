@@ -37,3 +37,7 @@ A guide to navigating the propositions, observations, and historical citations t
 ### **4. Discussing Peters' Introduction**
 **[Rediscovering the Kingdom: Discussing Peters' Introduction](/2025/12/05/the-theocratic-kingdom-introduction/)**  
 A discussion on Peters' own introduction to his work, highlighting the importance of the Kingdom doctrine and the stability of Scripture.
+
+### **5. Full Text of *The Theocratic Kingdom***
+**[Read the Full Text of *The Theocratic Kingdom* by G.N.H. Peters](/theocratic-kingdom-full/)**  
+The complete three-volume work, formatted for easy navigation and study.

@@ -32,6 +32,23 @@ a {
   color: var(--link-color);
 }
 
+// Make page content wider
+.page-content {
+  max-width: 1200px; // Increase from default (often 800-1000px) to 1200px for more width
+  width: 100%; // Ensure it uses full available space up to max-width
+  padding-left: 30px; // Adjust padding for breathing room
+  padding-right: 30px;
+}
+
+// Optional: For even fuller width on large screens, remove max-width entirely
+@media (min-width: 1400px) {
+  .page-content {
+    max-width: none;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
 /* Update existing styles to use variables */
 blockquote, .peters-quote, .proposition, .scripture-quote {
   background-color: var(--blockquote-bg);
@@ -48,16 +65,6 @@ blockquote, .peters-quote, .proposition, .scripture-quote {
   background: var(--bg-color);
   border: 1px solid var(--border-color);
   border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 24px;
-  transition: background 0.3s, color 0.3s;
-  color: var(--text-color);
-}
   width: 50px;
   height: 50px;
   cursor: pointer;
@@ -441,4 +448,5 @@ details.callout { padding: 0.25rem 0.9rem; }
 details.callout .callout__summary { cursor: pointer; list-style: none; display:flex; align-items:center; }
 details.callout .callout__summary::-webkit-details-marker { display:none; }
 details.callout[open] .callout__body { margin-top: 0.5rem; }
+
 
