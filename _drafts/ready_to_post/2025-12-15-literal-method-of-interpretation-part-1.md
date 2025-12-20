@@ -47,7 +47,7 @@ Few words generate more resistance than *literal*. Peters knew this, and so did 
 
 Peters explicitly rejects crude literalism:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “When employing the word ‘literal,’ we are to be comprehended as also fully acknowledging the figurative sense, the beautiful ornaments of language; we cordially accept all that is natural to language itself… but object to additionally forcing on it a foreign element.”
 </div>
 
@@ -61,7 +61,7 @@ Ramm makes the same clarification, explicitly dismantling the caricature that �
 
 By *literal*, Peters means **grammatical interpretation**—language understood according to the normal rules by which language communicates meaning:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “Some writers… have employed the phrase ‘literal interpretation,’ by which they denote… that the language of the Bible is to be interpreted by the customary rules of grammar and rhetoric, which are used in determining the sense of the *Iliad*, *Paradise Lost*, and works of human composition.”
 </div>
 
@@ -77,7 +77,7 @@ At the heart of Peters’ defense lies a moral claim about God Himself.
 
 If God intended to make His will known, then He must communicate in a way that can be understood. Anything else would be deception.
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “If God has really intended to make known His will to man, it follows that… He must convey His truth to us in accordance with the well-known rules of language… instead of seeking a sense which the words in themselves do not contain.”
 </div>
 
@@ -103,7 +103,7 @@ The grammatical approach does not impoverish Scripture; it protects it.
 
 Without it, language becomes what later writers famously called a “wax nose”—twisted into whatever shape the interpreter desires. Peters warns that abandoning the grammatical sense opens the floodgates:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “It effectually closes the door to a flood of wild and antagonistic interpretations fastened on the Word under the claim of superior spiritual enlightenment.”
 </div>
 
@@ -151,13 +151,13 @@ Peters draws a sharp conclusion from this pattern.
 
 The issue is not ignorance, nor lack of scholarly consensus. It is inconsistency.
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “Our position is endorsed, at least in theory if not always in practice, by the ablest writers… Indeed, the plain grammatico-rhetorical sense is to multitudes the end of controversy.”
 </div>
 
 He presses the point further, noting that even those most inclined toward spiritualizing instinctively rely on the literal sense when it supports them:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “It is self-evident that… in the interpretation of Scripture they are correct and truthful in proportion as the literal sense or the natural figurative one sustains them.”
 </div>
 
@@ -168,7 +168,7 @@ In other words, the literal sense is not rejected because it is unworkable, but 
 
 If Scripture can only be rightly understood by the learned, the initiated, or the mystically gifted, then it was never truly given to *all*.
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “Chillingworth affirms our view, because God designed His Word not simply ‘for the learned, but for all men,’ which design is only met by the grammatical sense.”
 </div>
 

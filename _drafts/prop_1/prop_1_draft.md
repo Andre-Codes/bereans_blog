@@ -15,7 +15,7 @@ This is the core argument of G. N. H. Peters’ first proposition in *The Theocr
 
 Peters begins with a stark warning about the necessity of this doctrine:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “The Scriptures cannot be rightly comprehended without a due knowledge of this kingdom. It is a fact... that the doctrine respecting the kingdom has materially affected the judgments of men concerning the canonical authority, the credibility, inspiration, and the meaning of the writings contained in the Bible.”
 <br>— <em>Peters, The Theocratic Kingdom, Prop. 1</em>
 </div>
@@ -83,14 +83,14 @@ And to understand the Kingdom as Scripture presents it is to see Jesus not merel
 
 Despite its centrality, church history shows a tragic drift away from this doctrine. Peters notes this shift in Observation 2, pointing out the irony that a subject so prominent in Scripture has become so minor in theology:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “It is significant to the thoughtful student... that the idea of a distinctive Divine kingdom related to Christ and this earth, a kingdom which decidedly holds the foremost place in the teaching of Jesus, should be made... to come down from its first position in the Bible and occupy, when alluded to, a very subordinate one.”
 <br>— <em>Prop. 1, Obs. 2</em>
 </div>
 
 In modern theology, the Kingdom is often spiritualized into an abstraction. Peters laments the state of Christian literature in his day:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “In hundreds of books, where it reasonably ought to be conspicuous, a few references of a somewhat mystical and unsatisfactory nature... dismisses the entire subject; while inferior subjects have long chapters and even volumes in their interest. There is, to the reflecting mind, something radically wrong in such a change of position.”
 <br>— <em>Prop. 1, Obs. 2</em>
 </div>
@@ -105,7 +105,7 @@ Critics often claim that the apostles were mistaken in their expectation of a li
 
 As stated in Observation 8:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “A deeper investigation of this doctrine... will remove those painful concessions now made to unbelief, which stigmatizes the apostles and early Church as still under the influence of ‘erroneous Jewish forms.’”
 <br>— <em>Prop. 1, Obs. 8</em>
 </div>
@@ -118,7 +118,7 @@ It is only by accepting their definition of the Kingdom that we can hope for “
 
 Ultimately, the study of the Kingdom is not just for scholars; it is the inheritance of the believer. It connects the past, present, and future into one cohesive plan.
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine.”
 <br>— <em>Peters, The Theocratic Kingdom, Prop. 1</em>
 </div>

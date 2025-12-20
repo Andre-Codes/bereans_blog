@@ -37,23 +37,23 @@ For centuries, theologians have debated the central theme of the Bible. Peters a
 To demonstrate why this subject deserves the “first rank,” Peters lists numerous particulars in Observation 1, showing the doctrine’s sheer magnitude:
 
 <div class="feature-callout">
-	<ul class="feature-grid">
-		<li>The Kingdom is the object guaranteed by God’s oath-bound covenant.</li>
-		<li>It is the central theme and burden of biblical prophecy.</li>
-		<li>Scripture devotes more space to the Kingdom than to any other doctrine.</li>
-		<li>It was the leading topic preached by John the Baptist, Christ, the disciples, and the apostles.</li>
-		<li>It was a cherished theme in the preaching of the early Church.</li>
-		<li>It is the foundation of true biblical preaching, since the Gospel itself is “the gospel of the Kingdom.”</li>
-		<li>Jesus came, suffered, died, and will return for the purpose of establishing and manifesting this Kingdom.</li>
-		<li>Christ is deeply invested in it, for it is His honor, His inheritance, and His appointed destiny.</li>
-		<li>Believers are invited to inherit this Kingdom as a supreme privilege.</li>
-		<li>It is the constant object of Christian faith and hope, shaping prayer, duty, and watchfulness.</li>
-		<li>It is the goal toward which all prior dispensations have been moving.</li>
-		<li>It contains the completion of redemption, where all God’s promises reach fulfillment.</li>
-		<li>It outwardly displays God’s will in saving humanity and liberating creation.</li>
-		<li>It unifies all divine revelation, vindicating Scripture and its prophetic design.</li>
-		<li>It affirms both the humanity and divinity of Christ and displays His majesty as the Theocratic King, together with the exaltation of His co-heirs.</li>
-	</ul>
+<ul class="feature-grid">
+<li>The Kingdom is the object guaranteed by God’s oath-bound covenant.</li>
+<li>It is the central theme and burden of biblical prophecy.</li>
+<li>Scripture devotes more space to the Kingdom than to any other doctrine.</li>
+<li>It was the leading topic preached by John the Baptist, Christ, the disciples, and the apostles.</li>
+<li>It was a cherished theme in the preaching of the early Church.</li>
+<li>It is the foundation of true biblical preaching, since the Gospel itself is “the gospel of the Kingdom.”</li>
+<li>Jesus came, suffered, died, and will return for the purpose of establishing and manifesting this Kingdom.</li>
+<li>Christ is deeply invested in it, for it is His honor, His inheritance, and His appointed destiny.</li>
+<li>Believers are invited to inherit this Kingdom as a supreme privilege.</li>
+<li>It is the constant object of Christian faith and hope, shaping prayer, duty, and watchfulness.</li>
+<li>It is the goal toward which all prior dispensations have been moving.</li>
+<li>It contains the completion of redemption, where all God’s promises reach fulfillment.</li>
+<li>It outwardly displays God’s will in saving humanity and liberating creation.</li>
+<li>It unifies all divine revelation, vindicating Scripture and its prophetic design.</li>
+<li>It affirms both the humanity and divinity of Christ and displays His majesty as the Theocratic King, together with the exaltation of His co-heirs.</li>
+</ul>
 </div>
 He concludes this observation by noting that the Kingdom “enforces not only the humanity... of Christ, but also His Divinity... with the strongest reasoning.”
 
@@ -75,12 +75,12 @@ The relationship between the King and the Kingdom is therefore inseparable. <spa
 
 Peters captures this beautifully when he reminds us:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 "In the kingdom, Jesus Himself is evermore the central figure, and He can never be regarded in a higher, holier, clearer light than that reflected upon Him by His theocratic relationship. This will hereafter be brought forth in detail."
 <br>— <em>[Prop. 1, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-1)</em>
 </div>
 
-This is why the apostles consistently connect His exaltation with His future reign (Acts 2:29–36; Heb 2:5–9). It’s why Jesus ties His own return to the renewal of the world and the restoration of Israel’s fortunes (Mt 19:28; Acts 1:6–7). And it’s why Scripture speaks of the Kingdom as His inheritance—the place where every promise of God finds its “Yes” in Him (2 Cor 1:20).
+This is why the apostles consistently connect His exaltation with His future reign (Luke 22:30, Acts 2:29–36; Heb 2:5–9). It’s why Jesus ties His own return to the renewal of the world and the restoration of Israel’s fortunes (Mt 19:28; Acts 1:6–7). And it’s why Scripture speaks of the Kingdom as His inheritance—the place where every promise of God finds its “Yes” in Him (2 Cor 1:20).
 
 Far from reducing Christ’s significance, the Kingdom doctrine heightens it. It shows that His mediatorial work does not end at the cross or even at the resurrection but culminates in His visible, earthly, covenant-fulfilling reign—the moment when creation itself is liberated and restored (Rom 8:19–23).
 
@@ -97,14 +97,14 @@ And to understand the Kingdom as Scripture presents it is to see Jesus not merel
 
 Despite its centrality, church history shows a tragic drift away from this doctrine. Peters notes this shift in Observation 2, pointing out the irony that a subject so prominent in Scripture has become so minor in theology:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “It is significant to the thoughtful student... that the idea of a distinctive Divine kingdom related to Christ and this earth, a kingdom which decidedly holds the foremost place in the teaching of Jesus, should be made... to come down from its first position in the Bible and occupy, when alluded to, a very subordinate one.”
 <br>— <em>[Prop. 1, Obs. 2](/theocratic-kingdom-full/#obs-2-prop-1)</em>
 </div>
 
 In modern theology, the Kingdom is often spiritualized into an abstraction. Peters laments the state of Christian literature in his day:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “In hundreds of books, where it reasonably ought to be conspicuous, a few references of a somewhat mystical and unsatisfactory nature... dismisses the entire subject; while inferior subjects have long chapters and even volumes in their interest. There is, to the reflecting mind, something radically wrong in such a change of position.”
 <br>— <em>[Prop. 1, Obs. 2](/theocratic-kingdom-full/#obs-2-prop-1)</em>
 </div>
@@ -121,7 +121,7 @@ Critics often claim that the apostles were mistaken in their expectation of a li
 
 As stated in Observation 8:
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “A deeper investigation of this doctrine and a correspondent return to the old faith, held by men who, by position and association (as e.g. Apostolical Church), <span class="kingdom-gold">were pre-eminently qualified to comprehend it</span>, will remove those painful concessions now made to unbelief, which stigmatizes the apostles and early Church as still under the influence of ‘erroneous Jewish forms.’”
 <br>— <em>[Prop. 1, Obs. 8](/theocratic-kingdom-full/#obs-8-prop-1)</em>
 </div>
@@ -136,7 +136,7 @@ We briefly discussed Apostle expectation and secular criticism in this in the pr
 
 Ultimately, the study of the Kingdom is not just for scholars; it is the inheritance of the believer. It connects the past, present, and future into one cohesive plan.
 
-<div class="peters-quote" markdown="1">
+<div class="peters-quote">
 “The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine.”
 <br>— <em>[Prop. 1, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-1)</em>
 </div>

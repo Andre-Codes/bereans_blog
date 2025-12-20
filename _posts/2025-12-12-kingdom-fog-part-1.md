@@ -98,7 +98,10 @@ This proliferation is not accidental. <span class="kingdom-gold">Each additional
 
 Peters’ assessment is devastating precisely because it is so restrained:
 
-<div class="peters-quote"> “These are purely theological deductions, having no foundation whatever in Scripture... Like preceding definitions, it lowers the theocracy by denying to it the reality of being in all respects the kingdom of God. This alone should cause us to receive it with grave doubts.” <br>— <em>[Prop. 3, Obs. 4](/theocratic-kingdom-full/#obs-4-prop-3)</em> </div>
+<div class="peters-quote"> 
+“These are purely theological deductions, having no foundation whatever in Scripture... Like preceding definitions, it lowers the theocracy by denying to it the reality of being in all respects the kingdom of God. This alone should cause us to receive it with grave doubts.” 
+<br>— <em>[Prop. 3, Obs. 4](/theocratic-kingdom-full/#obs-4-prop-3)</em> 
+</div>
 
 ### **The Chronological Chaos**
 

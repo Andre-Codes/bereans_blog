@@ -7,8 +7,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-  parse_block_html: true
-  html_to_native: true
 header_pages:
   - index.md
   - blog.md
