@@ -1,0 +1,7 @@
+{%- if site.kramdown.parse_block_html == false or site.kramdown.parse_block_html == nil -%}
+  <div class="peters-quote" markdown="1">
+{%- else -%}
+  <div class="peters-quote">
+{%- endif -%}
+{{ include.content }}
+</div>
