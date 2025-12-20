@@ -126,20 +126,29 @@ Use this to style Bible verses green. **Do not use the `>` blockquote symbol.**
 ### 4. Peters' Quotes
 Use this wrapper for quotes specifically from George N. H. Peters.
 
+Option A — quick (scoped HTML): add `markdown="1"` when `parse_block_html` is disabled in `_config.yml`.
+
 ```html
-<div class="peters-quote">
-  “The Kingdom of God is the Kingdom of the Messiah...”
+<div class="peters-quote" markdown="1">
+  “The Kingdom of God is the Kingdom of the Messiah..."
   <br>— <em>Prop. 22, Obs. 1</em>
 </div>
 ```
 
-**Note:** Markdown is enabled by default inside all HTML block elements (configured in `_config.yml` with `parse_block_html: true`), so you don't need to add `markdown="1"`. If you want to disable Markdown parsing in a specific div, add `markdown="0"`.
+Option B — preferred (reusable include): capture the quote and use the `peters-quote.html` include. This centralizes markup and ensures Markdown is handled correctly whether or not `parse_block_html` is enabled.
 
-```html
-<div class="some-other-div" markdown="0">
-  This will **not** be parsed as Markdown.
-</div>
+```liquid
+{% capture pq %}
+"The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine."
+<br>— [Prop. 1, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-1)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
+
 ```
+
+Notes:
+- If `_config.yml` has `parse_block_html: true`, kramdown will parse Markdown inside HTML blocks automatically.
+- If `parse_block_html: false`, use Option A (add `markdown="1"`) or Option B (the include) to ensure Markdown inside the quote renders correctly.
 
 ### 5. General Blockquotes
 Use standard Markdown blockquotes for other theologians (e.g., Walvoord, Woods). These have a simple gray border.
