@@ -28,17 +28,19 @@ This is the unavoidable starting point.
 
 George Peters explains in Proposition 22 that the language Jesus and John employed was **not new**, not reinterpreted, and not adjusted. It was the full, inherited vocabulary of Old Testament expectation:
 
-<div class="peters-quote">
+{% capture pq %}
 “First is to be found the well-known expectations of the Jews based on a literal interpretation of the prophecies; next, these are summed up in the expressive phrases ‘Kingdom of heaven,’ etc., taken, as numerous writers inform us, from Daniel 7:13-14; finally, John, Jesus, and others take the very phraseology adopted by the Jews to designate a certain definite Kingdom, and use it **without the slightest intimation or explanation of a change in its meaning;** and this employment of the phrases, with a correspondent Jewish meaning attached, continued… at least down (Acts 1:6) to the ascension of Christ.”
-<br>— <em>Prop. 22, Obs. 1</em>
-</div>
+<br>—Prop. 22, Obs. 1
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Peters then cites even those who **reject** literal interpretation but still admit the force of the language:
 
-<div class="peters-quote">
-“There is reason to believe not only that the expression ‘Kingdom of heaven,’ as used in the N. T., was employed as synonymous with ‘Kingdom of God,’ as referred to in the Old Testament, but that the former expression had become common among the Jews of our Lord’s time for denoting the state of things expected to be brought in by the Messiah. The mere use of the expression as it first occurs in Matthew, uttered apparently by John the Baptist and our Lord Himself, **without a note of explanation as if all perfectly understood what was meant by it,** seems alone conclusive evidence of this.”
-<br>— <em>Prop. 22, Intro</em>
-</div>
+{% capture pq %}
+"There is reason to believe not only that the expression ‘Kingdom of heaven,’ as used in the N. T., was employed as synonymous with ‘Kingdom of God,’ as referred to in the Old Testament, but that the former expression had become common among the Jews of our Lord’s time for denoting the state of things expected to be brought in by the Messiah. The mere use of the expression as it first occurs in Matthew, uttered apparently by John the Baptist and our Lord Himself, **without a note of explanation as if all perfectly understood what was meant by it,** seems alone conclusive evidence of this."
+<br>—Prop. 22, Intro
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 The conclusion is plain enough: <span class="kingdom-gold">the kingdom Jesus announced was the same kingdom the prophets described and the same kingdom the Jews awaited.</span>
 
@@ -175,10 +177,11 @@ This is covenant expectation—exactly as the prophets promised.
 
 Peters reflects on the impossibility of God “redefining” such promises:
 
-<div class="peters-quote">
-“if David’s throne and kingdom is not David’s throne and kingdom as the words indicate, and as fondly believed in for centuries, but is, as men in their wisdom afterward developed, the Father’s throne in heaven and the Father’s Kingdom on earth and in heaven, how then can we reconcile it with God’s own assurances of veracity, desire to instruct, undeviating truthfulness, etc., that He would clothe His own gracious and merciful words in a dress calculated to deceive, and which did beguile the Jews and Primitive Christians, His children, into a false faith and hope. No! never, never can we receive any theory, however plausibly and learnedly presented, which thus reflects on God’s goodness, makes Him virtually a party to gross deception, and which degrades the intelligence and piety of former saints. Who can censure us for believing in a sense so generally admitted as given by God Himself, placing ourselves where prophets, pious Jews, and the early Christians stood? Having thus in the outset a vantage ground, needing not to prove what multitudes already concede, let us lay aside our “worldly wisdom,” and in a childlike disposition for instruction, follow this grammatical interpretation, carefully gathering up the detached portions, and see where it will lead us. It will reveal a strangeness most surprising, a sublimity most inspiring, and a beauty most delightful, in God’s work.”
-<br>— <em>Prop. 21, Obs. 2</em>
-</div>
+{% capture pq %}
+"if David’s throne and kingdom is not David’s throne and kingdom as the words indicate, and as fondly believed in for centuries, but is, as men in their wisdom afterward developed, the Father’s throne in heaven and the Father’s Kingdom on earth and in heaven, how then can we reconcile it with God’s own assurances of veracity, desire to instruct, undeviating truthfulness, etc., that He would clothe His own gracious and merciful words in a dress calculated to deceive, and which did beguile the Jews and Primitive Christians, His children, into a false faith and hope. No! never, never can we receive any theory, however plausibly and learnedly presented, which thus reflects on God’s goodness, makes Him virtually a party to gross deception, and which degrades the intelligence and piety of former saints. Who can censure us for believing in a sense so generally admitted as given by God Himself, placing ourselves where prophets, pious Jews, and the early Christians stood? Having thus in the outset a vantage ground, needing not to prove what multitudes already concede, let us lay aside our “worldly wisdom,” and in a childlike disposition for instruction, follow this grammatical interpretation, carefully gathering up the detached portions, and see where it will lead us. It will reveal a strangeness most surprising, a sublimity most inspiring, and a beauty most delightful, in God’s work.”
+<br>—Prop. 21, Obs. 2
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 <img src="/assets/post_images/mary_and_thrones.png" alt="Mary and the thrones" width="250" class="image-right">
 

@@ -17,7 +17,7 @@ Peters begins with a stark warning about the necessity of this doctrine:
 
 <div class="peters-quote">
 “The Scriptures cannot be rightly comprehended without a due knowledge of this kingdom. It is a fact... that the doctrine respecting the kingdom has materially affected the judgments of men concerning the canonical authority, the credibility, inspiration, and the meaning of the writings contained in the Bible.”
-<br>— <em>Peters, The Theocratic Kingdom, Prop. 1</em>
+<br>—Peters, The Theocratic Kingdom, Prop. 1
 </div>
 
 And if we are in error regarding the Kingdom, Peters argues, it “will inevitably manifest itself, e.g., in exegesis and criticism.”
@@ -85,14 +85,14 @@ Despite its centrality, church history shows a tragic drift away from this doctr
 
 <div class="peters-quote">
 “It is significant to the thoughtful student... that the idea of a distinctive Divine kingdom related to Christ and this earth, a kingdom which decidedly holds the foremost place in the teaching of Jesus, should be made... to come down from its first position in the Bible and occupy, when alluded to, a very subordinate one.”
-<br>— <em>Prop. 1, Obs. 2</em>
+<br>—Prop. 1, Obs. 2
 </div>
 
 In modern theology, the Kingdom is often spiritualized into an abstraction. Peters laments the state of Christian literature in his day:
 
 <div class="peters-quote">
 “In hundreds of books, where it reasonably ought to be conspicuous, a few references of a somewhat mystical and unsatisfactory nature... dismisses the entire subject; while inferior subjects have long chapters and even volumes in their interest. There is, to the reflecting mind, something radically wrong in such a change of position.”
-<br>— <em>Prop. 1, Obs. 2</em>
+<br>—Prop. 1, Obs. 2
 </div>
 
 ---
@@ -107,7 +107,7 @@ As stated in Observation 8:
 
 <div class="peters-quote">
 “A deeper investigation of this doctrine... will remove those painful concessions now made to unbelief, which stigmatizes the apostles and early Church as still under the influence of ‘erroneous Jewish forms.’”
-<br>— <em>Prop. 1, Obs. 8</em>
+<br>—Prop. 1, Obs. 8
 </div>
 
 It is only by accepting their definition of the Kingdom that we can hope for “a consistent pleading, justification, and protection against the Strauss and Bauer school.” The doctrine of the Kingdom vindicates the apostles and proves that the Bible is a unified document rather than a collection of evolving religious sentiments.
@@ -120,7 +120,7 @@ Ultimately, the study of the Kingdom is not just for scholars; it is the inherit
 
 <div class="peters-quote">
 “The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine.”
-<br>— <em>Peters, The Theocratic Kingdom, Prop. 1</em>
+<br>—Peters, The Theocratic Kingdom, Prop. 1
 </div>
 
 To study the Kingdom is to study the heart of God’s plan for the ages. It is, as Peters concludes, the key that unlocks the unity of the Divine will, “exhibiting manifested unity... and vindicating the inspiration of Holy Writ.”

@@ -24,10 +24,11 @@ This post works closely with George N. H. Peters’ nineteenth proposition:
 
 Peters points out a striking feature of the early chapters of the New Testament: the preaching of the kingdom comes to the people <span class="kingdom-gold">without a single word of definition.</span>
 
-<div class="peters-quote">
-“The preaching of the kingdom, its simple announcement, without the least attempt to explain its meaning or nature… presupposed that it was a subject familiar to them. John the Baptist, Jesus, and the Seventy all proclaimed the kingdom in a way, without definition or explanation, that indicated their hearers were acquainted with its meaning.”
-<br>— <em>Prop. 19, Intro</em>
-</div>
+{% capture pq %}
+"The preaching of the kingdom, its simple announcement, without the least attempt to explain its meaning or nature… presupposed that it was a subject familiar to them. John the Baptist, Jesus, and the Seventy all proclaimed the kingdom in a way, without definition or explanation, that indicated their hearers were acquainted with its meaning."
+<br>—Prop. 19, Intro
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 If this observation is true—and it is plainly seen on the surface of the text—it becomes a crucial piece of evidence for understanding Jewish expectations and the truthfulness of a <span class="kingdom-gold">literal restoration of Israel under the reign of the Messiah.</span>
 
@@ -69,10 +70,11 @@ And this is where the real trouble begins.
 
 Peters notes that modern attempts to reinterpret the kingdom have given destructive critics enormous leverage. Rationalists capitalized on these inconsistencies, using them as grounds to attack the reliability of Scripture, the authority of the apostles, and even the character of Christ.
 
-<div class="peters-quote">
-“The prophecies referring to the Kingdom of God, as now interpreted by the large majority of Christians, afford the strongest leverage employed by unbelievers against Christianity.”
-<br>— <em>Prop. 17, Obs. 4</em>
-</div>
+{% capture pq %}
+"The prophecies referring to the Kingdom of God, as now interpreted by the large majority of Christians, afford the strongest leverage employed by unbelievers against Christianity."
+<br>—Prop. 17, Obs. 4
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Some critics went so far as to say:
 
@@ -136,10 +138,11 @@ If theologians claim:
 
 Peters’ conclusion is sharp and compelling:
 
-<div class="peters-quote">
+{% capture pq %}
 Rejecting the plain grammatical sense “makes the ancient faith an ignorant one, the early Church occupying a false position, and the Bible a book to which man adds any sense under the plea of spiritualization.”
-<br>— <em>Prop. 17, Obs. 4</em>
-</div>
+<br>—Prop. 17, Obs. 4
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 This is the heart of the problem.
 If the kingdom is spiritualized, the unity of Scripture fractures. The integrity of God’s promises is obscured. And critics gain ground the Bible never intended to yield.

@@ -131,7 +131,7 @@ Option A — quick (scoped HTML): add `markdown="1"` when `parse_block_html` is 
 ```html
 <div class="peters-quote" markdown="1">
   “The Kingdom of God is the Kingdom of the Messiah..."
-  <br>— <em>Prop. 22, Obs. 1</em>
+  <br>—Prop. 22, Obs. 1
 </div>
 ```
 

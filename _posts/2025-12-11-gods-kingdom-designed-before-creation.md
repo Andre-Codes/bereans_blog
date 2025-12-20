@@ -23,10 +23,11 @@ Here are key insights regarding this eternal design, drawn directly from Peters�
 
 We often view creation as a separate event from the Kingdom, but Peters argues they are inextricably linked. The physical world was not an accident; it was the intended stage for God’s glory.
 
-<div class="peters-quote">
-“In the mind of the Divine Architect and Purposer, the contemplated final use of this world was allied with its origin”
-<br>— <em>[Prop. 2, Obs. 1](/theocratic-kingdom-full/#obs-1-prop-2)</em>
-</div>
+{% capture pq %}
+"In the mind of the Divine Architect and Purposer, the contemplated final use of this world was allied with its origin"
+<br>—[Prop. 2, Obs. 1](/theocratic-kingdom-full/#obs-1-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Critics may mock the biblical language of the “foundations of the earth,” but Peters reminds us that “the general analogy of the Scriptures teach that these are in the creative power, wisdom, love—the attributes—of the Creator” (Job 26:7).
 
@@ -38,10 +39,11 @@ One of the most vital distinctions in *The Theocratic Kingdom* is the location o
 
 This is not a distant reality; rather:
 
-<div class="peters-quote">
-“This kingdom is one pertaining to the earth... ‘From the foundation of the world’ is indicative that God purposed this very earth, when founded, for this kingdom.”
-<br>— <em>[Prop. 2, Obs. 2](/theocratic-kingdom-full/#obs-2-prop-2)</em>
-</div>
+{% capture pq %}
+"This kingdom is one pertaining to the earth... ‘From the foundation of the world’ is indicative that God purposed this very earth, when founded, for this kingdom."
+<br>—[Prop. 2, Obs. 2](/theocratic-kingdom-full/#obs-2-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 While the Fall introduced sin, the original purpose remains. Peters argues that while unbelief views nature as an end in itself, the doctrine of the Kingdom proposes “a renewal, a deliverance, a restitution, which shall free nature, exalt man, and glorify the Maker” (Ephesians 1:4, 1 Peter 1:20).
 
@@ -49,35 +51,39 @@ While the Fall introduced sin, the original purpose remains. Peters argues that 
 
 Because the Kingdom was designed before the Fall, the current state of the world is not final. The curse must be reversed to match the original blueprint.
 
-<div class="peters-quote">
-“Such phraseology involves, of necessity, owing to the fall and entailed curse, a glorious restitution for which provision is to be made... it is requisite, before God’s purpose is fully carried out, to restore that forfeited perfection.”
-<br>— <em>[Prop. 2, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-2)</em>
-</div>
+{% capture pq %}
+"Such phraseology involves, of necessity, owing to the fall and entailed curse, a glorious restitution for which provision is to be made... it is requisite, before God’s purpose is fully carried out, to restore that forfeited perfection."
+<br>—[Prop. 2, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 ### **The King and His Rulers Were Preordained**
 
 The Kingdom implies a King and a government. This was not an afterthought.
 
-<div class="peters-quote">
-“This phraseology respecting the kingdom includes, in view of expressed predetermination, the appointment or preordination of the king”
-<br>— <em>[Prop. 2, Obs. 4](/theocratic-kingdom-full/#obs-4-prop-2)</em>
-</div>
+{% capture pq %}
+"This phraseology respecting the kingdom includes, in view of expressed predetermination, the appointment or preordination of the king"
+<br>—[Prop. 2, Obs. 4](/theocratic-kingdom-full/#obs-4-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Furthermore, it includes the rulers:
 
-<div class="peters-quote">
-“It also comprehends the number of the rulers, elect, heirs or inheritors of the kingdom... as well as every particular, provisionary and realized, pertaining to it”
-<br>— <em>[Prop. 2, Obs. 5](/theocratic-kingdom-full/#obs-5-prop-2)</em>
-</div>
+{% capture pq %}
+"It also comprehends the number of the rulers, elect, heirs or inheritors of the kingdom... as well as every particular, provisionary and realized, pertaining to it"
+<br>—[Prop. 2, Obs. 5](/theocratic-kingdom-full/#obs-5-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 ### **History and Time Are Ordered for the Kingdom**
 
 Why has history unfolded in this specific way? Peters suggests that the very ages are structured to lead us to this Kingdom. The Kingdom is the <span class="kingdom-gold">beginning and ending of the ages</span>.
 
-<div class="peters-quote">
-“In the ‘eternal purpose,’ or ‘the purpose of the ages,’ etc., is included the notion that time itself is embraced in God’s plan with special reference to Jesus Christ as the King of the kingdom.”
-<br>— <em>[Prop. 2, Obs. 6](/theocratic-kingdom-full/#obs-6-prop-2)</em>
-</div>
+{% capture pq %}
+"In the ‘eternal purpose,’ or ‘the purpose of the ages,’ etc., is included the notion that time itself is embraced in God’s plan with special reference to Jesus Christ as the King of the kingdom."
+<br>—[Prop. 2, Obs. 6](/theocratic-kingdom-full/#obs-6-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Whether we look at the Adamic, Abrahamic, or Church ages, they are “ordered in their succession as part of the Divine purpose in relation to this kingdom” (1 Corinthians 2:7). In Matt. 24:3 the disciples even inquire about the <span class="scripture">end of the age</span>, indicating that the ages themselves are tied to the Kingdom’s fulfillment.
 
@@ -85,19 +91,21 @@ Whether we look at the Adamic, Abrahamic, or Church ages, they are “ordered in
 
 Because this plan is rooted in God’s attributes, it cannot be easily cast aside or spiritualized into nothingness.
 
-<div class="peters-quote">
-“We also justly infer, that God’s will thus expressed respecting the kingdom indicates a Divine plan, which, in view of His attributes, necessarily embraces unity of design. Therefore, when the kingdom is once defined by the Spirit, no change or modification can possibly be allowed without the most express declarations from God announcing it.”
-<br>— <em>[Prop. 2, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-2)</em>
-</div>
+{% capture pq %}
+"We also justly infer, that God’s will thus expressed respecting the kingdom indicates a Divine plan, which, in view of His attributes, necessarily embraces unity of design. Therefore, when the kingdom is once defined by the Spirit, no change or modification can possibly be allowed without the most express declarations from God announcing it."
+<br>—[Prop. 2, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Furthermore:
 
-<div class="peters-quote">
+{% capture pq %}
 "The idea of the kingdom being thus identified in its connection with eternal purpose and with
 creation, God will undoubtedly accomplish His revealed will concerning it, confirmed as it is even by
 oath. God Himself stands pledged to the ultimate realization of this idea."
-<br>— <em>[Prop. 2, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-2)</em>
-</div>
+<br>—[Prop. 2, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 ### **Wisdom Rejoices in the Earth**
 
@@ -105,9 +113,10 @@ Finally, this doctrine vindicates the wisdom of God. It shows a cohesive narrati
 
 Ultimately, this grand design proves the existence of a guiding Mind:
 
-<div class="peters-quote">
-“The greater the work contemplated—and there is none greater than this kingdom—the more clearly ought we to see the intelligence of the Mind that originates it, and the power of the Will that performs it.”
-<br>— <em>[Prop. 2, Obs. 9](/theocratic-kingdom-full/#obs-9-prop-2)</em>
-</div>
+{% capture pq %}
+"The greater the work contemplated—and there is none greater than this kingdom—the more clearly ought we to see the intelligence of the Mind that originates it, and the power of the Will that performs it."
+<br>—[Prop. 2, Obs. 9](/theocratic-kingdom-full/#obs-9-prop-2)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 As we study, we find that <span class="scripture">known unto God are all His works from the beginning of the world</span> (Acts 15:18), and we can rest in the certainty that He who designed the foundation will also bring about the glorious capstone.

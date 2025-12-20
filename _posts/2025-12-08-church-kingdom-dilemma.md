@@ -36,11 +36,12 @@ This is the tragic irony Peters exposes. Many modern theologians unwittingly arm
 
 Peters notes that critics such as Ernest Renan seized immediately on the spiritualizing tendencies within the Church. Once interpreters began redefining the kingdom to avoid a literal fulfillment, Renan drew the only conclusion he believed consistent:
 
-<div class="peters-quote">
-“The prophecies referring to the Kingdom of God, as now interpreted by the large majority of Christians, afford the strongest leverage employed by unbelievers against Christianity.
-Some unbelievers even go to the length of denouncing the Saviour and the apostles as being ‘deceivers,’ ‘Indian jugglers,’ etc., who endeavored, without success, to appropriate the predictions to themselves. Others inform us that the prophecies inflamed the imagination of Jesus, and that under their influence His ministry started, but that He discarded much as unable to be realized in the condition of things then existing.”
-<br>— <em>Prop. 17, Obs. 4</em>
-</div>
+{% capture pq %}
+"The prophecies referring to the Kingdom of God, as now interpreted by the large majority of Christians, afford the strongest leverage employed by unbelievers against Christianity.
+Some unbelievers even go to the length of denouncing the Saviour and the apostles as being ‘deceivers,’ ‘Indian jugglers,’ etc., who endeavored, without success, to appropriate the predictions to themselves. Others inform us that the prophecies inflamed the imagination of Jesus, and that under their influence His ministry started, but that He discarded much as unable to be realized in the condition of things then existing."
+<br>—Prop. 17, Obs. 4
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Notice the force of Renan’s reasoning: *If the Old Testament kingdom prophecies did not come to pass literally, and if Jesus did not establish such a kingdom, then failed to fulfill them or quietly abandoned them.*
 
@@ -52,11 +53,12 @@ Peters is blunt: <span class="kingdom-gold">once theologians discard the plain s
 
 He writes:
 
-<div class="peters-quote">
-“The manner of meeting such objections is humiliating to the Word and Reason; for it discards the plain
-grammatical sense as unreliable, and, to save the credit of the Word, insists upon interpreting all such prophecies by adding to them, under the claim of spiritual, a sense which is not contained in the language, but suits the religious system adopted. Unbelief is not slow in seizing the advantage thus given, gleefully pointing out how this introduced change makes the ancient faith an ignorant one, the early Church occupying a false position, and the Bible a book to which man adds any sense, under the plea of spiritual, that may be deemed necessary for its defence.”
-<br>— <em>Prop. 17, Obs. 4</em>
-</div>
+{% capture pq %}
+"The manner of meeting such objections is humiliating to the Word and Reason; for it discards the plain
+grammatical sense as unreliable, and, to save the credit of the Word, insists upon interpreting all such prophecies by adding to them, under the claim of spiritual, a sense which is not contained in the language, but suits the religious system adopted. Unbelief is not slow in seizing the advantage thus given, gleefully pointing out how this introduced change makes the ancient faith an ignorant one, the early Church occupying a false position, and the Bible a book to which man adds any sense, under the plea of spiritual, that may be deemed necessary for its defence."
+<br>—Prop. 17, Obs. 4
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 In other words:
 
@@ -70,19 +72,21 @@ Two thinkers Peters highlights—Christoph Friedrich von Ammon and Edmond Schér
 
 Von Ammon argues that if the kingdom as preached by Jesus is redefined by later theology, then the New Testament reveals nothing more than a set of Jewish misconceptions dressed up in Christian language:
 
-<div class="peters-quote">
-“Von Ammon (Bib. Theol.), and after him many others, throw doubt on the credibility of the Scriptures on the ground that the New Testament in the very outset indicates that John the Baptist, Jesus, and the disciples were susceptible to the errors and prejudices of their Jewish forerunners and hearers, and that consequently, instead of there being one great design relating to the future as attributed to them, we have, in view of the subsequent change in the meaning of the Kingdom... only detached, isolated positions, lacking cohesion and unity.”
-<br>— <em>Prop. 19, Obs. 2</em>
-</div>
+{% capture pq %}
+"Von Ammon (Bib. Theol.), and after him many others, throw doubt on the credibility of the Scriptures on the ground that the New Testament in the very outset indicates that John the Baptist, Jesus, and the disciples were susceptible to the errors and prejudices of their Jewish forerunners and hearers, and that consequently, instead of there being one great design relating to the future as attributed to them, we have, in view of the subsequent change in the meaning of the Kingdom... only detached, isolated positions, lacking cohesion and unity."
+<br>—Prop. 19, Obs. 2
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Schérer agrees, insisting that the NT is compromised because it reflects outdated Messianic expectations that do not align with “external facts.”
 
 Peters continues in Proposition 21:
 
-<div class="peters-quote">
-“Thus e.g. Morgan (Moral Philosopher) finds… decided indications that portions of the New Testament contain a deposit of Jewish Messianic ideas… The Swiss Rationalists… declare on this ground that Jesus Christ is not the Messiah foretold by the Prophets and preached by the Apostles, simply because He did not establish the Kingdom as plainly predicted… They… insist that a fatal discrepancy exists which is not removed by the Christ and the spiritual Kingdom created by theologians.”
-<br>— <em>Prop. 21, Obs. 3</em>
-</div>
+{% capture pq %}
+"Thus e.g. Morgan (Moral Philosopher) finds… decided indications that portions of the New Testament contain a deposit of Jewish Messianic ideas… The Swiss Rationalists… declare on this ground that Jesus Christ is not the Messiah foretold by the Prophets and preached by the Apostles, simply because He did not establish the Kingdom as plainly predicted… They… insist that a fatal discrepancy exists which is not removed by the Christ and the spiritual Kingdom created by theologians."
+<br>—Prop. 21, Obs. 3
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Here is the hinge point of the controversy:
 
@@ -113,9 +117,10 @@ Peters argues that rationalism gained its greatest victories not from its own br
 
 This is his lament:
 
-<div class="peters-quote">
-“Theologians have too readily spiritualized the prophecies to make them applicable to Christ, and to the Church at present. This… provides even more ammunition to the unbeliever now that the Messiah and the Kingdom have taken on characteristics entirely different than that which was prophesied… This as well creates a disconnect between the OT & NT, breaking the force of unity which is so vital to the defense of inspiration.”
-</div>
+{% capture pq %}
+"Theologians have too readily spiritualized the prophecies to make them applicable to Christ, and to the Church at present. This… provides even more ammunition to the unbeliever now that the Messiah and the Kingdom have taken on characteristics entirely different than that which was prophesied… This as well creates a disconnect between the OT & NT, breaking the force of unity which is so vital to the defense of inspiration."
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 When the Church redefines the kingdom, the critics pounce—not because the Bible is weak, but because theological reinterpretation *made* it appear weak.
 
@@ -123,10 +128,11 @@ When the Church redefines the kingdom, the critics pounce—not because the Bibl
 
 Peters concludes that there is only one approach that both guards the integrity of Scripture and aligns with its internal harmony:
 
-<div class="peters-quote">
-“Amid the diverse and antagonistic theories, the only one that rescues the Word from unjust suspicions, that preserves the integrity of the New Testament from entangling concessions and alliances, that honors the faith and intelligent piety of ancient believers, is that which affirms that the truth itself was contained in the derivation of this phraseology, in the hopes excited by it, and in the subsequent adoption of it.”
-<br>— <em>Prop. 23, Intro</em>
-</div>
+{% capture pq %}
+"Amid the diverse and antagonistic theories, the only one that rescues the Word from unjust suspicions, that preserves the integrity of the New Testament from entangling concessions and alliances, that honors the faith and intelligent piety of ancient believers, is that which affirms that the truth itself was contained in the derivation of this phraseology, in the hopes excited by it, and in the subsequent adoption of it."
+<br>—Prop. 23, Intro
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 In other words, the only position that does not empower the critics is the one that affirms exactly what John, Jesus, and the disciples proclaimed:
 

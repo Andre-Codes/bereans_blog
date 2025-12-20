@@ -25,24 +25,27 @@ In **Proposition 3**, Peters laid out a critique that is as devastating and rele
 
 Peters did not mince words regarding the state of Kingdom theology. He observed that once the anchor of the literal Davidic throne is removed, the definition of the Kingdom loses its objective reality and <span class="kingdom-gold">drifts into pure subjectivity.</span> Without the specific geopolitical and covenanted parameters provided by the Old Testament prophets, the "Kingdom" becomes a shapeless concept, useful for rhetoric but empty of concrete meaning.
 
-<div class="peters-quote">
-“The meanings usually given to this kingdom indicate that the most vague, indefinite notions exist concerning it. Theologians, eminent for their piety and position in the Church, are now entertaining crude ideas and contradictory conceptions of the kingdom.”
-<br>— <em>[Prop. 3, Intro](/theocratic-kingdom-full/#prop-3)</em>
-</div>
+{% capture pq %}
+"The meanings usually given to this kingdom indicate that the most vague, indefinite notions exist concerning it. Theologians, eminent for their piety and position in the Church, are now entertaining crude ideas and contradictory conceptions of the kingdom."
+<br>—[Prop. 3, Intro](/theocratic-kingdom-full/#prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 He noted that this vagueness was not accidental, but a habit inherited from centuries of allegorical interpreters. By spiritualizing the text, theologians had effectively turned the "Kingdom" into a theological container for whatever concept they preferred at the moment. He traces this directly back to the influence of early allegorists like Origen and Clement of Alexandria, who <span class="kingdom-gold">prioritized hidden spiritual meanings over the plain text.</span>
 
-<div class="peters-quote">
-“For many centuries, under the interpretation given by men who have, probably unconsciously, largely imbibed the spirit of the Alexandrian school, the kingdom has been made to mean a variety of things at the option of the writer.”
-<br>— <em>[Prop. 3, Intro](/theocratic-kingdom-full/#prop-3)</em>
-</div>
+{% capture pq %}
+"For many centuries, under the interpretation given by men who have, probably unconsciously, largely imbibed the spirit of the Alexandrian school, the kingdom has been made to mean a variety of things at the option of the writer."
+<br>—[Prop. 3, Intro](/theocratic-kingdom-full/#prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 This "option of the writer" is the root of our modern crisis. It allows the interpreter to project their own cultural or theological context onto the Bible. Peters argued that when the plain grammatical sense is discarded, the text becomes a playground for "fancy," <span class="kingdom-gold">allowing philosophy to override prophecy:</span>
 
-<div class="peters-quote">
-“They engraft upon Holy Writ the deductions of Hegelian philosophy, and thus, through the great ability and learning cojoined, mislead the unwary reader... instead of discarding this looseness, [they] seem to revel in it, making the kingdom to denote almost everything that fancy connects with religion, or the Church, or even with humanity.”
-<br>— <em>[Prop. 3, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-3)</em>
-</div>
+{% capture pq %}
+"They engraft upon Holy Writ the deductions of Hegelian philosophy, and thus, through the great ability and learning cojoined, mislead the unwary reader... instead of discarding this looseness, [they] seem to revel in it, making the kingdom to denote almost everything that fancy connects with religion, or the Church, or even with humanity."
+<br>—[Prop. 3, Obs. 3](/theocratic-kingdom-full/#obs-3-prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 This looseness allows even skeptics and rationalists to play with the term. Peters cites Renan and others who strip the Kingdom of divinity entirely, redefining it as "the reign of the poor," "the liberty of the soul," or "civilization viewed religiously." When the definition is loose, it becomes a "phantom" that anyone can claim.
 
@@ -66,10 +69,11 @@ Peters dissected the commentary of Albert Barnes to illustrate this incoherence.
 
 These definitions are <span class="kingdom-gold">fundamentally contradictory</span> because they fail to observe critical scriptural distinctions. By treating the term as a flexible cipher, such interpretations collapse distinct theological categories: the proclamation concerning the Kingdom (the gospel) is confused with the reality of the Kingdom itself; the inhabitants who are to receive it (the heirs) are conflated with the reward they are promised (the inheritance). Peters cuts through this with devastating logic regarding the "heirs":
 
-<div class="peters-quote">
-“Surely the kingdom cannot possibly mean all these things, seeing that such explanations are both arbitrary and contradictory. The gospel of, or concerning, the kingdom is one fact, the kingdom itself is quite another; the dispensation in which the kingdom is to be manifested is certainly different from the kingdom which it embraces; the heirs of the kingdom are certainly not the inheritance.”
-<br>— <em>[Prop. 3, Obs. 1](/theocratic-kingdom-full/#obs-1-prop-3)</em>
-</div>
+{% capture pq %}
+"Surely the kingdom cannot possibly mean all these things, seeing that such explanations are both arbitrary and contradictory. The gospel of, or concerning, the kingdom is one fact, the kingdom itself is quite another; the dispensation in which the kingdom is to be manifested is certainly different from the kingdom which it embraces; the heirs of the kingdom are certainly not the inheritance."
+<br>—[Prop. 3, Obs. 1](/theocratic-kingdom-full/#obs-1-prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 He applies similar scrutiny to theologians like Dr. Barrow, who defined the Kingdom as "the state or constitution of religion." Peters counters that if the Kingdom is merely a "state of religion," then the Old Testament saints (who certainly had a state of religion) must have been in the Kingdom, yet the New Testament speaks of it as future.
 
@@ -98,19 +102,21 @@ This proliferation is not accidental. <span class="kingdom-gold">Each additional
 
 Peters’ assessment is devastating precisely because it is so restrained:
 
-<div class="peters-quote"> 
-“These are purely theological deductions, having no foundation whatever in Scripture... Like preceding definitions, it lowers the theocracy by denying to it the reality of being in all respects the kingdom of God. This alone should cause us to receive it with grave doubts.” 
-<br>— <em>[Prop. 3, Obs. 4](/theocratic-kingdom-full/#obs-4-prop-3)</em> 
-</div>
+{% capture pq %}
+"These are purely theological deductions, having no foundation whatever in Scripture... Like preceding definitions, it lowers the theocracy by denying to it the reality of being in all respects the kingdom of God. This alone should cause us to receive it with grave doubts."
+<br>—[Prop. 3, Obs. 4](/theocratic-kingdom-full/#obs-4-prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 ### **The Chronological Chaos**
 
 If the *nature* of the Kingdom is confused, the *timing* is even worse. Peters points out that because theologians have abandoned the specific Davidic restoration, they cannot agree on when the Kingdom began.
 
-<div class="peters-quote">
-“Those who give us such definitions, antagonistic to the primitive Church view, exhibit also the greatest diversity among themselves respecting the commencement of this kingdom in its supposed present form. They are as little agreed concerning its beginning as in its meaning.”
-<br>— <em>[Prop. 3, Obs. 8](/theocratic-kingdom-full/#obs-8-prop-3)</em>
-</div>
+{% capture pq %}
+"Those who give us such definitions, antagonistic to the primitive Church view, exhibit also the greatest diversity among themselves respecting the commencement of this kingdom in its supposed present form. They are as little agreed concerning its beginning as in its meaning."
+<br>—[Prop. 3, Obs. 8](/theocratic-kingdom-full/#obs-8-prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 A direct symptom of these vague definitions is the profound lack of consensus on when the Kingdom actually began. Theologians have proposed numerous, conflicting start dates, including:
 
@@ -126,11 +132,12 @@ This radical disagreement on a point as fundamental as the Kingdom's inauguratio
 
 He asks a piercing question regarding this uncertainty:
 
-<div class="peters-quote">
-“Is it not remarkable that a kingdom of God, so distinctively covenanted and predicted, should be so indefinite in its commencement that eminent and pious men are unable to point out its beginning with any degree of absolute certainty?...Surely, is it
-not wise to consider that such a diversity, unknown to Scripture, and based solely on assertion, may arise from some mistake, a fatal flaw in its meaning? Having a kingdom to find and at present existing (over against the plainest statements of Scripture to the contrary), it is easy to see how such a confusion and variety arises.”
-<br>— <em>[Prop. 3, Obs. 8](/theocratic-kingdom-full/#obs-8-prop-3)</em>
-</div>
+{% capture pq %}
+"Is it not remarkable that a kingdom of God, so distinctively covenanted and predicted, should be so indefinite in its commencement that eminent and pious men are unable to point out its beginning with any degree of absolute certainty?...Surely, is it
+not wise to consider that such a diversity, unknown to Scripture, and based solely on assertion, may arise from some mistake, a fatal flaw in its meaning? Having a kingdom to find and at present existing (over against the plainest statements of Scripture to the contrary), it is easy to see how such a confusion and variety arises."
+<br>—[Prop. 3, Obs. 8](/theocratic-kingdom-full/#obs-8-prop-3)
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 He highlights the contradiction between those who say the Kingdom has been continuous throughout history and those who admit the New Testament presents it as something "new." The spiritualizing method leaves us with a Kingdom that is <span class="kingdom-gold">everywhere and nowhere</span>, eternal and yet "at hand," creating a fog that obscures the clear timeline of prophecy.
 

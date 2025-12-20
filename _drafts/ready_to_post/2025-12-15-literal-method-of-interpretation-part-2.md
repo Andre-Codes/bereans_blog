@@ -22,10 +22,11 @@ Peters answers this charge by appealing not to theory, but to **history itself**
 
 Peters insists that grammatical interpretation was not merely one option among many in the early Church—it was the *default*.
 
-<div class="peters-quote">
-“The primitive Church occupied this position… what the understanding can daily make use of, what it can easily know, is that which lies before our eyes, unambiguously, literally, and clearly in Holy Writ.”
-<br>— <em>Prop. 4, Obs. 1</em>
-</div>
+{% capture pq %}
+"The primitive Church occupied this position… what the understanding can daily make use of, what it can easily know, is that which lies before our eyes, unambiguously, literally, and clearly in Holy Writ."
+<br>—Prop. 4, Obs. 1
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 This posture did not emerge in a vacuum. It stood in continuity with the **earliest Jewish approach to Scripture**, particularly after the Babylonian exile, when the people of Israel—removed from temple and land—were forced to cling to the written Word itself.
 
@@ -71,16 +72,18 @@ That fork in the road would soon cross into Christianity.
 
 Peters identifies the decisive moment with unmistakable clarity:
 
-<div class="peters-quote">
+{% capture pq %}
 The early Christians in their simplicity and faith occupied our posture, and therefore held a doctrine concerning the kingdom, which, by a change to another attitude, is now regarded by the masses as erroneous. We are mainly indebted to Origen for this transformation, he giving the leverage through which it was accomplished.
-<br>— <em>Prop. 4, Obs. 6</em>
-</div>
+<br>—Prop. 4, Obs. 6
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Origen did not deny the literal sense. He **demoted it**;
 
-<div class="peters-quote">
-“He laid down the principle ‘*that the Scriptures are of little use to those who understand them as they are written*.’”
-</div>
+{% capture pq %}
+"He laid down the principle ‘*that the Scriptures are of little use to those who understand them as they are written*.’"
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Rather then understanding the Scriptures *as they are written*, Origen urged readers to seek a hidden meaning. Adopting Philo’s framework, Origen proposed a threefold meaning of Scripture:
 
@@ -219,23 +222,25 @@ Against this backdrop, Peters turns to the texts most often used to justify alle
 
 Peters calls this appeal not merely mistaken, but destructive.
 
-<div class="peters-quote">
-“If the ‘literal’ application ‘killeth,’ how does it come then that God gives His word in such a form? …Would He give truth surrounded by a deadly covering?”
-<br>— <em>Prop. 4, Obs. 3</em>
-</div>
+{% capture pq %}
+"If the ‘literal’ application ‘killeth,’ how does it come then that God gives His word in such a form? …Would He give truth surrounded by a deadly covering?"
+<br>—Prop. 4, Obs. 3
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 To make this verse condemn grammatical interpretation is, Peters argues, to indict God Himself.
 
 The contrast is not between literal and spiritual interpretation, but between **Christless possession of truth** and **Christ-filled fulfillment of it**. The letter without Christ condemns; the letter fulfilled in Christ gives life.
 
-<div class="peters-quote">
+{% capture pq %}
 The simple, unpretending meaning of the verse is this: that the Word of God in its letter (i.e. in its plain, unambiguous written form) cannot
 give life; that possessing the letter alone would inevitably lead to death, for having only the letter the
 covenant promises could not be realized, but that having the Spirit, even Christ, the assurance is given
 that the letter itself—death without Christ or the Spirit—or the promises of God contained in the letter,
 shall be duly verified and accomplished
-<br>— <em>Prop. 4, Obs. 3</em>
-</div>
+<br>—Prop. 4, Obs. 3
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 ---
 
@@ -243,9 +248,10 @@ shall be duly verified and accomplished
 
 Here again Peters dismantles the mystical reading:
 
-<div class="peters-quote">
-“‘Spiritually discerned’ is discerning ‘the things of the Spirit,’ i.e., things given by the Spirit… submitting ourselves to the guidance and enlightening influence of the Spirit through the written Word.”
-</div>
+{% capture pq %}
+"'Spiritually discerned' is discerning 'the things of the Spirit,' i.e., things given by the Spirit… submitting ourselves to the guidance and enlightening influence of the Spirit through the written Word."
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 The Spirit does not replace the text. He illumines it.
 
@@ -265,9 +271,10 @@ When unbelievers point out that Scripture plainly teaches a future, visible King
 
 Peters records this with undisguised alarm.
 
-<div class="peters-quote">
-“The apostles and early believers are made to put their faith in a ‘chimera,’ a ‘materialistic husk,’ which later ages discard as error.”
-</div>
+{% capture pq %}
+"The apostles and early believers are made to put their faith in a ‘chimera,’ a ‘materialistic husk,’ which later ages discard as error."
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 The result is catastrophic:
 
@@ -288,10 +295,11 @@ At that point, disagreement is no longer an accident, it is inevitable.
 
 Peters ends where he began—with a rule that predates the controversy:
 
-<div class="peters-quote">
-“Where a literal construction will stand, the furthest from the letter is commonly the worst.”
-<br>— <em>Hooker</em>
-</div>
+{% capture pq %}
+"Where a literal construction will stand, the furthest from the letter is commonly the worst."
+<br>—Hooker
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 This is not stubbornness. It is reverence.
 

@@ -133,6 +133,18 @@ As stated in Observation 8:
 
 It is only by accepting their definition of the Kingdom that we can hope for “a consistent pleading, justification, and protection against the Strauss and Bauer school.” The doctrine of the Kingdom vindicates the apostles and proves that the Bible is a unified document rather than a collection of evolving religious sentiments.
 
+{% capture strauss_and_bauer %}
+In the nineteenth century, German higher criticism reached a decisive stage with figures such as David Friedrich Strauss and Ferdinand Christian Baur, whose work collectively shaped what later writers (including Peters) referred to as the Strauss–Bauer school. Strauss argued that the Gospel narratives—especially miracles and Kingdom expectations—were not straightforward history but mythical expressions of early Christian belief. In his view, the apostles sincerely expected a Jewish, earthly kingdom, yet their expectation reflected first-century apocalyptic imagination rather than divine reality.
+
+Baur, founder of the **Tübingen** School, advanced a more systematic and influential critique. He did not deny apostolic sincerity, but he treated apostolic theology as historically conditioned and developmentally limited. Using a Hegelian framework, Baur argued that early Christianity evolved through stages—thesis, antithesis, and synthesis—culminating in a mature “church consciousness” that surpassed the apostles’ original understanding. In this model, the apostles proclaimed the Kingdom using Jewish categories that later theology was required to transcend.
+
+Though Strauss and Baur differed the severity of their criticism, they shared a decisive conclusion: the apostles were not final authorities on the nature of the Kingdom they preached. As Peters later observed, <span class="kingdom-gold">this judgment exerted enormous pressure on subsequent theology.</span> Once apostolic expectation is labeled provisional (whether as myth (Strauss) or limitation (Baur)) Scripture no longer functions as the final interpretive court. Even where skepticism is rejected, the logic of development correcting apostolic understanding quietly remains.
+
+A later post will trace how this logic survives—often unintentionally—within modern theological systems of most churches today. While these traditions reject higher criticism outright, they frequently retain its verdict at a methodological level, spiritualizing the Kingdom and re-locating fulfillment away from the concrete expectations held by the apostles themselves and believed in by the early Church for nearly three centuries.
+
+{% endcapture %}
+{% include callout.html type="info" title="More on Strauss & Bauer School" content=strauss_and_bauer collapsible=true %}
+
 We briefly discussed Apostle expectation and secular criticism in this in the prior 3-part series **The Kingdom Framework** beginning with [The Familiar Announcement](/2025/12/07/familiar-announcement/). Later propositions (e.g. 19-22) will explore this in greater depth.
 
 ---

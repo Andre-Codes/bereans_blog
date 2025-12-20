@@ -13,10 +13,11 @@ Covenant, redemption, resurrection, Israel, the Church, and the future are all t
 
 Peters warns that this drift is not accidental:
 
-<div class="peters-quote">
+{% capture pq %}
 “For many centuries, under the interpretation given by men who have, probably unconsciously, largely imbibed the spirit of the Alexandrian school, the kingdom has been made to mean a variety of things at the option of the writer. Modern authors, with but few exceptions, instead of discarding this looseness, seem to revel in it, making the kingdom to denote almost everything that fancy connects with religion… or even with humanity.”
-<br>— <em>Prop. 3, intro</em>
-</div>
+<br>—Prop. 3, intro
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 The result is a view of the Kingdom that is symbolic, flexible, and endlessly adjustable, rather than the concrete, covenantal reality Scripture presents.
 
@@ -36,9 +37,10 @@ For Peters, stability comes not from novelty but from Scripture itself. He insis
 
 Peters’ own argument stands firmly within this tradition:
 
-<div class="peters-quote">
+{% capture pq %}
 "What God says is true, what man says may be true; and the truthfulness of the latter can be ascertained, its certainty demonstrated, by comparing it with that which God has declared. If the comparison is favorable, let us accept of it; if unfavorable, then let us have the Christian manhood to reject it, no matter under whose name, patronage, or auspices it is given. Rendering the regard due to the writings of others, it does not follow that we must elevate them to the position of competitors of, or peers with the Divine utterances. Such a test the author solicits from the reader, bringing to the consideration of the subject an impartial judgment, and weighing its value and authority in the scripture balance and not in human scales. Every sincere lover of the truth, even should his labor be rejected in part or whole, must feel honored by the institution of such a comparison."
-</div>
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 That comparison, he argues, leads the careful reader back to the ancient view—the Kingdom promised to David, preached by John, offered by Christ, expected by the apostles, and embraced by the early Church: <span class="kingdom-gold">a literal, restored, earthly reign under the Messiah.</span>
 
@@ -48,9 +50,10 @@ That comparison, he argues, leads the careful reader back to the ancient view—
 
 Peters presses this point even further by reminding readers that the literal Kingdom is anything but a theological novelty.
 
-<div class="peters-quote">
-“It is far older than the Christian Church.”
-</div>
+{% capture pq %}
+"It is far older than the Christian Church."
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Long before the apostles preached the gospel, Israel’s prophets and the Jewish people themselves expected a restored land, a restored throne, and a real Messiah reigning over a real Kingdom. This anticipation shaped their national hope and framed their reading of Scripture; it was the expectation Jesus stepped into—not an ethereal ideal, but the fulfillment of covenants grounded in geography, monarchy, and unconditional promise.
 
@@ -61,15 +64,17 @@ Yet this ancient expectation stands in stark contrast to how some modern voices 
 
 Peters anticipated this kind of response a century before Chilton. Long before modern debates polarized the discussion, he insisted that a restored, Davidic Kingdom was neither new nor sectarian but the original, unified belief of God’s people:
 
-<div class="peters-quote">
-“The doctrine herein advocated… must not be regarded in the light of a novelty. It is far older than the Christian Church, and was ably advocated by the founders and immediate supporters of that Church. The Apostolic Fathers and many of their successors endorsed it… We therefore are not open to the charge of introducing a ‘modern novelty.’”
-</div>
+{% capture pq %}
+"The doctrine herein advocated… must not be regarded in the light of a novelty. It is far older than the Christian Church, and was ably advocated by the founders and immediate supporters of that Church. The Apostolic Fathers and many of their successors endorsed it… We therefore are not open to the charge of introducing a ‘modern novelty.’"
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 And he presses the point further, responding directly to those who mock this view as a return to “Jewish forms”:
 
-<div class="peters-quote">
-“Persons of reflection… perceive how deeply we are indebted to ‘Jewish forms,’ even if unable to accept of its teachings, regard its faith with respect. Indeed, it is difficult to apprehend how any one can scorn that which inspired a hope that supported and strengthened the ancient steadfast witnesses for the truth… Cut off the believers of this very kingdom as they existed and testified in the first, second, and third centuries, and where would be the Church?”
-</div>
+{% capture pq %}
+"Persons of reflection… perceive how deeply we are indebted to ‘Jewish forms,’ even if unable to accept of its teachings, regard its faith with respect. Indeed, it is difficult to apprehend how any one can scorn that which inspired a hope that supported and strengthened the ancient steadfast witnesses for the truth… Cut off the believers of this very kingdom as they existed and testified in the first, second, and third centuries, and where would be the Church?"
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 Peters’ historical reminder sets the stage for the theological clarity expressed by John Walvoord, who expands this argument into a full defense of premillennialism rooted in the entire sweep of Scripture:
 
@@ -95,9 +100,10 @@ These insights mirror Peters’ own: <span class="kingdom-gold">revisiting the K
 
 Peters understood this reluctance. He saw that most readers prefer the security of familiar frameworks—even if those frameworks conflict with Scripture. And he warned, with prophetic emphasis, that discussions like his would be unwelcome in times of comfort:
 
-<div class="peters-quote">
-“In this period of prosperity, of sanguine hope of continued and ever-increasing peace and happiness, the minds and hearts of the multitude will be closed against all appeal, all instruction.”
-</div>
+{% capture pq %}
+"In this period of prosperity, of sanguine hope of continued and ever-increasing peace and happiness, the minds and hearts of the multitude will be closed against all appeal, all instruction."
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 When life is stable, systems feel sufficient. Abstract theology satisfies curiosity. Seminary debates remain safely academic. Few feel compelled to wrestle seriously with the future reign of Christ when present explanations seem adequate.
 
@@ -107,7 +113,10 @@ It is then, Peters argues, that the biblical Kingdom is rediscovered not as an a
 
 Yet he stresses that such future revival of this doctrine will not be driven by philosophical depth, scholarly novelty, or theological fashion, but by Scripture itself:
 
-<div class="peters-quote"> “Such a future estimation is not based on literary or theological merits… but solely upon a strict adhesion to and firm belief in the Infallible Word of God, under the guidance of a legitimate rule of interpretation.” </div>
+{% capture pq %}
+"Such a future estimation is not based on literary or theological merits… but solely upon a strict adhesion to and firm belief in the Infallible Word of God, under the guidance of a legitimate rule of interpretation."
+{% endcapture %}
+{% include peters-quote.html content=pq %}
 
 <span class="kingdom-gold">In other words, the Kingdom doctrine will matter most not when people want theory, abstraction, or intellectual comfort—but when they need concrete truth.</span>
 
