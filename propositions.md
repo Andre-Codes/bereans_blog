@@ -6,6 +6,8 @@ permalink: /propositions/
 
 This index lists the propositions from G.N.H. Peters' *The Theocratic Kingdom* that have been discussed in our blog posts.
 
+> Note: Posts that are part of the main prop-by-prop study are highlighted
+
 {% assign all_props = "" | split: "" %}
 {% for post in site.posts %}
   {% if post.propositions %}
