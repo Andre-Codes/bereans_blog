@@ -8,10 +8,6 @@ propositions: [1]
 image: /assets/post_images/golden_thread.png
 ---
 
-In the vast landscape of biblical theology, there is one subject that acts as the magnetic north for all others. If the compass is off here, the entire map of redemption becomes distorted.
-
-This is the core argument of G. N. H. Peters’ first proposition in *The Theocratic Kingdom*: <span class="kingdom-gold">the doctrine of the Kingdom is not a peripheral theme, but the organizing principle that clarifies everything else.</span>
-
 In this post we will jump right in and explore the first proposition. Then, we will take a brief detour to establish a high-level context and backdrop before moving on to *proposition 2* and beyond.
 
 <div class="proposition">
@@ -145,13 +141,13 @@ A later post will trace how this logic survives—often unintentionally—within
 {% endcapture %}
 {% include callout.html type="info" title="More on Strauss & Bauer School" content=strauss_and_bauer collapsible=true %}
 
-We briefly discussed Apostle expectation and secular criticism in this in the prior 3-part series **The Kingdom Framework** beginning with [The Familiar Announcement](/2025/12/07/familiar-announcement/). Later propositions (e.g. 19-22) will explore this in greater depth.
+We briefly discussed Apostle expectation and secular criticism in this and the prior 3-part series **The Kingdom Framework** beginning with [The Familiar Announcement](/2025/12/07/familiar-announcement/). Later propositions (e.g. 19-22) will explore this in much greater depth.
 
 ---
 
 # **A Subject of Magnitude**
 
-Ultimately, the study of the Kingdom is not just for scholars; it is the inheritance of the believer. It connects the past, present, and future into one cohesive plan.
+Ultimately, the study of the Kingdom is not just for theological debates or seminaries; it is the inheritance of the believer. It connects the past, present, and future into one cohesive plan.
 
 {% capture pq %}
 "The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine."
@@ -160,18 +156,6 @@ Ultimately, the study of the Kingdom is not just for scholars; it is the inherit
 {% include peters-quote.html content=pq %}
 
 To study the Kingdom is to study the heart of God’s plan for the ages. It is, as Peters concludes, the key that unlocks the unity of the Divine will, “exhibiting manifested unity... and vindicating the inspiration of Holy Writ.”
-
----
-
-
-# **The Kingdom Before the Beginning**
-
-When the Kingdom is understood as Scripture presents it—as the covenanted, Davidic, earthly reign of the Messiah—Christ is not eclipsed but unveiled. His cross secures it, His resurrection guarantees it, His ascension anticipates it, and His return consummates it.
-
-This is the story the prophets told, the apostles preached, and Peters sought to recover: <span class="kingdom-gold">a Kingdom that magnifies the King because it is His Kingdom—His inheritance—His stage of unveiled majesty.</span>
-
-If the King and the Kingdom are inseparable, the next question naturally follows:
-How far back does this plan go?
 
 *[Proposition 2](/theocratic-kingdom-full/#prop-2)* takes us behind the curtain of history itself. Peters argues that the Kingdom is not an afterthought, not a reaction, not a patch added to a failing world. It was designed, established, and prepared before the foundation of the world—woven into the very architecture of creation and redemption.
 
