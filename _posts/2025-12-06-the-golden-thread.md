@@ -5,6 +5,7 @@ date: 2025-12-06 12:00:00 -0500
 categories: [Systematic Theology, Hermeneutics]
 tags: [Exegesis, Gospel of the Kingdom]
 propositions: [1]
+primary_prop: 1
 image: /assets/post_images/golden_thread.png
 ---
 

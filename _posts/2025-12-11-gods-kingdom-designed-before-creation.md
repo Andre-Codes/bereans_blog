@@ -5,6 +5,7 @@ date:   2025-12-11 12:00:00 -0500
 categories: [Biblical Studies]
 tags: [Creation]
 propositions: [2]
+primary_prop: 2
 image: /assets/post_images/kingdom_before_eternity.png
 ---
 
@@ -85,7 +86,7 @@ Why has history unfolded in this specific way? Peters suggests that the very age
 {% endcapture %}
 {% include peters-quote.html content=pq %}
 
-Whether we look at the Adamic, Abrahamic, or Church ages, they are “ordered in their succession as part of the Divine purpose in relation to this kingdom” (1 Corinthians 2:7). In Matt. 24:3 the disciples even inquire about the <span class="scripture">end of the age</span>, indicating that the ages themselves are tied to the Kingdom’s fulfillment.
+Whether we look at the Adamic, Abrahamic, or Church ages, they are not random dispensations but are, as Paul describes, moving toward a divinely appointed final age in which all things are summed up under Christ (Eph. 1:10 KJV). The ages, then, are not merely periods of time but stages in a unified plan, progressing toward the visible reign of the King. This is why, in Matthew 24:3, the disciples ask about “the end of the age”: they understood that the close of an age signals not chaos, but the next decisive step in the Kingdom’s fulfillment.
 
 ### **The Unchanging Nature of the Plan**
 

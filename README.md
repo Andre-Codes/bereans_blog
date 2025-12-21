@@ -51,6 +51,15 @@ propositions: [1, 19]
 ```
 
 The badge is generated in the post layout and styled with the `.proposition-badge` class. Use numeric proposition identifiers only; the layout will format and display them for you.
+You may also set a single primary proposition to mark this post as the main treatment for that proposition:
+
+```yaml
+propositions: [1, 19]
+primary_prop: 1   # single numeric value
+```
+
+When `primary_prop` is present the post shows a distinct primary badge and the Propositions index highlights the post for that proposition.
+You can also specify a single primary proposition for a post using `primary_prop: 2` (a single numeric value). When set, the post will show a distinct "Primary Prop" badge in the header, and on the [Propositions Index](/propositions/) the post entry for that proposition will be emphasized with a highlighted box.
 
 ### Feature callout / Feature grid
 
@@ -142,7 +151,11 @@ Option B — preferred (reusable include): capture the quote and use the `peters
 "The kingdom embraces so much, both in preparation and in actual realization, that, in view of its extent, the doctrine exceeds all others in magnitude, enfolding in itself nearly all doctrine."
 <br>— [Prop. 1, Obs. 7](/theocratic-kingdom-full/#obs-7-prop-1)
 {% endcapture %}
+Use the `_includes/peters-quote.html` include like this:
+
+```liquid
 {% include peters-quote.html content=pq %}
+```
 
 ```
 

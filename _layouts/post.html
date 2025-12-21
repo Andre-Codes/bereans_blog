@@ -14,8 +14,9 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
 
-    {%- if page.propositions -%}
+    {%- if page.propositions or page.primary_prop -%}
     <div class="proposition-badge-container">
+      {%- if page.propositions -%}
       <span class="proposition-badge">
         {%- if page.propositions.size > 1 -%}
           Props {{ page.propositions | join: ", " }}
@@ -23,6 +24,13 @@ layout: default
           Prop {{ page.propositions | first }}
         {%- endif -%}
       </span>
+      {%- endif -%}
+
+      {%- if page.primary_prop -%}
+      <span class="primary-proposition-badge">
+        Primary Prop {{ page.primary_prop }}
+      </span>
+      {%- endif -%}
     </div>
     {%- endif -%}
   </header>

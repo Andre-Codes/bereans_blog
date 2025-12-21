@@ -32,8 +32,15 @@ This index lists the propositions from G.N.H. Peters' *The Theocratic Kingdom* t
       {% for post in site.posts %}
         {% if post.propositions contains prop %}
           <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <small>({{ post.date | date: "%b %-d, %Y" }})</small>
+            {% if post.primary_prop == prop %}
+              <div class="primary-prop-highlight">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                <small>({{ post.date | date: "%b %-d, %Y" }})</small>
+              </div>
+            {% else %}
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              <small>({{ post.date | date: "%b %-d, %Y" }})</small>
+            {% endif %}
           </li>
         {% endif %}
       {% endfor %}

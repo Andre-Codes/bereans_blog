@@ -36,10 +36,20 @@ If this observation is true—and it is plainly seen on the surface of the text�
 
 # **The Announcement Itself**
 
-<div class="scripture-quote">“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying, ‘Repent, for the kingdom of heaven is at hand.’” -Matthew 3:1–2
+<div class="scripture-quote">
+“Now in those days John the Baptist came, preaching in the wilderness of Judea, saying, ‘Repent, for the kingdom of heaven is at hand.’” (Matthew 3:1–2)
 </div>
 
 The simplicity of this announcement is easy to glide over. Many words and phrases in Scripture are dismissed because they do not fit modern interpretive frameworks. But here the simplicity is the point: <span class="kingdom-gold">John assumes his hearers already know exactly what “the kingdom” means.</span>
+
+This assumption is not unique to John. The same Kingdom is announced repeatedly, by different messengers, in different settings—without redefinition or clarification—suggesting a shared, settled understanding among first-century hearers:
+
+| ------------------------------- | --------------------------------------------------------- |
+| **John the Baptist**            | Matthew 3:2<br>Mark 1:3–4<br>Luke 3:3                     |
+| **Jesus’ initial proclamation** | Matthew 4:17<br>Mark 1:14–15<br>Luke 4:43                 |
+| **Early Galilean ministry**     | Matthew 10:7<br>Luke 8:1                                  |
+| **Public teaching summaries**   | Matthew 9:35<br>Matthew 13:1–52<br>Mark 4:11<br>Luke 9:11 |
+| **Sending out the Seventy**     | Luke 10:9, 11                                            |
 
 Theologians across traditions acknowledge this but often treat it as unimportant—or worse, attempt to explain it away. Peters notices that some simply pass the issue in silence, while others produce explanations that unintentionally insult the intelligence of the age, undermine the believers living then, and disturb confidence in the Word itself. All of which we will delve into more in future posts.
 
@@ -76,16 +86,20 @@ Peters notes that modern attempts to reinterpret the kingdom have given destruct
 {% endcapture %}
 {% include peters-quote.html content=pq %}
 
+What is spiritual in the New Testament is not the Kingdom itself, but qualifications for participation: repentance, new birth, faith, humility. The doorway is spiritual; the house is not reimagined. In modern theology, however, the entire house is remodeled, and this has opened the door for critics to challenge the entire structure.
+
 Some critics went so far as to say:
 
-* Jesus and the apostles were *deceived* by Jewish expectations.
+* The apostles, and even Jesus, were *deceived* by Jewish expectations.
 * They attempted to apply Messianic prophecies to themselves and *failed.*
-* Jesus’ ministry began under prophetic “illusions” that later had to be reshaped.
+* Jesus’ ministry began under prophetic “illusions” that later had to be *reshaped*.
 
 Others argued that the disciples and early church simply absorbed “Jewish forms” and that the New Testament contains deposits of erroneous ancient expectations.
 
 Peters summarizes the problem pointedly:
 <span class="kingdom-gold">If the kingdom is not what the prophets described—if Jesus preached something fundamentally different—then the critics look painfully reasonable.</span>
+
+At this point, the issue cannot be dismissed by claiming that the Kingdom was later redefined, developed, or revealed to be something fundamentally different in nature. That move only postpones the problem, it does not solve it. It immediately raises harder questions: Who made that claim? Where is it revealed? When does Scripture announce that the prophetic Kingdom has been transformed into something else? As we will examine in depth later, the New Testament provides no such moment of disclosure. There is no doctrinal handoff, no explanatory reset, no correction of Israel’s expectation. This silence is not incidental; it is precisely where critics of the biblical narrative press their case, and where modern systems quietly assume what the text never states.
 
 ---
 
@@ -154,12 +168,12 @@ If the kingdom is spiritualized, the unity of Scripture fractures. The integrity
 This first post establishes the central observation:
 **The announcement of the kingdom was preached as something already understood.**
 
-From this foundation, the next posts will ask:
-
-* What *exactly* did first-century Jews expect the kingdom to be?
-* Who held those expectations, and on what grounds?
-* When the disciples expressed those expectations, did Jesus correct them—or confirm them?
-
 Post 2 will explore how various theories attempted to reconcile the announcement with non-literal interpretations—and why those attempts fail.
 
 Post 3 will turn fully to the expectations themselves: the Davidic covenant, the prophetic promises, and how the first-century Jewish mind understood them.
+
+---
+
+<br>
+
+---
